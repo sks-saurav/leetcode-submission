@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/sks-saurav/leetcode-submission/tree/master/0091-decode-ways) |
 | [1025-divisor-game](https://github.com/sks-saurav/leetcode-submission/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/sks-saurav/leetcode-submission/tree/master/1025-divisor-game) |
+## String
+|  |
+| ------- |
+| [0091-decode-ways](https://github.com/sks-saurav/leetcode-submission/tree/master/0091-decode-ways) |
 <!---LeetCode Topics End-->
