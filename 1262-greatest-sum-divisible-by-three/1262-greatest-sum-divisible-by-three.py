@@ -1,15 +1,30 @@
 class Solution:
     def maxSumDivThree(self, nums: List[int]) -> int:
-        
-        @cache
-        def helper(idx, rem):
-            if idx < 0:
-                return 0 if rem == 0 else float('-inf')
+        ## BOTTOM UP
+        dp = [0, float('-inf'), float('-inf')]
 
-            ans = float('-inf')
-            ans = max(ans, helper(idx-1, (rem - nums[idx]) % 3) + nums[idx])
-            ans = max(ans, helper(idx-1, rem))
+        for num in nums:
+            next_dp = dp[:]
+            
+            for rem in range(3):
+                next_rem = (rem + num) % 3
+                next_dp[next_rem] = max(next_dp[next_rem], dp[rem] + num)
+            
+            dp = next_dp
 
-            return ans
+        return dp[0]
 
-        return helper(len(nums)-1, 0)
+
+        ## MEMOIZATION
+        # @cache
+        # def helper(idx, rem):
+        #     if idx < 0:
+        #         return 0 if rem == 0 else float('-inf')
+
+        #     ans = float('-inf')
+        #     ans = max(ans, helper(idx-1, (rem - nums[idx]) % 3) + nums[idx])
+        #     ans = max(ans, helper(idx-1, rem))
+
+        #     return ans
+
+        # return helper(len(nums)-1, 0)
