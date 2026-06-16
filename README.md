@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0091-decode-ways](https://github.com/sks-saurav/leetcode-submission/tree/master/0091-decode-ways) |
 | [0639-decode-ways-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0639-decode-ways-ii) |
+| [3612-process-string-with-special-operations-i](https://github.com/sks-saurav/leetcode-submission/tree/master/3612-process-string-with-special-operations-i) |
 ## Greedy
 |  |
 | ------- |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sks-saurav/leetcode-submission/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/sks-saurav/leetcode-submission/tree/master/3612-process-string-with-special-operations-i) |
 <!---LeetCode Topics End-->
