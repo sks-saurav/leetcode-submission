@@ -1,26 +1,18 @@
 class Solution:
     def processStr(self, s: str) -> str:
-        st = []
+        ans = ""
 
-        for ch in s:
-            if ch == '*':
-                if st:
-                    st.pop()
+        for x in s:
+            if x == '*':
+                ans = ans[:-1]
 
-            elif ch == '#':
-                l = len(st)
-                for i in range(l):
-                    st.append(st[i])
+            elif x == '#':
+                ans += ans
 
-            elif ch == '%':
-                tst = []
-                while st:
-                    tst.append(st.pop())
-                st = tst
+            elif x == '%':
+                ans = ans[::-1]
 
             else:
-                st.append(ch)
+                ans +=x
 
-
-        return ''.join(st)
-
+        return ans
