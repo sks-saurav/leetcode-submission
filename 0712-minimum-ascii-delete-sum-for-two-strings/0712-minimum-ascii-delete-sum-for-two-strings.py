@@ -5,14 +5,10 @@ class Solution:
         def helper(i1, i2):
             cost = 0
             if i1 < 0:
-                for i in range(i2+1):
-                    cost += ord(s2[i])
-                return cost
+                return sum(ord(c) for c in s2[:i2+1])
 
             if i2 < 0:
-                for i in range(i1+1):
-                    cost += ord(s1[i])
-                return cost
+                return sum(ord(c) for c in s1[:i1+1])
 
             cost1 = float('inf')
             
