@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/sks-saurav/leetcode-submission/tree/master/0646-maximum-length-of-pair-chain) |
 | [1105-filling-bookcase-shelves](https://github.com/sks-saurav/leetcode-submission/tree/master/1105-filling-bookcase-shelves) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/sks-saurav/leetcode-submission/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sks-saurav/leetcode-submission/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1105-filling-bookcase-shelves](https://github.com/sks-saurav/leetcode-submission/tree/master/1105-filling-bookcase-shelves) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/sks-saurav/leetcode-submission/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1278-palindrome-partitioning-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/1278-palindrome-partitioning-iii) |
+| [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sks-saurav/leetcode-submission/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 ## Brainteaser
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sks-saurav/leetcode-submission/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1278-palindrome-partitioning-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/1278-palindrome-partitioning-iii) |
 | [1405-longest-happy-string](https://github.com/sks-saurav/leetcode-submission/tree/master/1405-longest-happy-string) |
+| [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sks-saurav/leetcode-submission/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [3612-process-string-with-special-operations-i](https://github.com/sks-saurav/leetcode-submission/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/3614-process-string-with-special-operations-ii) |
 ## Greedy
