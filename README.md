@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sks-saurav/leetcode-submission/tree/master/0001-two-sum) |
+| [1189-maximum-number-of-balloons](https://github.com/sks-saurav/leetcode-submission/tree/master/1189-maximum-number-of-balloons) |
 ## Binary Search
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/sks-saurav/leetcode-submission/tree/master/0091-decode-ways) |
 | [0639-decode-ways-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0639-decode-ways-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sks-saurav/leetcode-submission/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1189-maximum-number-of-balloons](https://github.com/sks-saurav/leetcode-submission/tree/master/1189-maximum-number-of-balloons) |
 | [1278-palindrome-partitioning-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/1278-palindrome-partitioning-iii) |
 | [1405-longest-happy-string](https://github.com/sks-saurav/leetcode-submission/tree/master/1405-longest-happy-string) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sks-saurav/leetcode-submission/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1405-longest-happy-string](https://github.com/sks-saurav/leetcode-submission/tree/master/1405-longest-happy-string) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/sks-saurav/leetcode-submission/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
