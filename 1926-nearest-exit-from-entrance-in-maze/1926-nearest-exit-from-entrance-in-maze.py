@@ -2,28 +2,23 @@ from collections import deque
 
 class Solution:
     def nearestExit(self, maze: List[List[str]], entrance: List[int]) -> int:
-        que = deque([entrance])
-        step = 0
-        n, m = len(maze), len(maze[0])
-        visited = [[False] * m for _ in range(n)]
-        visited[entrance[0]][entrance[1]] = True
-
+        rows, cols = len(maze), len(maze[0])
+        start_r, start_c = entrance
+        
+        que = deque([(start_r, start_c, 0)])
+        maze[start_r][start_c] = '+'
+        directions = [(1, 0), (-1, 0), (0, 1), (0, -1)]
+        
         while que:
-            ll = len(que)
-            for _ in range(ll):
-                x, y = que.popleft()
-                if x == 0 or y == 0 or x == n-1 or y == m-1:
-                    if not (x == entrance[0] and y == entrance[1]):
-                        return step 
-
-                for dx, dy in [(1,0), (-1,0), (0,1), (0,-1)]:
-                    nx = x + dx
-                    ny = y + dy
-                    if nx >= 0 and nx < n and ny >= 0 and ny < m:
-                        if maze[nx][ny] == '.' and not visited[nx][ny]:
-                            visited[nx][ny] = True
-                            que.append([nx, ny])
-
-            step += 1
-
+            r, c, steps = que.popleft()
+            
+            for dr, dc in directions:
+                nr, nc = r + dr, c + dc
+                if 0 <= nr < rows and 0 <= nc < cols and maze[nr][nc] == '.':
+                    if nr == 0 or nr == rows - 1 or nc == 0 or nc == cols - 1:
+                        return steps + 1
+                    
+                    maze[nr][nc] = '+'
+                    que.append((nr, nc, steps + 1))
+                    
         return -1
