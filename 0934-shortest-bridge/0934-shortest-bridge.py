@@ -14,15 +14,15 @@ class Solution:
                 if 0 <= x < row and 0 <= y < col and grid[x][y] == 1:
                     dfs(x, y)
 
-        break_outer = False
-        for i in range(row):
-            for j in range(col):
-                if grid[i][j] == 1:
-                    dfs(i, j)
-                    break_outer = True
-                    break
-            if break_outer:
-                break
+        def get_first_island_cell():
+            for r in range(row):
+                for c in range(col):
+                    if grid[r][c] == 1:
+                        return r, c
+            return -1, -1
+
+        start_r, start_c = get_first_island_cell()
+        dfs(start_r, start_c)
 
         while que:
             u, v, step = que.popleft()
