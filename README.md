@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/sks-saurav/leetcode-submission/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/sks-saurav/leetcode-submission/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/sks-saurav/leetcode-submission/tree/master/0841-keys-and-rooms) |
+| [1192-critical-connections-in-a-network](https://github.com/sks-saurav/leetcode-submission/tree/master/1192-critical-connections-in-a-network) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/sks-saurav/leetcode-submission/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sks-saurav/leetcode-submission/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Breadth-First Search
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/sks-saurav/leetcode-submission/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/sks-saurav/leetcode-submission/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/sks-saurav/leetcode-submission/tree/master/0841-keys-and-rooms) |
+| [1192-critical-connections-in-a-network](https://github.com/sks-saurav/leetcode-submission/tree/master/1192-critical-connections-in-a-network) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sks-saurav/leetcode-submission/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Tree
 |  |
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/sks-saurav/leetcode-submission/tree/master/0797-all-paths-from-source-to-target) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/sks-saurav/leetcode-submission/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
