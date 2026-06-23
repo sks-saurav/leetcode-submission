@@ -20,11 +20,12 @@ class Solution:
                     continue
                 if time[v] == 0: #not visited
                     dfs(v, u)
+                    low[u] = min(low[u], low[v])
                     if time[u] < low[v]:
                         critical_v.append([u, v])
-                    low[u] = min(low[u], low[v])
                 else: # visited
                     low[u] = min(low[u], low[v])
 
         dfs(0, -1)
         return critical_v
+
