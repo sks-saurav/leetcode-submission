@@ -1,29 +1,35 @@
 class Solution:
     def numEnclaves(self, grid: List[List[int]]) -> int:
-        row, col = len(grid), len(grid[0])
+        m, n = len(grid), len(grid[0])
+
+        directions = [(1, 0), (-1, 0), (0, 1), (0, -1)]
+
+        def dfs(r, c):
+            grid[r][c] = 0
+
+            for dr, dc in directions:
+                nr = r + dr
+                nc = c + dc
+
+                if 0 <= nr < m and 0 <= nc < n and grid[nr][nc] == 1:
+                    dfs(nr, nc)
+
+        # Remove all boundary-connected land
+        for i in range(m):
+            if grid[i][0] == 1:
+                dfs(i, 0)
+            if grid[i][n - 1] == 1:
+                dfs(i, n - 1)
+
+        for j in range(n):
+            if grid[0][j] == 1:
+                dfs(0, j)
+            if grid[m - 1][j] == 1:
+                dfs(m - 1, j)
+
+        # Count remaining land cells
         ans = 0
-
-        def dfs(x, y):
-            grid[x][y] = 0
-            connected, count = False, 1
-            if x == 0 or x == row-1 or y == 0 or y == col-1:
-                connected = True
-
-            for dx, dy in [(1,0),(-1,0),(0,-1),(0,1)]:
-                nx, ny = x + dx, y + dy
-                if 0 <= nx < row and 0 <= ny < col and grid[nx][ny] == 1:
-                    t_conn, t_cnt = dfs(nx, ny)
-                    connected = connected or t_conn
-                    count += t_cnt
-
-            return connected, count
-
-        for x in range(row):
-            for y in range(col):
-                if grid[x][y] == 1:
-                    connected, count = dfs(x, y)
-                    if not connected:
-                        ans += count
+        for row in grid:
+            ans += sum(row)
 
         return ans
-
