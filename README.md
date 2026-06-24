@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sks-saurav/leetcode-submission/tree/master/0001-two-sum) |
+| [0127-word-ladder](https://github.com/sks-saurav/leetcode-submission/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/sks-saurav/leetcode-submission/tree/master/0433-minimum-genetic-mutation) |
 | [1189-maximum-number-of-balloons](https://github.com/sks-saurav/leetcode-submission/tree/master/1189-maximum-number-of-balloons) |
 ## Binary Search
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/sks-saurav/leetcode-submission/tree/master/0091-decode-ways) |
+| [0127-word-ladder](https://github.com/sks-saurav/leetcode-submission/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/sks-saurav/leetcode-submission/tree/master/0433-minimum-genetic-mutation) |
 | [0639-decode-ways-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0639-decode-ways-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sks-saurav/leetcode-submission/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/sks-saurav/leetcode-submission/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/sks-saurav/leetcode-submission/tree/master/0433-minimum-genetic-mutation) |
 | [0547-number-of-provinces](https://github.com/sks-saurav/leetcode-submission/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/sks-saurav/leetcode-submission/tree/master/0797-all-paths-from-source-to-target) |
