@@ -1,26 +1,20 @@
 class Solution:
     def countMajoritySubarrays(self, nums: List[int], target: int) -> int:
-        def eligible_count(l):
-            ele_count = 0
-            i, j = 0, 0
-            while i < l:
-                if nums[i] == target:
-                    ele_count += 1
-                i += 1
+        def eligible_count(window_len):
+            count_in_window = 0
+            result = 0
 
-            subarray_count = 1 if 2 * ele_count > l else 0
-            while i < len(nums):
-                if nums[i] == target:
-                    ele_count += 1
-                if nums[j] == target:
-                    ele_count -= 1
+            for i in range(len(nums)):
+                count_in_window += (nums[i] == target)
 
-                if 2 * ele_count > l:
-                    subarray_count += 1
-                i += 1
-                j += 1
-            
-            return subarray_count
+                if i >= window_len:
+                    count_in_window -= (nums[i - window_len] == target)
+
+                if i >= window_len - 1:
+                    if 2 * count_in_window > window_len:
+                        result += 1
+
+            return result
             
 
         ans = 0        
