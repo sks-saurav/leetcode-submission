@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/sks-saurav/leetcode-submission/tree/master/0004-median-of-two-sorted-arrays) |
 | [0542-01-matrix](https://github.com/sks-saurav/leetcode-submission/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sks-saurav/leetcode-submission/tree/master/0646-maximum-length-of-pair-chain) |
+| [0721-accounts-merge](https://github.com/sks-saurav/leetcode-submission/tree/master/0721-accounts-merge) |
 | [0934-shortest-bridge](https://github.com/sks-saurav/leetcode-submission/tree/master/0934-shortest-bridge) |
 | [0997-find-the-town-judge](https://github.com/sks-saurav/leetcode-submission/tree/master/0997-find-the-town-judge) |
 | [1020-number-of-enclaves](https://github.com/sks-saurav/leetcode-submission/tree/master/1020-number-of-enclaves) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sks-saurav/leetcode-submission/tree/master/0001-two-sum) |
 | [0127-word-ladder](https://github.com/sks-saurav/leetcode-submission/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/sks-saurav/leetcode-submission/tree/master/0433-minimum-genetic-mutation) |
+| [0721-accounts-merge](https://github.com/sks-saurav/leetcode-submission/tree/master/0721-accounts-merge) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/sks-saurav/leetcode-submission/tree/master/0997-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/sks-saurav/leetcode-submission/tree/master/1189-maximum-number-of-balloons) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/sks-saurav/leetcode-submission/tree/master/0433-minimum-genetic-mutation) |
 | [0639-decode-ways-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0639-decode-ways-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sks-saurav/leetcode-submission/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0721-accounts-merge](https://github.com/sks-saurav/leetcode-submission/tree/master/0721-accounts-merge) |
 | [1189-maximum-number-of-balloons](https://github.com/sks-saurav/leetcode-submission/tree/master/1189-maximum-number-of-balloons) |
 | [1278-palindrome-partitioning-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/1278-palindrome-partitioning-iii) |
 | [1405-longest-happy-string](https://github.com/sks-saurav/leetcode-submission/tree/master/1405-longest-happy-string) |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/sks-saurav/leetcode-submission/tree/master/0646-maximum-length-of-pair-chain) |
+| [0721-accounts-merge](https://github.com/sks-saurav/leetcode-submission/tree/master/0721-accounts-merge) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/sks-saurav/leetcode-submission/tree/master/1262-greatest-sum-divisible-by-three) |
 ## Linked List
 |  |
@@ -118,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0261-graph-valid-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/0261-graph-valid-tree) |
 | [0547-number-of-provinces](https://github.com/sks-saurav/leetcode-submission/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/sks-saurav/leetcode-submission/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/sks-saurav/leetcode-submission/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/sks-saurav/leetcode-submission/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/sks-saurav/leetcode-submission/tree/master/0841-keys-and-rooms) |
@@ -136,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/sks-saurav/leetcode-submission/tree/master/0433-minimum-genetic-mutation) |
 | [0542-01-matrix](https://github.com/sks-saurav/leetcode-submission/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/sks-saurav/leetcode-submission/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/sks-saurav/leetcode-submission/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/sks-saurav/leetcode-submission/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/sks-saurav/leetcode-submission/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/sks-saurav/leetcode-submission/tree/master/0841-keys-and-rooms) |
@@ -152,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0261-graph-valid-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/0261-graph-valid-tree) |
 | [0547-number-of-provinces](https://github.com/sks-saurav/leetcode-submission/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/sks-saurav/leetcode-submission/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/sks-saurav/leetcode-submission/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/sks-saurav/leetcode-submission/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
