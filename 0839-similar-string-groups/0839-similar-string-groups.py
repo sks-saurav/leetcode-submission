@@ -11,21 +11,17 @@ class Solution:
         def union(u, v):
             pu = get_parent(u)
             pv = get_parent(v)
-
             if pu != pv:
                 parent[pu] = pv
 
         def is_equiv(a, b):
             if len(a) != len(b):
                 return False
-
             swap = 0
             for i in range(len(a)):
                 if a[i] != b[i]:
                     swap += 1
-            
             return swap == 0  or swap == 2
-
 
         for i in range(n):
             for j in range(i+1, n):
