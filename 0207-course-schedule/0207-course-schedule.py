@@ -1,28 +1,52 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-        # DFS Approach / Cycle detection
+        # BFS
+        indeg = [0] * numCourses
         adj = defaultdict(list)
         for a, b in prerequisites:
             adj[b].append(a)
+            indeg[a] += 1
 
-        visited = [0] * numCourses
+        que = deque()
+        order = set()
+        for c in range(numCourses):
+            if indeg[c] == 0:
+                que.append(c)
 
-        def dfs(u):
-            visited[u] = 1
+        while que:
+            curr = que.popleft()
+            order.add(curr)
 
-            for v in adj[u]:
-                if visited[v] == 1:
-                    return False
-                if visited[v] == 0:
-                    if not dfs(v):
-                        return False
+            for nxt in adj[curr]:
+                indeg[nxt] -= 1
+                if indeg[nxt] == 0:
+                    que.append(nxt)
 
-            visited[u] = 2
-            return True
+        return len(order) == numCourses
+        
+        # DFS Approach / Cycle detection
+        # adj = defaultdict(list)
+        # for a, b in prerequisites:
+        #     adj[b].append(a)
 
-        for u in range(numCourses):
-            if visited[u] == 0:
-                if not dfs(u):
-                    return False
+        # visited = [0] * numCourses
 
-        return True
+        # def dfs(u):
+        #     visited[u] = 1
+
+        #     for v in adj[u]:
+        #         if visited[v] == 1:
+        #             return False
+        #         if visited[v] == 0:
+        #             if not dfs(v):
+        #                 return False
+
+        #     visited[u] = 2
+        #     return True
+
+        # for u in range(numCourses):
+        #     if visited[u] == 0:
+        #         if not dfs(u):
+        #             return False
+
+        # return True
