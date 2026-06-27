@@ -18,15 +18,13 @@ class Solution:
             heappush(heap, (cost, a-1, b-1))
 
         ans = 0
+        edge_count = 0
         while heap:
             cost, a, b = heappop(heap)
 
             if get_parent(a) != get_parent(b):
                 union(a, b)
                 ans += cost
+                edge_count += 1
 
-        cluster = set()
-        for i in range(n):
-            cluster.add(get_parent(i))
-
-        return ans if len(cluster) == 1 else -1
+        return ans if edge_count == n-1 else -1
