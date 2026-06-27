@@ -32,6 +32,7 @@ class Solution:
                 edge_count += 1
                 ans += dist
 
-        if edge_count == n-1:
-            return ans
-        return -1
+            if edge_count == n-1:
+                break
+
+        return ans
