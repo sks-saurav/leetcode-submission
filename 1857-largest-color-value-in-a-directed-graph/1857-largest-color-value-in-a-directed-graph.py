@@ -4,6 +4,7 @@ class Solution:
         adj = defaultdict(set)
         indeg = [0] * n
         color_dict = {i : [0] * 26 for i in range(n)}
+        color_vals = [ord(c) - 97 for c in colors]
 
         for a, b in edges:
             adj[a].add(b)
@@ -15,14 +16,14 @@ class Solution:
                 que.append(i)
 
         ans = 0
-        order = []
+        visited = 0
         while que:
             curr = que.popleft()
-            c_val = ord(colors[curr]) - ord('a')
+            c_val = color_vals[curr]
             color_dict[curr][c_val] += 1
 
             ans = max(ans,  color_dict[curr][c_val])
-            order.append(curr)
+            visited += 1
 
             for nxt in adj[curr]:
                 for i in range(26):
@@ -32,7 +33,7 @@ class Solution:
                 if indeg[nxt] == 0:
                     que.append(nxt)
 
-        return ans if len(order) == len(indeg) else -1
+        return ans if visited == n else -1
         
         
 
