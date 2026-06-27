@@ -1,3 +1,5 @@
+from typing import List
+
 class Solution:
     def findCriticalAndPseudoCriticalEdges(self, n: int, edges: List[List[int]]) -> List[List[int]]:
         def get_parent(u, parent):
@@ -13,44 +15,43 @@ class Solution:
                 return True
             return False
 
-        def find_mst(parent, ignore_idx=-1, edges_used=0):
-            heap = []
-            for j in range(len(edges)):
-                if j == ignore_idx:
-                    continue
-                heappush(heap, (edges[j][2], edges[j][0], edges[j][1]))
+        sorted_edges = sorted([(*edge, i) for i, edge in enumerate(edges)], key=lambda x: x[2])
 
+        def find_mst(parent, ignore_idx=-1, edges_used=0):
             ans = 0
-            while heap:
-                wt, a, b = heappop(heap)
-                if union(a, b, parent):
-                    ans += wt
+            for u, v, w, orig_idx in sorted_edges:
+                if orig_idx == ignore_idx:
+                    continue
+                    
+                if union(u, v, parent):
+                    ans += w
                     edges_used += 1
+                    
+                    if edges_used == n - 1:
+                        break
             
             if edges_used != n - 1:
                 return float('inf')
                 
             return ans
 
-        critical_edge = set()
-        p_critical_edge = []
-        mst_wt = find_mst([j for j in range(n)])
-
-        # critical
-        for i in range(len(edges)):
-            parent = [j for j in range(n)]
-            t_mst_wt = find_mst(parent, ignore_idx = i)
-            if t_mst_wt > mst_wt:
-                critical_edge.add(i)
-
-        #pseudo critical
-        for i in range(len(edges)):
-            if i in critical_edge:
-                continue
-            parent = [j for j in range(n)]
-            union(edges[i][0], edges[i][1], parent)
-            t_mst_wt = edges[i][2] + find_mst(parent, ignore_idx=i, edges_used=1)
-            if t_mst_wt == mst_wt:
-                p_critical_edge.append(i)
+        critical_edges = []
+        pseudo_critical_edges = []
         
-        return [list(critical_edge), p_critical_edge]
+        base_parent = [i for i in range(n)]
+        mst_wt = find_mst(base_parent)
+
+        for i, (u, v, w) in enumerate(edges):
+            parent = [j for j in range(n)]
+            if find_mst(parent, ignore_idx=i) > mst_wt:
+                critical_edges.append(i)
+            else:
+                parent = [j for j in range(n)]
+                union(u, v, parent)
+                
+                forced_mst_wt = w + find_mst(parent, ignore_idx=i, edges_used=1)
+                
+                if forced_mst_wt == mst_wt:
+                    pseudo_critical_edges.append(i)
+        
+        return [critical_edges, pseudo_critical_edges]
