@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/sks-saurav/leetcode-submission/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/sks-saurav/leetcode-submission/tree/master/0721-accounts-merge) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/sks-saurav/leetcode-submission/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/sks-saurav/leetcode-submission/tree/master/1020-number-of-enclaves) |
 | [1135-connecting-cities-with-minimum-cost](https://github.com/sks-saurav/leetcode-submission/tree/master/1135-connecting-cities-with-minimum-cost) |
 | [1168-optimize-water-distribution-in-a-village](https://github.com/sks-saurav/leetcode-submission/tree/master/1168-optimize-water-distribution-in-a-village) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/sks-saurav/leetcode-submission/tree/master/1584-min-cost-to-connect-all-points) |
 ## Graph Theory
 |  |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1192-critical-connections-in-a-network](https://github.com/sks-saurav/leetcode-submission/tree/master/1192-critical-connections-in-a-network) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/sks-saurav/leetcode-submission/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sks-saurav/leetcode-submission/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1514-path-with-maximum-probability](https://github.com/sks-saurav/leetcode-submission/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/sks-saurav/leetcode-submission/tree/master/1584-min-cost-to-connect-all-points) |
 | [1615-maximal-network-rank](https://github.com/sks-saurav/leetcode-submission/tree/master/1615-maximal-network-rank) |
@@ -293,5 +296,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1135-connecting-cities-with-minimum-cost](https://github.com/sks-saurav/leetcode-submission/tree/master/1135-connecting-cities-with-minimum-cost) |
 | [1168-optimize-water-distribution-in-a-village](https://github.com/sks-saurav/leetcode-submission/tree/master/1168-optimize-water-distribution-in-a-village) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/sks-saurav/leetcode-submission/tree/master/1584-min-cost-to-connect-all-points) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 <!---LeetCode Topics End-->
