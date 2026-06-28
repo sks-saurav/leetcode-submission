@@ -1,3 +1,5 @@
+#PREMIUM
+
 class DistanceLimitedPathsExist:
     def __init__(self, n: int, edgeList: List[List[int]]):
         self.parent = list(range(n))
