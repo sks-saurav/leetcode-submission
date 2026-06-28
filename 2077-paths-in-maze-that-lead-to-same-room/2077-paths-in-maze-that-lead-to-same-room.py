@@ -4,17 +4,6 @@ class Solution:
         for a, b in corridors:
             adj[a].add(b)
             adj[b].add(a)
-        
-        # def count_three_len_cycle(u, pu, dist, root):
-        #     if dist > 3: return 0
-        #     if dist == 3:
-        #         return 1 if u == root else 0
-
-        #     ans = 0
-        #     for v in adj[u]:
-        #         if v != pu:
-        #             ans += count_three_len_cycle(v, u, dist+1, root)
-        #     return ans
 
         def count_three_len_cycle(node):
             res = 0
