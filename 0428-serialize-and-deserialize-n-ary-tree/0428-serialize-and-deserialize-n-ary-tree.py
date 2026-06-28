@@ -1,3 +1,4 @@
+# PREMIUM
 """
 # Definition for a Node.
 class Node(object):
