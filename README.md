@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/sks-saurav/leetcode-submission/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/sks-saurav/leetcode-submission/tree/master/0127-word-ladder) |
 | [0269-alien-dictionary](https://github.com/sks-saurav/leetcode-submission/tree/master/0269-alien-dictionary) |
+| [0428-serialize-and-deserialize-n-ary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/0428-serialize-and-deserialize-n-ary-tree) |
 | [0433-minimum-genetic-mutation](https://github.com/sks-saurav/leetcode-submission/tree/master/0433-minimum-genetic-mutation) |
 | [0499-the-maze-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/0499-the-maze-iii) |
 | [0639-decode-ways-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0639-decode-ways-ii) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0261-graph-valid-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/0261-graph-valid-tree) |
 | [0269-alien-dictionary](https://github.com/sks-saurav/leetcode-submission/tree/master/0269-alien-dictionary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sks-saurav/leetcode-submission/tree/master/0417-pacific-atlantic-water-flow) |
+| [0428-serialize-and-deserialize-n-ary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/0428-serialize-and-deserialize-n-ary-tree) |
 | [0499-the-maze-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/0499-the-maze-iii) |
 | [0505-the-maze-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0505-the-maze-ii) |
 | [0547-number-of-provinces](https://github.com/sks-saurav/leetcode-submission/tree/master/0547-number-of-provinces) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0261-graph-valid-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/0261-graph-valid-tree) |
 | [0269-alien-dictionary](https://github.com/sks-saurav/leetcode-submission/tree/master/0269-alien-dictionary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sks-saurav/leetcode-submission/tree/master/0417-pacific-atlantic-water-flow) |
+| [0428-serialize-and-deserialize-n-ary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/0428-serialize-and-deserialize-n-ary-tree) |
 | [0433-minimum-genetic-mutation](https://github.com/sks-saurav/leetcode-submission/tree/master/0433-minimum-genetic-mutation) |
 | [0499-the-maze-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/0499-the-maze-iii) |
 | [0505-the-maze-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0505-the-maze-ii) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0428-serialize-and-deserialize-n-ary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/0428-serialize-and-deserialize-n-ary-tree) |
 | [0663-equal-tree-partition](https://github.com/sks-saurav/leetcode-submission/tree/master/0663-equal-tree-partition) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/sks-saurav/leetcode-submission/tree/master/1376-time-needed-to-inform-all-employees) |
