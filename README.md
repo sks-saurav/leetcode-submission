@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-maximal-network-rank](https://github.com/sks-saurav/leetcode-submission/tree/master/1615-maximal-network-rank) |
 | [1724-checking-existence-of-edge-length-limited-paths-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/1724-checking-existence-of-edge-length-limited-paths-ii) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/sks-saurav/leetcode-submission/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [2077-paths-in-maze-that-lead-to-same-room](https://github.com/sks-saurav/leetcode-submission/tree/master/2077-paths-in-maze-that-lead-to-same-room) |
 ## Tree
 |  |
 | ------- |
