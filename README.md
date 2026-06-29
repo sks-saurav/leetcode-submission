@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0499-the-maze-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/0499-the-maze-iii) |
 | [0505-the-maze-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0505-the-maze-ii) |
 | [0547-number-of-provinces](https://github.com/sks-saurav/leetcode-submission/tree/master/0547-number-of-provinces) |
+| [0549-binary-tree-longest-consecutive-sequence-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0549-binary-tree-longest-consecutive-sequence-ii) |
 | [0663-equal-tree-partition](https://github.com/sks-saurav/leetcode-submission/tree/master/0663-equal-tree-partition) |
 | [0721-accounts-merge](https://github.com/sks-saurav/leetcode-submission/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/sks-saurav/leetcode-submission/tree/master/0785-is-graph-bipartite) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0428-serialize-and-deserialize-n-ary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/0428-serialize-and-deserialize-n-ary-tree) |
+| [0549-binary-tree-longest-consecutive-sequence-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0549-binary-tree-longest-consecutive-sequence-ii) |
 | [0663-equal-tree-partition](https://github.com/sks-saurav/leetcode-submission/tree/master/0663-equal-tree-partition) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1245-tree-diameter](https://github.com/sks-saurav/leetcode-submission/tree/master/1245-tree-diameter) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0549-binary-tree-longest-consecutive-sequence-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0549-binary-tree-longest-consecutive-sequence-ii) |
 | [0663-equal-tree-partition](https://github.com/sks-saurav/leetcode-submission/tree/master/0663-equal-tree-partition) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
