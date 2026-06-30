@@ -10,14 +10,25 @@ class Solution:
         """
         :type root: Optional[RopeTreeNode]
         """
-        
-        def traverse(node):
+        def get_l(node):
             if node is None:
-                return ""
+                return 0
+            if node.len != 0:
+                return node.len
+            return len(node.val)
+        
+        def traverse(node, idx):
+            if node is None:
+                return None
 
             if node.len == 0:
-                return node.val
+                return node.val[idx-1]
 
-            return traverse(node.left) + traverse(node.right)
+            ll = get_l(node.left)
+            if idx <= ll:
+                return traverse(node.left, idx)
+            else:
+                return traverse(node.right, idx-ll)
+            
 
-        return traverse(root)[k-1]
+        return traverse(root, k)
