@@ -1,3 +1,5 @@
+# PREMIUM
+
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
@@ -6,44 +8,28 @@
 #         self.right = right
 class Solution:
     def findLeaves(self, root: Optional[TreeNode]) -> List[List[int]]:
-        parent = {}
-        parent[root] = None
+        if root is None:
+            return []
 
-        que = deque()
-        indeg = defaultdict(int)
-
-        def traverse(node, node_p):
+        ht_dict = defaultdict(list)
+        
+        def calc_height(node):
             if node is None:
-                return
+                return -1
 
-            parent[node] = node_p
-            if node.left is None and node.right is None:
-                que.append(node)
+            lh = calc_height(node.left)
+            rh = calc_height(node.right)
 
-            if node.left:
-                indeg[node] += 1
-                traverse(node.left, node)
+            ht = 1 + max(lh, rh)
+            ht_dict[ht].append(node.val)
 
-            if node.right:
-                indeg[node] += 1
-                traverse(node.right, node)
+            return ht
 
-        traverse(root, None)
+        calc_height(root)
         ans = []
-        while que:
-            ll = len(que)
-            tans = []
-
-            for _ in range(ll):
-                curr = que.popleft()
-                tans.append(curr.val)
-                p_curr = parent[curr]
-
-                if p_curr:
-                    indeg[p_curr] -= 1
-                    if indeg[p_curr] == 0:
-                        que.append(p_curr)
-
-            ans.append(tans)
+        for i in range(max(ht_dict.keys())+1):
+            if i in ht_dict:
+                ans.append(ht_dict[i])
 
         return ans
+
