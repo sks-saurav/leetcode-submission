@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sks-saurav/leetcode-submission/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1506-find-root-of-n-ary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/1506-find-root-of-n-ary-tree) |
 | [1660-correct-a-binary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/1660-correct-a-binary-tree) |
+| [1666-change-the-root-of-a-binary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/1666-change-the-root-of-a-binary-tree) |
 | [1724-checking-existence-of-edge-length-limited-paths-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/1724-checking-existence-of-edge-length-limited-paths-ii) |
 | [2689-extract-kth-character-from-the-rope-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/2689-extract-kth-character-from-the-rope-tree) |
 ## Breadth-First Search
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1506-find-root-of-n-ary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/1506-find-root-of-n-ary-tree) |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1660-correct-a-binary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/1660-correct-a-binary-tree) |
+| [1666-change-the-root-of-a-binary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/1666-change-the-root-of-a-binary-tree) |
 | [2689-extract-kth-character-from-the-rope-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/2689-extract-kth-character-from-the-rope-tree) |
 ## Backtracking
 |  |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1660-correct-a-binary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/1660-correct-a-binary-tree) |
+| [1666-change-the-root-of-a-binary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/1666-change-the-root-of-a-binary-tree) |
 | [2689-extract-kth-character-from-the-rope-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/2689-extract-kth-character-from-the-rope-tree) |
 ## Segment Tree
 |  |
