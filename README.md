@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0428-serialize-and-deserialize-n-ary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/0428-serialize-and-deserialize-n-ary-tree) |
+| [0510-inorder-successor-in-bst-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0510-inorder-successor-in-bst-ii) |
 | [0549-binary-tree-longest-consecutive-sequence-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0549-binary-tree-longest-consecutive-sequence-ii) |
 | [0663-equal-tree-partition](https://github.com/sks-saurav/leetcode-submission/tree/master/0663-equal-tree-partition) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0510-inorder-successor-in-bst-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0510-inorder-successor-in-bst-ii) |
 | [0549-binary-tree-longest-consecutive-sequence-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0549-binary-tree-longest-consecutive-sequence-ii) |
 | [0663-equal-tree-partition](https://github.com/sks-saurav/leetcode-submission/tree/master/0663-equal-tree-partition) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -365,4 +367,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1724-checking-existence-of-edge-length-limited-paths-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/1724-checking-existence-of-edge-length-limited-paths-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0510-inorder-successor-in-bst-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0510-inorder-successor-in-bst-ii) |
 <!---LeetCode Topics End-->
