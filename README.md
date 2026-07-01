@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sks-saurav/leetcode-submission/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/sks-saurav/leetcode-submission/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0210-course-schedule-ii) |
+| [0250-count-univalue-subtrees](https://github.com/sks-saurav/leetcode-submission/tree/master/0250-count-univalue-subtrees) |
 | [0261-graph-valid-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/0261-graph-valid-tree) |
 | [0269-alien-dictionary](https://github.com/sks-saurav/leetcode-submission/tree/master/0269-alien-dictionary) |
 | [0270-closest-binary-search-tree-value](https://github.com/sks-saurav/leetcode-submission/tree/master/0270-closest-binary-search-tree-value) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0250-count-univalue-subtrees](https://github.com/sks-saurav/leetcode-submission/tree/master/0250-count-univalue-subtrees) |
 | [0270-closest-binary-search-tree-value](https://github.com/sks-saurav/leetcode-submission/tree/master/0270-closest-binary-search-tree-value) |
 | [0285-inorder-successor-in-bst](https://github.com/sks-saurav/leetcode-submission/tree/master/0285-inorder-successor-in-bst) |
 | [0366-find-leaves-of-binary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/0366-find-leaves-of-binary-tree) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0250-count-univalue-subtrees](https://github.com/sks-saurav/leetcode-submission/tree/master/0250-count-univalue-subtrees) |
 | [0270-closest-binary-search-tree-value](https://github.com/sks-saurav/leetcode-submission/tree/master/0270-closest-binary-search-tree-value) |
 | [0285-inorder-successor-in-bst](https://github.com/sks-saurav/leetcode-submission/tree/master/0285-inorder-successor-in-bst) |
 | [0366-find-leaves-of-binary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/0366-find-leaves-of-binary-tree) |
