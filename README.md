@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/sks-saurav/leetcode-submission/tree/master/1584-min-cost-to-connect-all-points) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sks-saurav/leetcode-submission/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/sks-saurav/leetcode-submission/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2277-closest-node-to-path-in-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/2277-closest-node-to-path-in-tree) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sks-saurav/leetcode-submission/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1660-correct-a-binary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/1660-correct-a-binary-tree) |
 | [1666-change-the-root-of-a-binary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/1666-change-the-root-of-a-binary-tree) |
 | [1724-checking-existence-of-edge-length-limited-paths-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/1724-checking-existence-of-edge-length-limited-paths-ii) |
+| [2277-closest-node-to-path-in-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/2277-closest-node-to-path-in-tree) |
 | [2689-extract-kth-character-from-the-rope-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/2689-extract-kth-character-from-the-rope-tree) |
 ## Breadth-First Search
 |  |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sks-saurav/leetcode-submission/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1660-correct-a-binary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/1660-correct-a-binary-tree) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/sks-saurav/leetcode-submission/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2277-closest-node-to-path-in-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/2277-closest-node-to-path-in-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1660-correct-a-binary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/1660-correct-a-binary-tree) |
 | [1666-change-the-root-of-a-binary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/1666-change-the-root-of-a-binary-tree) |
+| [2277-closest-node-to-path-in-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/2277-closest-node-to-path-in-tree) |
 | [2689-extract-kth-character-from-the-rope-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/2689-extract-kth-character-from-the-rope-tree) |
 ## Backtracking
 |  |
