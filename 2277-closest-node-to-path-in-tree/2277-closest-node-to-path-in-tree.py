@@ -1,5 +1,9 @@
 # PREMIUM
 
+'''
+The Math Trick: The Tree MedianIf you have three nodes in a tree (let's call them $U$, $V$, and $W$), and you draw the shortest paths between all three pairs ($U \to V$, $U \to W$, and $V \to W$), those three paths will always intersect at exactly one single node.If $U$ is your start, $V$ is your end, and $W$ is your target node, this intersection node is mathematically guaranteed to be the node on the $U \to V$ path that is closest to $W$.Even better, if you pick an arbitrary root for the tree, you can find this intersection node by calculating three Lowest Common Ancestors (LCAs):LCA(start, end)LCA(start, target_node)LCA(end, target_node)
+'''
+
 class Solution:
     def closestNode(self, n: int, edges: List[List[int]], query: List[List[int]]) -> List[int]:
         # Build the adjacency list
