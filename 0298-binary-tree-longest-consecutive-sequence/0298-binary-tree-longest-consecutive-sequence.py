@@ -1,3 +1,4 @@
+# PREMIUM
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
@@ -11,7 +12,7 @@ class Solution:
         def path(node):
             if node is None:
                 return 0
-                
+
             curr_len = 1
             pl = path(node.left)
             pr = path(node.right)
