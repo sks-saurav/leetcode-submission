@@ -7,8 +7,7 @@ class Solution:
             adj[u].append(v)
             adj[v].append(u)
 
-        # 1. OPTIMIZATION: Use BFS from each node to get all-pairs shortest paths
-        # Time Complexity drops from O(N^3) to O(N^2)
+        # Use BFS from each node to get all-pairs shortest paths
         dist = [[0] * n for _ in range(n)]
         for i in range(n):
             queue = deque([i])
@@ -25,11 +24,9 @@ class Solution:
                             queue.append(neighbor)
                 curr_dist += 1
 
-        # 2. Process each query
+        # Process each query
         final_ans = []
         for start, end, node in query:
-            
-            # OPTIMIZATION: Find path using BFS to avoid Python recursion limits
             parent = {start: -1}
             queue = deque([start])
             
