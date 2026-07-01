@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/sks-saurav/leetcode-submission/tree/master/1584-min-cost-to-connect-all-points) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sks-saurav/leetcode-submission/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/sks-saurav/leetcode-submission/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2031-count-subarrays-with-more-ones-than-zeros](https://github.com/sks-saurav/leetcode-submission/tree/master/2031-count-subarrays-with-more-ones-than-zeros) |
 | [2277-closest-node-to-path-in-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/2277-closest-node-to-path-in-tree) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sks-saurav/leetcode-submission/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
@@ -45,16 +46,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1660-correct-a-binary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/1660-correct-a-binary-tree) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/sks-saurav/leetcode-submission/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [2031-count-subarrays-with-more-ones-than-zeros](https://github.com/sks-saurav/leetcode-submission/tree/master/2031-count-subarrays-with-more-ones-than-zeros) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sks-saurav/leetcode-submission/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sks-saurav/leetcode-submission/tree/master/0004-median-of-two-sorted-arrays) |
 | [0270-closest-binary-search-tree-value](https://github.com/sks-saurav/leetcode-submission/tree/master/0270-closest-binary-search-tree-value) |
+| [2031-count-subarrays-with-more-ones-than-zeros](https://github.com/sks-saurav/leetcode-submission/tree/master/2031-count-subarrays-with-more-ones-than-zeros) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sks-saurav/leetcode-submission/tree/master/0004-median-of-two-sorted-arrays) |
+| [2031-count-subarrays-with-more-ones-than-zeros](https://github.com/sks-saurav/leetcode-submission/tree/master/2031-count-subarrays-with-more-ones-than-zeros) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sks-saurav/leetcode-submission/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
@@ -340,10 +344,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2031-count-subarrays-with-more-ones-than-zeros](https://github.com/sks-saurav/leetcode-submission/tree/master/2031-count-subarrays-with-more-ones-than-zeros) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sks-saurav/leetcode-submission/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
 | ------- |
+| [2031-count-subarrays-with-more-ones-than-zeros](https://github.com/sks-saurav/leetcode-submission/tree/master/2031-count-subarrays-with-more-ones-than-zeros) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sks-saurav/leetcode-submission/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
@@ -396,4 +402,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0270-closest-binary-search-tree-value](https://github.com/sks-saurav/leetcode-submission/tree/master/0270-closest-binary-search-tree-value) |
 | [0285-inorder-successor-in-bst](https://github.com/sks-saurav/leetcode-submission/tree/master/0285-inorder-successor-in-bst) |
 | [0510-inorder-successor-in-bst-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0510-inorder-successor-in-bst-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2031-count-subarrays-with-more-ones-than-zeros](https://github.com/sks-saurav/leetcode-submission/tree/master/2031-count-subarrays-with-more-ones-than-zeros) |
+## Ordered Set
+|  |
+| ------- |
+| [2031-count-subarrays-with-more-ones-than-zeros](https://github.com/sks-saurav/leetcode-submission/tree/master/2031-count-subarrays-with-more-ones-than-zeros) |
 <!---LeetCode Topics End-->
