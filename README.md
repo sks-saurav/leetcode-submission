@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0269-alien-dictionary](https://github.com/sks-saurav/leetcode-submission/tree/master/0269-alien-dictionary) |
 | [0270-closest-binary-search-tree-value](https://github.com/sks-saurav/leetcode-submission/tree/master/0270-closest-binary-search-tree-value) |
 | [0285-inorder-successor-in-bst](https://github.com/sks-saurav/leetcode-submission/tree/master/0285-inorder-successor-in-bst) |
+| [0298-binary-tree-longest-consecutive-sequence](https://github.com/sks-saurav/leetcode-submission/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [0366-find-leaves-of-binary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/0366-find-leaves-of-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sks-saurav/leetcode-submission/tree/master/0417-pacific-atlantic-water-flow) |
 | [0428-serialize-and-deserialize-n-ary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/0428-serialize-and-deserialize-n-ary-tree) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0250-count-univalue-subtrees](https://github.com/sks-saurav/leetcode-submission/tree/master/0250-count-univalue-subtrees) |
 | [0270-closest-binary-search-tree-value](https://github.com/sks-saurav/leetcode-submission/tree/master/0270-closest-binary-search-tree-value) |
 | [0285-inorder-successor-in-bst](https://github.com/sks-saurav/leetcode-submission/tree/master/0285-inorder-successor-in-bst) |
+| [0298-binary-tree-longest-consecutive-sequence](https://github.com/sks-saurav/leetcode-submission/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [0366-find-leaves-of-binary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/0366-find-leaves-of-binary-tree) |
 | [0428-serialize-and-deserialize-n-ary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/0428-serialize-and-deserialize-n-ary-tree) |
 | [0510-inorder-successor-in-bst-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0510-inorder-successor-in-bst-ii) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0250-count-univalue-subtrees](https://github.com/sks-saurav/leetcode-submission/tree/master/0250-count-univalue-subtrees) |
 | [0270-closest-binary-search-tree-value](https://github.com/sks-saurav/leetcode-submission/tree/master/0270-closest-binary-search-tree-value) |
 | [0285-inorder-successor-in-bst](https://github.com/sks-saurav/leetcode-submission/tree/master/0285-inorder-successor-in-bst) |
+| [0298-binary-tree-longest-consecutive-sequence](https://github.com/sks-saurav/leetcode-submission/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [0366-find-leaves-of-binary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/0366-find-leaves-of-binary-tree) |
 | [0510-inorder-successor-in-bst-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0510-inorder-successor-in-bst-ii) |
 | [0549-binary-tree-longest-consecutive-sequence-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0549-binary-tree-longest-consecutive-sequence-ii) |
