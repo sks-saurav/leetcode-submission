@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/sks-saurav/leetcode-submission/tree/master/0004-median-of-two-sorted-arrays) |
 | [0200-number-of-islands](https://github.com/sks-saurav/leetcode-submission/tree/master/0200-number-of-islands) |
 | [0269-alien-dictionary](https://github.com/sks-saurav/leetcode-submission/tree/master/0269-alien-dictionary) |
+| [0307-range-sum-query-mutable](https://github.com/sks-saurav/leetcode-submission/tree/master/0307-range-sum-query-mutable) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sks-saurav/leetcode-submission/tree/master/0417-pacific-atlantic-water-flow) |
 | [0499-the-maze-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/0499-the-maze-iii) |
 | [0505-the-maze-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0505-the-maze-ii) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sks-saurav/leetcode-submission/tree/master/0004-median-of-two-sorted-arrays) |
+| [0307-range-sum-query-mutable](https://github.com/sks-saurav/leetcode-submission/tree/master/0307-range-sum-query-mutable) |
 | [2031-count-subarrays-with-more-ones-than-zeros](https://github.com/sks-saurav/leetcode-submission/tree/master/2031-count-subarrays-with-more-ones-than-zeros) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sks-saurav/leetcode-submission/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/sks-saurav/leetcode-submission/tree/master/0307-range-sum-query-mutable) |
 | [2031-count-subarrays-with-more-ones-than-zeros](https://github.com/sks-saurav/leetcode-submission/tree/master/2031-count-subarrays-with-more-ones-than-zeros) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sks-saurav/leetcode-submission/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/sks-saurav/leetcode-submission/tree/master/0307-range-sum-query-mutable) |
 | [1724-checking-existence-of-edge-length-limited-paths-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/1724-checking-existence-of-edge-length-limited-paths-ii) |
 ## Binary Search Tree
 |  |
@@ -405,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/sks-saurav/leetcode-submission/tree/master/0307-range-sum-query-mutable) |
 | [2031-count-subarrays-with-more-ones-than-zeros](https://github.com/sks-saurav/leetcode-submission/tree/master/2031-count-subarrays-with-more-ones-than-zeros) |
 ## Ordered Set
 |  |
