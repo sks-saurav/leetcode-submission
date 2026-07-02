@@ -2,15 +2,10 @@
 class NumArray:
     def __init__(self, nums: List[int]):
         self.n = len(nums) + 1
-        self.nums = [0] + nums # making it 1 index
         self.tree = [0 for _ in range(self.n)]
         
-        self.build_tree()
-
-    def rsb(self, i):
-        return i & -i
-
-    def build_tree(self): # O(n)
+        # Build Tree O(n)
+        self.nums = [0] + nums # making it 1 index
         for i in range(1, self.n):
             self.tree[i] = self.nums[i]
         
@@ -18,6 +13,10 @@ class NumArray:
             parent = child + self.rsb(child)
             if parent < self.n:
                 self.tree[parent] += self.tree[child]
+        
+
+    def rsb(self, i):
+        return i & -i
 
     def update(self, index: int, val: int) -> None:
         i = index+1 # nums is converted to 1 based index
