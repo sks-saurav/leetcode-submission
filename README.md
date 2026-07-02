@@ -133,12 +133,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0272-closest-binary-search-tree-value-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sks-saurav/leetcode-submission/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sks-saurav/leetcode-submission/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
+| [0272-closest-binary-search-tree-value-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sks-saurav/leetcode-submission/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Simulation
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0272-closest-binary-search-tree-value-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0499-the-maze-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/0499-the-maze-iii) |
 | [0505-the-maze-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0505-the-maze-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sks-saurav/leetcode-submission/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0261-graph-valid-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/0261-graph-valid-tree) |
 | [0269-alien-dictionary](https://github.com/sks-saurav/leetcode-submission/tree/master/0269-alien-dictionary) |
 | [0270-closest-binary-search-tree-value](https://github.com/sks-saurav/leetcode-submission/tree/master/0270-closest-binary-search-tree-value) |
+| [0272-closest-binary-search-tree-value-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0285-inorder-successor-in-bst](https://github.com/sks-saurav/leetcode-submission/tree/master/0285-inorder-successor-in-bst) |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/sks-saurav/leetcode-submission/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [0366-find-leaves-of-binary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/0366-find-leaves-of-binary-tree) |
@@ -289,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0250-count-univalue-subtrees](https://github.com/sks-saurav/leetcode-submission/tree/master/0250-count-univalue-subtrees) |
 | [0270-closest-binary-search-tree-value](https://github.com/sks-saurav/leetcode-submission/tree/master/0270-closest-binary-search-tree-value) |
+| [0272-closest-binary-search-tree-value-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0285-inorder-successor-in-bst](https://github.com/sks-saurav/leetcode-submission/tree/master/0285-inorder-successor-in-bst) |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/sks-saurav/leetcode-submission/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [0366-find-leaves-of-binary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/0366-find-leaves-of-binary-tree) |
@@ -332,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0250-count-univalue-subtrees](https://github.com/sks-saurav/leetcode-submission/tree/master/0250-count-univalue-subtrees) |
 | [0270-closest-binary-search-tree-value](https://github.com/sks-saurav/leetcode-submission/tree/master/0270-closest-binary-search-tree-value) |
+| [0272-closest-binary-search-tree-value-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0285-inorder-successor-in-bst](https://github.com/sks-saurav/leetcode-submission/tree/master/0285-inorder-successor-in-bst) |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/sks-saurav/leetcode-submission/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [0366-find-leaves-of-binary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/0366-find-leaves-of-binary-tree) |
@@ -404,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0270-closest-binary-search-tree-value](https://github.com/sks-saurav/leetcode-submission/tree/master/0270-closest-binary-search-tree-value) |
+| [0272-closest-binary-search-tree-value-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0285-inorder-successor-in-bst](https://github.com/sks-saurav/leetcode-submission/tree/master/0285-inorder-successor-in-bst) |
 | [0510-inorder-successor-in-bst-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0510-inorder-successor-in-bst-ii) |
 ## Binary Indexed Tree
