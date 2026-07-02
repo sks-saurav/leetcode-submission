@@ -1,4 +1,3 @@
-# Premium
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
@@ -6,21 +5,28 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def closestKValues(self, root: TreeNode, target: float, k: int) -> List[int]:
-        def dfs(node, heap):
-            if not node:
+    def closestKValues(self, root: Optional[TreeNode], target: float, k: int) -> List[int]:
+        preorder = []
+        def trav(node):
+            if node is None:
                 return
 
-            if len(heap) < k:
-                heappush(heap, (-abs(node.val - target), node.val))
+            trav(node.left)
+            preorder.append(node.val)
+            trav(node.right)
+
+
+        trav(root)
+        idx = bisect_left(preorder, target)
+        ans = []
+        l, r = idx-1, idx
+
+        while len(ans) < k:
+            if r == len(preorder) or abs(preorder[l]-target) < abs(preorder[r]-target):
+                ans.append(preorder[l])
+                l -= 1
             else:
-                if abs(node.val - target) <= abs(heap[0][0]):
-                    heappop(heap)
-                    heappush(heap, (-abs(node.val - target), node.val))
+                ans.append(preorder[r])
+                r += 1
 
-            dfs(node.left, heap)
-            dfs(node.right, heap)
-
-        heap = []
-        dfs(root, heap)
-        return [x[1] for x in heap]
+        return ans
