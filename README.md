@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/sks-saurav/leetcode-submission/tree/master/1254-number-of-closed-islands) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/sks-saurav/leetcode-submission/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1306-jump-game-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/1306-jump-game-iii) |
+| [1310-xor-queries-of-a-subarray](https://github.com/sks-saurav/leetcode-submission/tree/master/1310-xor-queries-of-a-subarray) |
 | [1514-path-with-maximum-probability](https://github.com/sks-saurav/leetcode-submission/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/sks-saurav/leetcode-submission/tree/master/1584-min-cost-to-connect-all-points) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sks-saurav/leetcode-submission/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0732-my-calendar-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/0732-my-calendar-iii) |
+| [1310-xor-queries-of-a-subarray](https://github.com/sks-saurav/leetcode-submission/tree/master/1310-xor-queries-of-a-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sks-saurav/leetcode-submission/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Topological Sort
 |  |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0864-shortest-path-to-get-all-keys](https://github.com/sks-saurav/leetcode-submission/tree/master/0864-shortest-path-to-get-all-keys) |
+| [1310-xor-queries-of-a-subarray](https://github.com/sks-saurav/leetcode-submission/tree/master/1310-xor-queries-of-a-subarray) |
 | [1506-find-root-of-n-ary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/1506-find-root-of-n-ary-tree) |
 ## Design
 |  |
