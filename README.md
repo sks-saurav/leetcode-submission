@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sks-saurav/leetcode-submission/tree/master/0001-two-sum) |
 | [0127-word-ladder](https://github.com/sks-saurav/leetcode-submission/tree/master/0127-word-ladder) |
+| [0291-word-pattern-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0291-word-pattern-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/sks-saurav/leetcode-submission/tree/master/0433-minimum-genetic-mutation) |
 | [0721-accounts-merge](https://github.com/sks-saurav/leetcode-submission/tree/master/0721-accounts-merge) |
 | [0839-similar-string-groups](https://github.com/sks-saurav/leetcode-submission/tree/master/0839-similar-string-groups) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/sks-saurav/leetcode-submission/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/sks-saurav/leetcode-submission/tree/master/0127-word-ladder) |
 | [0269-alien-dictionary](https://github.com/sks-saurav/leetcode-submission/tree/master/0269-alien-dictionary) |
+| [0291-word-pattern-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0291-word-pattern-ii) |
 | [0428-serialize-and-deserialize-n-ary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/0428-serialize-and-deserialize-n-ary-tree) |
 | [0433-minimum-genetic-mutation](https://github.com/sks-saurav/leetcode-submission/tree/master/0433-minimum-genetic-mutation) |
 | [0499-the-maze-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/0499-the-maze-iii) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0291-word-pattern-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0291-word-pattern-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/sks-saurav/leetcode-submission/tree/master/0797-all-paths-from-source-to-target) |
 ## Biconnected Component
 |  |
