@@ -43,9 +43,9 @@
 
 class Solution:
     def depthSumInverse(self, nestedList: List[NestedInteger]) -> int:
-        total = 0
+        wi_x_di = 0
+        wi_sum = 0
         queue = deque(nestedList)
-        arr = []
         max_depth = 0
         depth = 0
         
@@ -54,15 +54,15 @@ class Solution:
             for _ in range(len(queue)):
                 ele = queue.popleft()
                 if ele.isInteger():
-                    wt = ele.getInteger()
-                    total += depth * wt
-                    arr.append(wt)
+                    wi = ele.getInteger()
+                    wi_x_di += depth * wi
+                    wi_sum += wi
                 else:
                     queue.extend(ele.getList())
         '''
         ans = Wi * (MaxD - Di + 1)
         ans = Wi * (MaxD + 1) - Wi * Di
         '''
-        final_total = sum(arr)*(depth+1) - total   
+        final_total = wi_sum*(depth+1) - wi_x_di   
                 
         return final_total
