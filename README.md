@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0272-closest-binary-search-tree-value-ii) |
+| [0364-nested-list-weight-sum-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0364-nested-list-weight-sum-ii) |
 | [0439-ternary-expression-parser](https://github.com/sks-saurav/leetcode-submission/tree/master/0439-ternary-expression-parser) |
 | [0484-find-permutation](https://github.com/sks-saurav/leetcode-submission/tree/master/0484-find-permutation) |
 | [0772-basic-calculator-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/0772-basic-calculator-iii) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0272-closest-binary-search-tree-value-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0285-inorder-successor-in-bst](https://github.com/sks-saurav/leetcode-submission/tree/master/0285-inorder-successor-in-bst) |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/sks-saurav/leetcode-submission/tree/master/0298-binary-tree-longest-consecutive-sequence) |
+| [0364-nested-list-weight-sum-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0364-nested-list-weight-sum-ii) |
 | [0366-find-leaves-of-binary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/0366-find-leaves-of-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sks-saurav/leetcode-submission/tree/master/0417-pacific-atlantic-water-flow) |
 | [0428-serialize-and-deserialize-n-ary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/0428-serialize-and-deserialize-n-ary-tree) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0210-course-schedule-ii) |
 | [0261-graph-valid-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/0261-graph-valid-tree) |
 | [0269-alien-dictionary](https://github.com/sks-saurav/leetcode-submission/tree/master/0269-alien-dictionary) |
+| [0364-nested-list-weight-sum-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0364-nested-list-weight-sum-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sks-saurav/leetcode-submission/tree/master/0417-pacific-atlantic-water-flow) |
 | [0428-serialize-and-deserialize-n-ary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/0428-serialize-and-deserialize-n-ary-tree) |
 | [0433-minimum-genetic-mutation](https://github.com/sks-saurav/leetcode-submission/tree/master/0433-minimum-genetic-mutation) |
