@@ -1,3 +1,5 @@
+# PREMIUM
+
 class Solution:
     def maximumCoins(self, heroes: List[int], monsters: List[int], coins: List[int]) -> List[int]:
         h_arr = [(heroes[i], i) for i in range(len(heroes))]
