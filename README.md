@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-3sum-with-multiplicity](https://github.com/sks-saurav/leetcode-submission/tree/master/0923-3sum-with-multiplicity) |
 | [0934-shortest-bridge](https://github.com/sks-saurav/leetcode-submission/tree/master/0934-shortest-bridge) |
 | [0997-find-the-town-judge](https://github.com/sks-saurav/leetcode-submission/tree/master/0997-find-the-town-judge) |
+| [1004-max-consecutive-ones-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/sks-saurav/leetcode-submission/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sks-saurav/leetcode-submission/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1105-filling-bookcase-shelves](https://github.com/sks-saurav/leetcode-submission/tree/master/1105-filling-bookcase-shelves) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/sks-saurav/leetcode-submission/tree/master/0004-median-of-two-sorted-arrays) |
 | [0270-closest-binary-search-tree-value](https://github.com/sks-saurav/leetcode-submission/tree/master/0270-closest-binary-search-tree-value) |
 | [0732-my-calendar-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/0732-my-calendar-iii) |
+| [1004-max-consecutive-ones-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/1004-max-consecutive-ones-iii) |
 | [2031-count-subarrays-with-more-ones-than-zeros](https://github.com/sks-saurav/leetcode-submission/tree/master/2031-count-subarrays-with-more-ones-than-zeros) |
 | [2838-maximum-coins-heroes-can-collect](https://github.com/sks-saurav/leetcode-submission/tree/master/2838-maximum-coins-heroes-can-collect) |
 ## Divide and Conquer
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0732-my-calendar-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/0732-my-calendar-iii) |
+| [1004-max-consecutive-ones-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/1004-max-consecutive-ones-iii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/sks-saurav/leetcode-submission/tree/master/1310-xor-queries-of-a-subarray) |
 | [2838-maximum-coins-heroes-can-collect](https://github.com/sks-saurav/leetcode-submission/tree/master/2838-maximum-coins-heroes-can-collect) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sks-saurav/leetcode-submission/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -479,4 +482,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0439-ternary-expression-parser](https://github.com/sks-saurav/leetcode-submission/tree/master/0439-ternary-expression-parser) |
 | [0772-basic-calculator-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/0772-basic-calculator-iii) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
