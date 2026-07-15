@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0186-reverse-words-in-a-string-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0186-reverse-words-in-a-string-ii) |
 | [0269-alien-dictionary](https://github.com/sks-saurav/leetcode-submission/tree/master/0269-alien-dictionary) |
 | [0291-word-pattern-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0291-word-pattern-ii) |
+| [0320-generalized-abbreviation](https://github.com/sks-saurav/leetcode-submission/tree/master/0320-generalized-abbreviation) |
 | [0428-serialize-and-deserialize-n-ary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/0428-serialize-and-deserialize-n-ary-tree) |
 | [0433-minimum-genetic-mutation](https://github.com/sks-saurav/leetcode-submission/tree/master/0433-minimum-genetic-mutation) |
 | [0439-ternary-expression-parser](https://github.com/sks-saurav/leetcode-submission/tree/master/0439-ternary-expression-parser) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0291-word-pattern-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0291-word-pattern-ii) |
+| [0320-generalized-abbreviation](https://github.com/sks-saurav/leetcode-submission/tree/master/0320-generalized-abbreviation) |
 | [0797-all-paths-from-source-to-target](https://github.com/sks-saurav/leetcode-submission/tree/master/0797-all-paths-from-source-to-target) |
 ## Biconnected Component
 |  |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0320-generalized-abbreviation](https://github.com/sks-saurav/leetcode-submission/tree/master/0320-generalized-abbreviation) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/sks-saurav/leetcode-submission/tree/master/0864-shortest-path-to-get-all-keys) |
 | [1310-xor-queries-of-a-subarray](https://github.com/sks-saurav/leetcode-submission/tree/master/1310-xor-queries-of-a-subarray) |
 | [1506-find-root-of-n-ary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/1506-find-root-of-n-ary-tree) |
