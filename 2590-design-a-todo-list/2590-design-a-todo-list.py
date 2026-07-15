@@ -1,3 +1,4 @@
+import bisect
 from collections import defaultdict
 from typing import List
 
@@ -7,12 +8,17 @@ class Task:
         self.taskDesc = taskDesc
         self.dueDate = dueDate
         self.isComplete = False
+        
+    # This allows bisect to automatically sort Task objects by dueDate
+    def __lt__(self, other):
+        return self.dueDate < other.dueDate
 
 class User:
     def __init__(self, userId: int):
         self.userId = userId
-        self.tasks = {}
-        self.task_by_tag = defaultdict(list)
+        self.tasks_map = {}                      # O(1) lookup for completeTask
+        self.all_tasks = []                      # Maintained as a sorted list
+        self.task_by_tag = defaultdict(list)     # Maintained as sorted lists
 
 class TodoList:
     def __init__(self):
@@ -29,26 +35,22 @@ class TodoList:
         return self.id
 
     def _extract_task(self, tasks: List[Task]) -> List[str]:
-        ans = []
-        # Use sorted() to avoid mutating the original lists passed into this method
-        sorted_tasks = sorted(tasks, key=lambda x: x.dueDate)
-        
-        for t in sorted_tasks:
-            if not t.isComplete:
-                ans.append(t.taskDesc)
+        # NO SORTING HERE ANYMORE! Just a fast O(N) extraction.
+        return [t.taskDesc for t in tasks if not t.isComplete]
 
-        return ans
-        
     def addTask(self, userId: int, taskDescription: str, dueDate: int, tags: List[str]) -> int:
         taskId = self._get_next_id()
         task = Task(taskId, taskDescription, dueDate)
 
         user = self._get_user(userId)
-        user.tasks[taskId] = task
+        user.tasks_map[taskId] = task
+        
+        # Insert into the main sorted list
+        bisect.insort(user.all_tasks, task)
 
-        # Use set(tags) to prevent duplicate tag entries for the same task
+        # Insert into the tagged sorted lists
         for tag in set(tags):
-            user.task_by_tag[tag].append(task)
+            bisect.insort(user.task_by_tag[tag], task)
             
         return taskId
 
@@ -56,24 +58,19 @@ class TodoList:
         if userId not in self.users:
             return []
 
-        tasks = list(self.users[userId].tasks.values())
-        return self._extract_task(tasks)    
+        return self._extract_task(self.users[userId].all_tasks)    
 
     def getTasksForTag(self, userId: int, tag: str) -> List[str]:
         if userId not in self.users:
             return []
 
         user = self.users[userId]
-        if tag in user.task_by_tag:
-            tasks = user.task_by_tag[tag]
-            return self._extract_task(tasks)
-            
-        return []    
+        return self._extract_task(user.task_by_tag.get(tag, []))    
 
     def completeTask(self, userId: int, taskId: int) -> None:
         if userId not in self.users:
             return
 
         user = self.users[userId]
-        if taskId in user.tasks:
-            user.tasks[taskId].isComplete = True
+        if taskId in user.tasks_map:
+            user.tasks_map[taskId].isComplete = True
