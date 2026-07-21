@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2031-count-subarrays-with-more-ones-than-zeros](https://github.com/sks-saurav/leetcode-submission/tree/master/2031-count-subarrays-with-more-ones-than-zeros) |
 | [2158-amount-of-new-area-painted-each-day](https://github.com/sks-saurav/leetcode-submission/tree/master/2158-amount-of-new-area-painted-each-day) |
 | [2277-closest-node-to-path-in-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/2277-closest-node-to-path-in-tree) |
+| [2297-jump-game-viii](https://github.com/sks-saurav/leetcode-submission/tree/master/2297-jump-game-viii) |
 | [2590-design-a-todo-list](https://github.com/sks-saurav/leetcode-submission/tree/master/2590-design-a-todo-list) |
 | [2838-maximum-coins-heroes-can-collect](https://github.com/sks-saurav/leetcode-submission/tree/master/2838-maximum-coins-heroes-can-collect) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sks-saurav/leetcode-submission/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1278-palindrome-partitioning-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/1278-palindrome-partitioning-iii) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sks-saurav/leetcode-submission/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/sks-saurav/leetcode-submission/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [2297-jump-game-viii](https://github.com/sks-saurav/leetcode-submission/tree/master/2297-jump-game-viii) |
 ## Brainteaser
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0484-find-permutation](https://github.com/sks-saurav/leetcode-submission/tree/master/0484-find-permutation) |
 | [0772-basic-calculator-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/0772-basic-calculator-iii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sks-saurav/leetcode-submission/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2297-jump-game-viii](https://github.com/sks-saurav/leetcode-submission/tree/master/2297-jump-game-viii) |
 | [3749-evaluate-valid-expressions](https://github.com/sks-saurav/leetcode-submission/tree/master/3749-evaluate-valid-expressions) |
 ## Simulation
 |  |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1724-checking-existence-of-edge-length-limited-paths-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/1724-checking-existence-of-edge-length-limited-paths-ii) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/sks-saurav/leetcode-submission/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2077-paths-in-maze-that-lead-to-same-room](https://github.com/sks-saurav/leetcode-submission/tree/master/2077-paths-in-maze-that-lead-to-same-room) |
+| [2297-jump-game-viii](https://github.com/sks-saurav/leetcode-submission/tree/master/2297-jump-game-viii) |
 ## Tree
 |  |
 | ------- |
@@ -446,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0505-the-maze-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0505-the-maze-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sks-saurav/leetcode-submission/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/sks-saurav/leetcode-submission/tree/master/1514-path-with-maximum-probability) |
+| [2297-jump-game-viii](https://github.com/sks-saurav/leetcode-submission/tree/master/2297-jump-game-viii) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -500,4 +505,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0727-minimum-window-subsequence](https://github.com/sks-saurav/leetcode-submission/tree/master/0727-minimum-window-subsequence) |
 | [1004-max-consecutive-ones-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/1004-max-consecutive-ones-iii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2297-jump-game-viii](https://github.com/sks-saurav/leetcode-submission/tree/master/2297-jump-game-viii) |
 <!---LeetCode Topics End-->
