@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0772-basic-calculator-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/0772-basic-calculator-iii) |
 | [1025-divisor-game](https://github.com/sks-saurav/leetcode-submission/tree/master/1025-divisor-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sks-saurav/leetcode-submission/tree/master/1344-angle-between-hands-of-a-clock) |
+| [2189-number-of-ways-to-build-house-of-cards](https://github.com/sks-saurav/leetcode-submission/tree/master/2189-number-of-ways-to-build-house-of-cards) |
 | [3749-evaluate-valid-expressions](https://github.com/sks-saurav/leetcode-submission/tree/master/3749-evaluate-valid-expressions) |
 ## Dynamic Programming
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1278-palindrome-partitioning-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/1278-palindrome-partitioning-iii) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sks-saurav/leetcode-submission/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/sks-saurav/leetcode-submission/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [2189-number-of-ways-to-build-house-of-cards](https://github.com/sks-saurav/leetcode-submission/tree/master/2189-number-of-ways-to-build-house-of-cards) |
 | [2297-jump-game-viii](https://github.com/sks-saurav/leetcode-submission/tree/master/2297-jump-game-viii) |
 ## Brainteaser
 |  |
