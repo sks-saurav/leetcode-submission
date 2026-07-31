@@ -1,38 +1,28 @@
 class Solution:
-    def boldWords(self, words: List[str], s: str) -> str:
-        arr = []
-        for word in words:
-            index = s.find(word)
-            while index != -1:
-                arr.append([index, index+len(word)-1])
-                index = s.find(word, index + 1)
-
-
-        arr.sort()
-        merged_arr = []
-        if len(arr) != 0:
-            merged_arr.append(arr[0])
-            for i in range(1, len(arr)):
-                if merged_arr[-1][1] + 1 >= arr[i][0]:
-                    merged_arr[-1][1] = max(merged_arr[-1][1], arr[i][1])
-                else:
-                    merged_arr.append(arr[i])
-
-        st, end = set(), set()
-        for a in merged_arr:
-            st.add(a[0])
-            end.add(a[1]+1)
+    def boldWords(self, words: list[str], s: str) -> str:
+        n = len(s)
+        bold = [False] * n
         
+        # Step 1: Mark all characters that are part of any keyword as True
+        for word in words:
+            start = s.find(word)
+            while start != -1:
+                for i in range(start, start + len(word)):
+                    bold[i] = True
+                start = s.find(word, start + 1)
+                
         ans = []
-        for i in range(len(s)):
-            if i in st:
+        for i in range(n):
+            # If current char is bold AND (it's the first char OR previous char was not bold)
+            # This means we just entered a bold section.
+            if bold[i] and (i == 0 or not bold[i - 1]):
                 ans.append('<b>')
-            elif i in end:
-                ans.append('</b>')
+                
             ans.append(s[i])
-
-        if len(s) in end:
-            ans.append('</b>')
             
-
+            # If current char is bold AND (it's the last char OR next char is not bold)
+            # This means we just finished a bold section.
+            if bold[i] and (i == n - 1 or not bold[i + 1]):
+                ans.append('</b>')
+                
         return ''.join(ans)
