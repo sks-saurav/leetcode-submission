@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/sks-saurav/leetcode-submission/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sks-saurav/leetcode-submission/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/sks-saurav/leetcode-submission/tree/master/0721-accounts-merge) |
+| [0758-bold-words-in-string](https://github.com/sks-saurav/leetcode-submission/tree/master/0758-bold-words-in-string) |
 | [0839-similar-string-groups](https://github.com/sks-saurav/leetcode-submission/tree/master/0839-similar-string-groups) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/sks-saurav/leetcode-submission/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0923-3sum-with-multiplicity](https://github.com/sks-saurav/leetcode-submission/tree/master/0923-3sum-with-multiplicity) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0291-word-pattern-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0291-word-pattern-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/sks-saurav/leetcode-submission/tree/master/0433-minimum-genetic-mutation) |
 | [0721-accounts-merge](https://github.com/sks-saurav/leetcode-submission/tree/master/0721-accounts-merge) |
+| [0758-bold-words-in-string](https://github.com/sks-saurav/leetcode-submission/tree/master/0758-bold-words-in-string) |
 | [0839-similar-string-groups](https://github.com/sks-saurav/leetcode-submission/tree/master/0839-similar-string-groups) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0923-3sum-with-multiplicity](https://github.com/sks-saurav/leetcode-submission/tree/master/0923-3sum-with-multiplicity) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sks-saurav/leetcode-submission/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/sks-saurav/leetcode-submission/tree/master/0721-accounts-merge) |
 | [0727-minimum-window-subsequence](https://github.com/sks-saurav/leetcode-submission/tree/master/0727-minimum-window-subsequence) |
+| [0758-bold-words-in-string](https://github.com/sks-saurav/leetcode-submission/tree/master/0758-bold-words-in-string) |
 | [0772-basic-calculator-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/0772-basic-calculator-iii) |
 | [0839-similar-string-groups](https://github.com/sks-saurav/leetcode-submission/tree/master/0839-similar-string-groups) |
 | [1189-maximum-number-of-balloons](https://github.com/sks-saurav/leetcode-submission/tree/master/1189-maximum-number-of-balloons) |
@@ -519,4 +522,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3135-equalize-strings-by-adding-or-removing-characters-at-ends](https://github.com/sks-saurav/leetcode-submission/tree/master/3135-equalize-strings-by-adding-or-removing-characters-at-ends) |
+## Trie
+|  |
+| ------- |
+| [0758-bold-words-in-string](https://github.com/sks-saurav/leetcode-submission/tree/master/0758-bold-words-in-string) |
+## String Matching
+|  |
+| ------- |
+| [0758-bold-words-in-string](https://github.com/sks-saurav/leetcode-submission/tree/master/0758-bold-words-in-string) |
 <!---LeetCode Topics End-->
