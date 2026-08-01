@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/sks-saurav/leetcode-submission/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sks-saurav/leetcode-submission/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1105-filling-bookcase-shelves](https://github.com/sks-saurav/leetcode-submission/tree/master/1105-filling-bookcase-shelves) |
+| [1199-minimum-time-to-build-blocks](https://github.com/sks-saurav/leetcode-submission/tree/master/1199-minimum-time-to-build-blocks) |
 | [1229-meeting-scheduler](https://github.com/sks-saurav/leetcode-submission/tree/master/1229-meeting-scheduler) |
 | [1254-number-of-closed-islands](https://github.com/sks-saurav/leetcode-submission/tree/master/1254-number-of-closed-islands) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/sks-saurav/leetcode-submission/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sks-saurav/leetcode-submission/tree/master/0189-rotate-array) |
 | [0772-basic-calculator-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/0772-basic-calculator-iii) |
 | [1025-divisor-game](https://github.com/sks-saurav/leetcode-submission/tree/master/1025-divisor-game) |
+| [1199-minimum-time-to-build-blocks](https://github.com/sks-saurav/leetcode-submission/tree/master/1199-minimum-time-to-build-blocks) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sks-saurav/leetcode-submission/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2189-number-of-ways-to-build-house-of-cards](https://github.com/sks-saurav/leetcode-submission/tree/master/2189-number-of-ways-to-build-house-of-cards) |
 | [3749-evaluate-valid-expressions](https://github.com/sks-saurav/leetcode-submission/tree/master/3749-evaluate-valid-expressions) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0484-find-permutation](https://github.com/sks-saurav/leetcode-submission/tree/master/0484-find-permutation) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sks-saurav/leetcode-submission/tree/master/0646-maximum-length-of-pair-chain) |
+| [1199-minimum-time-to-build-blocks](https://github.com/sks-saurav/leetcode-submission/tree/master/1199-minimum-time-to-build-blocks) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/sks-saurav/leetcode-submission/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1405-longest-happy-string](https://github.com/sks-saurav/leetcode-submission/tree/master/1405-longest-happy-string) |
 ## Sorting
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/sks-saurav/leetcode-submission/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1135-connecting-cities-with-minimum-cost](https://github.com/sks-saurav/leetcode-submission/tree/master/1135-connecting-cities-with-minimum-cost) |
 | [1168-optimize-water-distribution-in-a-village](https://github.com/sks-saurav/leetcode-submission/tree/master/1168-optimize-water-distribution-in-a-village) |
+| [1199-minimum-time-to-build-blocks](https://github.com/sks-saurav/leetcode-submission/tree/master/1199-minimum-time-to-build-blocks) |
 | [1405-longest-happy-string](https://github.com/sks-saurav/leetcode-submission/tree/master/1405-longest-happy-string) |
 | [1514-path-with-maximum-probability](https://github.com/sks-saurav/leetcode-submission/tree/master/1514-path-with-maximum-probability) |
 | [1724-checking-existence-of-edge-length-limited-paths-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/1724-checking-existence-of-edge-length-limited-paths-ii) |
