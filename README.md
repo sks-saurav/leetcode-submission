@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-closest-node-to-path-in-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/2277-closest-node-to-path-in-tree) |
 | [2297-jump-game-viii](https://github.com/sks-saurav/leetcode-submission/tree/master/2297-jump-game-viii) |
 | [2590-design-a-todo-list](https://github.com/sks-saurav/leetcode-submission/tree/master/2590-design-a-todo-list) |
+| [2836-maximize-value-of-function-in-a-ball-passing-game](https://github.com/sks-saurav/leetcode-submission/tree/master/2836-maximize-value-of-function-in-a-ball-passing-game) |
 | [2838-maximum-coins-heroes-can-collect](https://github.com/sks-saurav/leetcode-submission/tree/master/2838-maximum-coins-heroes-can-collect) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sks-saurav/leetcode-submission/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/sks-saurav/leetcode-submission/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2189-number-of-ways-to-build-house-of-cards](https://github.com/sks-saurav/leetcode-submission/tree/master/2189-number-of-ways-to-build-house-of-cards) |
 | [2297-jump-game-viii](https://github.com/sks-saurav/leetcode-submission/tree/master/2297-jump-game-viii) |
+| [2836-maximize-value-of-function-in-a-ball-passing-game](https://github.com/sks-saurav/leetcode-submission/tree/master/2836-maximize-value-of-function-in-a-ball-passing-game) |
 | [3135-equalize-strings-by-adding-or-removing-characters-at-ends](https://github.com/sks-saurav/leetcode-submission/tree/master/3135-equalize-strings-by-adding-or-removing-characters-at-ends) |
 ## Brainteaser
 |  |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1310-xor-queries-of-a-subarray](https://github.com/sks-saurav/leetcode-submission/tree/master/1310-xor-queries-of-a-subarray) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/sks-saurav/leetcode-submission/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1506-find-root-of-n-ary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/1506-find-root-of-n-ary-tree) |
+| [2836-maximize-value-of-function-in-a-ball-passing-game](https://github.com/sks-saurav/leetcode-submission/tree/master/2836-maximize-value-of-function-in-a-ball-passing-game) |
 ## Design
 |  |
 | ------- |
