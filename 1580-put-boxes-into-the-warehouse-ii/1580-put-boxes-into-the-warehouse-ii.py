@@ -1,27 +1,28 @@
 class Solution:
     def maxBoxesInWarehouse(self, boxes: List[int], warehouse: List[int]) -> int:
-        l = list(warehouse)
-        r = list(warehouse)
+        n = len(warehouse)
+        minHeight = float("inf")
+        effectiveHeights = [0] * n
 
-        for i in range(1, len(warehouse)):
-            l[i] = min(l[i], l[i-1])
+        for i in range(n):
+            minHeight = min(minHeight, warehouse[i])
+            effectiveHeights[i] = minHeight
 
-        for i in range(len(warehouse)-2, -1, -1):
-            r[i] = min(r[i], r[i+1])
-
-        for i in range(len(warehouse)):
-            warehouse[i] = max(l[i], r[i])
+        minHeight = float("inf")
+        for i in range(n - 1, -1, -1):
+            minHeight = min(minHeight, warehouse[i])
+            effectiveHeights[i] = max(effectiveHeights[i], minHeight)
 
         ans = 0
-        i, wa, wb = 0, 0, len(warehouse)-1
+        i, wa, wb = 0, 0, len(effectiveHeights)-1
         boxes.sort(reverse=True)
 
         while i < len(boxes) and wa <= wb:
-            if boxes[i] <= warehouse[wa]:
+            if boxes[i] <= effectiveHeights[wa]:
                 wa += 1
                 ans += 1
                 i += 1
-            elif boxes[i] <= warehouse[wb]:
+            elif boxes[i] <= effectiveHeights[wb]:
                 wb -= 1
                 ans += 1
                 i += 1
