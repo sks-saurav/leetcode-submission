@@ -3,17 +3,10 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        arr = list(nums)
-        arr.sort()
-        i, j, k = 0, 0, len(nums)-1
-        while j < k:
-            nums[i] = arr[j]
-            i += 1
-            nums[i] = arr[k]
-            i += 1
-            j += 1
-            k -= 1
-
-        if j == k:
-            nums[i] = arr[j]
-
+        for i in range(1, len(nums)):
+            if i%2 == 0:
+                if nums[i-1] < nums[i]:
+                    nums[i-1], nums[i] = nums[i], nums[i-1]
+            else:
+                if nums[i-1] > nums[i]:
+                    nums[i-1], nums[i] = nums[i], nums[i-1]
