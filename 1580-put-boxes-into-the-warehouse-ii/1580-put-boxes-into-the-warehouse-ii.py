@@ -13,16 +13,19 @@ class Solution:
             warehouse[i] = max(l[i], r[i])
 
         ans = 0
-        i, j = 0, 0
+        i, wa, wb = 0, 0, len(warehouse)-1
         boxes.sort(reverse=True)
-        warehouse.sort(reverse=True)
 
-        while i < len(warehouse) and j < len(boxes):
-            if boxes[j] <= warehouse[i]:
+        while i < len(boxes) and wa <= wb:
+            if boxes[i] <= warehouse[wa]:
+                wa += 1
                 ans += 1
                 i += 1
-                j += 1
+            elif boxes[i] <= warehouse[wb]:
+                wb -= 1
+                ans += 1
+                i += 1
             else:
-                j += 1
+                i += 1
 
         return ans
