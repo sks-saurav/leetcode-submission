@@ -3,16 +3,13 @@ class Solution:
         n = len(warehouse)
         ans = 0
         i, wa, wb = 0, 0, len(warehouse)-1
-        wl, wr = float('inf'), float('inf')
         boxes.sort(reverse=True)
 
         while i < len(boxes) and wa <= wb:
-            if boxes[i] <= min(wl, warehouse[wa]):
-                wl =  min(wl, warehouse[wa])
+            if boxes[i] <= warehouse[wa]:
                 wa += 1
                 ans += 1
-            elif boxes[i] <=  min(wr, warehouse[wb]):
-                wr =  min(wr, warehouse[wb])
+            elif boxes[i] <=  warehouse[wb]:
                 wb -= 1
                 ans += 1
             
