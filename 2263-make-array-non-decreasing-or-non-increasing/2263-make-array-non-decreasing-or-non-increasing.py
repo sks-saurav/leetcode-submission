@@ -1,3 +1,4 @@
+# PREMIUM
 class Solution:
     def convertArray(self, nums: List[int]) -> int:
         
@@ -13,7 +14,7 @@ class Solution:
                     heapq.heappop(heap)
                     #Push the new "flattened" value to represent the lowered peak
                     heapq.heappush(heap, -ele)
-                    
+                
                 heapq.heappush(heap, -ele)
 
             return cost
