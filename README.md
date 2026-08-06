@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1278-palindrome-partitioning-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/1278-palindrome-partitioning-iii) |
 | [1405-longest-happy-string](https://github.com/sks-saurav/leetcode-submission/tree/master/1405-longest-happy-string) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sks-saurav/leetcode-submission/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sks-saurav/leetcode-submission/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/sks-saurav/leetcode-submission/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1858-longest-word-with-all-prefixes](https://github.com/sks-saurav/leetcode-submission/tree/master/1858-longest-word-with-all-prefixes) |
 | [2590-design-a-todo-list](https://github.com/sks-saurav/leetcode-submission/tree/master/2590-design-a-todo-list) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/sks-saurav/leetcode-submission/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1405-longest-happy-string](https://github.com/sks-saurav/leetcode-submission/tree/master/1405-longest-happy-string) |
 | [1580-put-boxes-into-the-warehouse-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/1580-put-boxes-into-the-warehouse-ii) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sks-saurav/leetcode-submission/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1708-largest-subarray-length-k](https://github.com/sks-saurav/leetcode-submission/tree/master/1708-largest-subarray-length-k) |
 | [2263-make-array-non-decreasing-or-non-increasing](https://github.com/sks-saurav/leetcode-submission/tree/master/2263-make-array-non-decreasing-or-non-increasing) |
 | [2340-minimum-adjacent-swaps-to-make-a-valid-array](https://github.com/sks-saurav/leetcode-submission/tree/master/2340-minimum-adjacent-swaps-to-make-a-valid-array) |
