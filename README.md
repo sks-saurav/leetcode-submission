@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/sks-saurav/leetcode-submission/tree/master/0307-range-sum-query-mutable) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sks-saurav/leetcode-submission/tree/master/0417-pacific-atlantic-water-flow) |
 | [0484-find-permutation](https://github.com/sks-saurav/leetcode-submission/tree/master/0484-find-permutation) |
+| [0494-target-sum](https://github.com/sks-saurav/leetcode-submission/tree/master/0494-target-sum) |
 | [0499-the-maze-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/0499-the-maze-iii) |
 | [0505-the-maze-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0505-the-maze-ii) |
 | [0527-word-abbreviation](https://github.com/sks-saurav/leetcode-submission/tree/master/0527-word-abbreviation) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0091-decode-ways](https://github.com/sks-saurav/leetcode-submission/tree/master/0091-decode-ways) |
 | [0279-perfect-squares](https://github.com/sks-saurav/leetcode-submission/tree/master/0279-perfect-squares) |
+| [0494-target-sum](https://github.com/sks-saurav/leetcode-submission/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/sks-saurav/leetcode-submission/tree/master/0542-01-matrix) |
 | [0639-decode-ways-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0639-decode-ways-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sks-saurav/leetcode-submission/tree/master/0646-maximum-length-of-pair-chain) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0291-word-pattern-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0291-word-pattern-ii) |
 | [0320-generalized-abbreviation](https://github.com/sks-saurav/leetcode-submission/tree/master/0320-generalized-abbreviation) |
+| [0494-target-sum](https://github.com/sks-saurav/leetcode-submission/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/sks-saurav/leetcode-submission/tree/master/0797-all-paths-from-source-to-target) |
 ## Biconnected Component
 |  |
@@ -576,8 +579,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/sks-saurav/leetcode-submission/tree/master/0279-perfect-squares) |
+| [0494-target-sum](https://github.com/sks-saurav/leetcode-submission/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/sks-saurav/leetcode-submission/tree/master/0279-perfect-squares) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/sks-saurav/leetcode-submission/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
