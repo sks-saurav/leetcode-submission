@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2158-amount-of-new-area-painted-each-day](https://github.com/sks-saurav/leetcode-submission/tree/master/2158-amount-of-new-area-painted-each-day) |
 | [2263-make-array-non-decreasing-or-non-increasing](https://github.com/sks-saurav/leetcode-submission/tree/master/2263-make-array-non-decreasing-or-non-increasing) |
 | [2277-closest-node-to-path-in-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/2277-closest-node-to-path-in-tree) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/sks-saurav/leetcode-submission/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2297-jump-game-viii](https://github.com/sks-saurav/leetcode-submission/tree/master/2297-jump-game-viii) |
 | [2340-minimum-adjacent-swaps-to-make-a-valid-array](https://github.com/sks-saurav/leetcode-submission/tree/master/2340-minimum-adjacent-swaps-to-make-a-valid-array) |
 | [2590-design-a-todo-list](https://github.com/sks-saurav/leetcode-submission/tree/master/2590-design-a-todo-list) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1724-checking-existence-of-edge-length-limited-paths-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/1724-checking-existence-of-edge-length-limited-paths-ii) |
 | [1834-single-threaded-cpu](https://github.com/sks-saurav/leetcode-submission/tree/master/1834-single-threaded-cpu) |
 | [2263-make-array-non-decreasing-or-non-increasing](https://github.com/sks-saurav/leetcode-submission/tree/master/2263-make-array-non-decreasing-or-non-increasing) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/sks-saurav/leetcode-submission/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Counting
 |  |
 | ------- |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1660-correct-a-binary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/1660-correct-a-binary-tree) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/sks-saurav/leetcode-submission/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2277-closest-node-to-path-in-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/2277-closest-node-to-path-in-tree) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/sks-saurav/leetcode-submission/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Union-Find
 |  |
 | ------- |
@@ -397,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1724-checking-existence-of-edge-length-limited-paths-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/1724-checking-existence-of-edge-length-limited-paths-ii) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/sks-saurav/leetcode-submission/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2077-paths-in-maze-that-lead-to-same-room](https://github.com/sks-saurav/leetcode-submission/tree/master/2077-paths-in-maze-that-lead-to-same-room) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/sks-saurav/leetcode-submission/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2297-jump-game-viii](https://github.com/sks-saurav/leetcode-submission/tree/master/2297-jump-game-viii) |
 ## Tree
 |  |
@@ -446,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/sks-saurav/leetcode-submission/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/sks-saurav/leetcode-submission/tree/master/1254-number-of-closed-islands) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/sks-saurav/leetcode-submission/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/sks-saurav/leetcode-submission/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Binary Tree
 |  |
 | ------- |
@@ -505,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0505-the-maze-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0505-the-maze-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sks-saurav/leetcode-submission/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/sks-saurav/leetcode-submission/tree/master/1514-path-with-maximum-probability) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/sks-saurav/leetcode-submission/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2297-jump-game-viii](https://github.com/sks-saurav/leetcode-submission/tree/master/2297-jump-game-viii) |
 ## Minimum Spanning Tree
 |  |
@@ -607,4 +613,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/sks-saurav/leetcode-submission/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+## 0-1 BFS
+|  |
+| ------- |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/sks-saurav/leetcode-submission/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/sks-saurav/leetcode-submission/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 <!---LeetCode Topics End-->
