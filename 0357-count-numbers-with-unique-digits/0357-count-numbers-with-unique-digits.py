@@ -1,14 +1,28 @@
 class Solution:
-    """Mathematical Recursive Solution"""
     def countNumbersWithUniqueDigits(self, n: int) -> int:
-        def dp(i):
-            if i == 0:
+        
+        @cache
+        def digit_dp(s, idx, limited, lz, mask):
+            if idx == len(s):
                 return 1
-            if i == 1:
-                return 9
-            return (10 - (i - 1)) * dp(i - 1)
 
-        total = 0
-        for j in range(n + 1):
-            total += dp(j)
-        return total
+            res = 0
+            lb = 0
+            ub = (ord(s[idx]) - ord('0')) if limited else 9
+
+            for dig in range(lb, ub+1):
+                n_limited = limited and dig == int(s[idx])
+
+                if dig == 0 and lz:
+                    res += digit_dp(s, idx+1, n_limited, lz, mask)
+                else:
+                    if (mask & (1 << dig)) == 0:
+                        n_mask = mask | (1 << dig)
+                        n_lz = False
+                        res += digit_dp(s, idx+1, n_limited, n_lz, n_mask)
+
+            return res
+
+        n = 10**n - 1
+        return digit_dp(str(n), 0, True, True, 0)
+
