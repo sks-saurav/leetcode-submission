@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/sks-saurav/leetcode-submission/tree/master/0189-rotate-array) |
+| [0233-number-of-digit-one](https://github.com/sks-saurav/leetcode-submission/tree/master/0233-number-of-digit-one) |
 | [0279-perfect-squares](https://github.com/sks-saurav/leetcode-submission/tree/master/0279-perfect-squares) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0772-basic-calculator-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/0772-basic-calculator-iii) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/sks-saurav/leetcode-submission/tree/master/0091-decode-ways) |
+| [0233-number-of-digit-one](https://github.com/sks-saurav/leetcode-submission/tree/master/0233-number-of-digit-one) |
 | [0279-perfect-squares](https://github.com/sks-saurav/leetcode-submission/tree/master/0279-perfect-squares) |
 | [0312-burst-balloons](https://github.com/sks-saurav/leetcode-submission/tree/master/0312-burst-balloons) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0375-guess-number-higher-or-lower-ii) |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0233-number-of-digit-one](https://github.com/sks-saurav/leetcode-submission/tree/master/0233-number-of-digit-one) |
 | [0439-ternary-expression-parser](https://github.com/sks-saurav/leetcode-submission/tree/master/0439-ternary-expression-parser) |
 | [0772-basic-calculator-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/0772-basic-calculator-iii) |
 ## Sliding Window
