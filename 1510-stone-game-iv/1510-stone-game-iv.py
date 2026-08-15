@@ -1,11 +1,5 @@
-import sys
-
 class Solution:
     def winnerSquareGame(self, n: int) -> bool:
-        # sys.setrecursionlimit(200000)
-        
-        memo = {}
-        
         def game_dp(stones):
             # Base case: no stones left means the current player has no moves and loses            
             if stones == 0:
@@ -27,4 +21,6 @@ class Solution:
             memo[stones] = False
             return False
 
+
+        memo = {}
         return game_dp(n)
