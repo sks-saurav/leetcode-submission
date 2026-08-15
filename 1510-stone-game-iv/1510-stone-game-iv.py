@@ -7,6 +7,7 @@ class Solution:
         memo = {}
         
         def game_dp(stones):
+            # Base case: no stones left means the current player has no moves and loses            
             if stones == 0:
                 return False
                 
