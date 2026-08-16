@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0269-alien-dictionary](https://github.com/sks-saurav/leetcode-submission/tree/master/0269-alien-dictionary) |
 | [0280-wiggle-sort](https://github.com/sks-saurav/leetcode-submission/tree/master/0280-wiggle-sort) |
 | [0307-range-sum-query-mutable](https://github.com/sks-saurav/leetcode-submission/tree/master/0307-range-sum-query-mutable) |
+| [0308-range-sum-query-2d-mutable](https://github.com/sks-saurav/leetcode-submission/tree/master/0308-range-sum-query-2d-mutable) |
 | [0312-burst-balloons](https://github.com/sks-saurav/leetcode-submission/tree/master/0312-burst-balloons) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sks-saurav/leetcode-submission/tree/master/0417-pacific-atlantic-water-flow) |
 | [0484-find-permutation](https://github.com/sks-saurav/leetcode-submission/tree/master/0484-find-permutation) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sks-saurav/leetcode-submission/tree/master/0200-number-of-islands) |
+| [0308-range-sum-query-2d-mutable](https://github.com/sks-saurav/leetcode-submission/tree/master/0308-range-sum-query-2d-mutable) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sks-saurav/leetcode-submission/tree/master/0417-pacific-atlantic-water-flow) |
 | [0499-the-maze-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/0499-the-maze-iii) |
 | [0505-the-maze-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0505-the-maze-ii) |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/sks-saurav/leetcode-submission/tree/master/0307-range-sum-query-mutable) |
+| [0308-range-sum-query-2d-mutable](https://github.com/sks-saurav/leetcode-submission/tree/master/0308-range-sum-query-2d-mutable) |
 | [0732-my-calendar-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/0732-my-calendar-iii) |
 | [2031-count-subarrays-with-more-ones-than-zeros](https://github.com/sks-saurav/leetcode-submission/tree/master/2031-count-subarrays-with-more-ones-than-zeros) |
 | [2158-amount-of-new-area-painted-each-day](https://github.com/sks-saurav/leetcode-submission/tree/master/2158-amount-of-new-area-painted-each-day) |
@@ -561,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/sks-saurav/leetcode-submission/tree/master/0307-range-sum-query-mutable) |
+| [0308-range-sum-query-2d-mutable](https://github.com/sks-saurav/leetcode-submission/tree/master/0308-range-sum-query-2d-mutable) |
 | [0732-my-calendar-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/0732-my-calendar-iii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/sks-saurav/leetcode-submission/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1724-checking-existence-of-edge-length-limited-paths-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/1724-checking-existence-of-edge-length-limited-paths-ii) |
@@ -576,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/sks-saurav/leetcode-submission/tree/master/0307-range-sum-query-mutable) |
+| [0308-range-sum-query-2d-mutable](https://github.com/sks-saurav/leetcode-submission/tree/master/0308-range-sum-query-2d-mutable) |
 | [2031-count-subarrays-with-more-ones-than-zeros](https://github.com/sks-saurav/leetcode-submission/tree/master/2031-count-subarrays-with-more-ones-than-zeros) |
 ## Ordered Set
 |  |
@@ -670,4 +675,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/sks-saurav/leetcode-submission/tree/master/1510-stone-game-iv) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [0308-range-sum-query-2d-mutable](https://github.com/sks-saurav/leetcode-submission/tree/master/0308-range-sum-query-2d-mutable) |
 <!---LeetCode Topics End-->
