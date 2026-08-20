@@ -1,25 +1,12 @@
 class Solution:
     def findSubsequences(self, nums: List[int]) -> List[List[int]]:
-        final_res = []
-        found_res = set()
-
-        def back_track(idx, res):
-            if idx == len(nums):
-                if len(res) > 1:
-                    res_t = tuple(res)
-                    if res_t not in found_res:
-                        found_res.add(res_t)
-                        final_res.append(list(res))
-                return
-
-
-            back_track(idx+1, res)
-
-            if len(res) == 0 or nums[idx] >= res[-1]:
-                res.append(nums[idx])
-                back_track(idx+1, res)
-                res.pop()
-
-
-        back_track(0, [])
-        return final_res
+        n = len(nums)
+        result = set()
+        for bitmask in range(1, 1 << n):
+            # build the sequence
+            sequence = [nums[i] for i in range(n) if (bitmask >> i) & 1]
+            # check if its length is at least 2, and it is increasing
+            if len(sequence) >= 2 and all([sequence[i] <= sequence[i + 1] for i in range(len(sequence) - 1)]):
+                result.add(tuple(sequence))
+                
+        return [list(x) for x in result]
