@@ -33,10 +33,7 @@ class Solution:
                 if indeg[nxt] == 0:
                     que.append(nxt)
 
-        return ans if visited == n else -1
-        
-        
+        if visited != n: # Cycle found
+            return -1
 
-        
-
-
+        return ans
