@@ -716,4 +716,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1618-maximum-font-to-fit-a-sentence-in-a-screen](https://github.com/sks-saurav/leetcode-submission/tree/master/1618-maximum-font-to-fit-a-sentence-in-a-screen) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/sks-saurav/leetcode-submission/tree/master/1857-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
