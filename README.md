@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sks-saurav/leetcode-submission/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sks-saurav/leetcode-submission/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/sks-saurav/leetcode-submission/tree/master/0018-4sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/sks-saurav/leetcode-submission/tree/master/0033-search-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/sks-saurav/leetcode-submission/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/sks-saurav/leetcode-submission/tree/master/0200-number-of-islands) |
 | [0269-alien-dictionary](https://github.com/sks-saurav/leetcode-submission/tree/master/0269-alien-dictionary) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sks-saurav/leetcode-submission/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/sks-saurav/leetcode-submission/tree/master/0033-search-in-rotated-sorted-array) |
 | [0270-closest-binary-search-tree-value](https://github.com/sks-saurav/leetcode-submission/tree/master/0270-closest-binary-search-tree-value) |
 | [0732-my-calendar-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/0732-my-calendar-iii) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/sks-saurav/leetcode-submission/tree/master/0902-numbers-at-most-n-given-digit-set) |
