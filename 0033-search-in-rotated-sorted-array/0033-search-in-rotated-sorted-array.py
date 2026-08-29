@@ -17,12 +17,12 @@ class Solution:
                     end = mid
                 else:
                     st = mid+1
-                    
+    
             return st if nums[st] == target else -1
         
         pvt = find_pivot()
         
-        # Step 3: Search both halves 
+        #Search both halves 
         ans1 = binary_search(0, pvt - 1)
         ans2 = binary_search(pvt, len(nums) - 1)
 
