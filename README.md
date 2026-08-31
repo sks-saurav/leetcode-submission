@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2297-jump-game-viii](https://github.com/sks-saurav/leetcode-submission/tree/master/2297-jump-game-viii) |
 | [2340-minimum-adjacent-swaps-to-make-a-valid-array](https://github.com/sks-saurav/leetcode-submission/tree/master/2340-minimum-adjacent-swaps-to-make-a-valid-array) |
 | [2345-finding-the-number-of-visible-mountains](https://github.com/sks-saurav/leetcode-submission/tree/master/2345-finding-the-number-of-visible-mountains) |
+| [2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s](https://github.com/sks-saurav/leetcode-submission/tree/master/2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s) |
 | [2590-design-a-todo-list](https://github.com/sks-saurav/leetcode-submission/tree/master/2590-design-a-todo-list) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/sks-saurav/leetcode-submission/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2836-maximize-value-of-function-in-a-ball-passing-game](https://github.com/sks-saurav/leetcode-submission/tree/master/2836-maximize-value-of-function-in-a-ball-passing-game) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2263-make-array-non-decreasing-or-non-increasing](https://github.com/sks-saurav/leetcode-submission/tree/master/2263-make-array-non-decreasing-or-non-increasing) |
 | [2297-jump-game-viii](https://github.com/sks-saurav/leetcode-submission/tree/master/2297-jump-game-viii) |
 | [2313-minimum-flips-in-binary-tree-to-get-result](https://github.com/sks-saurav/leetcode-submission/tree/master/2313-minimum-flips-in-binary-tree-to-get-result) |
+| [2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s](https://github.com/sks-saurav/leetcode-submission/tree/master/2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s) |
 | [2836-maximize-value-of-function-in-a-ball-passing-game](https://github.com/sks-saurav/leetcode-submission/tree/master/2836-maximize-value-of-function-in-a-ball-passing-game) |
 | [3135-equalize-strings-by-adding-or-removing-characters-at-ends](https://github.com/sks-saurav/leetcode-submission/tree/master/3135-equalize-strings-by-adding-or-removing-characters-at-ends) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/sks-saurav/leetcode-submission/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/sks-saurav/leetcode-submission/tree/master/1254-number-of-closed-islands) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/sks-saurav/leetcode-submission/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/sks-saurav/leetcode-submission/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s](https://github.com/sks-saurav/leetcode-submission/tree/master/2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s) |
 ## Binary Tree
 |  |
 | ------- |
