@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2340-minimum-adjacent-swaps-to-make-a-valid-array](https://github.com/sks-saurav/leetcode-submission/tree/master/2340-minimum-adjacent-swaps-to-make-a-valid-array) |
 | [2345-finding-the-number-of-visible-mountains](https://github.com/sks-saurav/leetcode-submission/tree/master/2345-finding-the-number-of-visible-mountains) |
 | [2355-maximum-number-of-books-you-can-take](https://github.com/sks-saurav/leetcode-submission/tree/master/2355-maximum-number-of-books-you-can-take) |
+| [2371-minimize-maximum-value-in-a-grid](https://github.com/sks-saurav/leetcode-submission/tree/master/2371-minimize-maximum-value-in-a-grid) |
 | [2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s](https://github.com/sks-saurav/leetcode-submission/tree/master/2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s) |
 | [2590-design-a-todo-list](https://github.com/sks-saurav/leetcode-submission/tree/master/2590-design-a-todo-list) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/sks-saurav/leetcode-submission/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1724-checking-existence-of-edge-length-limited-paths-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/1724-checking-existence-of-edge-length-limited-paths-ii) |
 | [1834-single-threaded-cpu](https://github.com/sks-saurav/leetcode-submission/tree/master/1834-single-threaded-cpu) |
 | [2345-finding-the-number-of-visible-mountains](https://github.com/sks-saurav/leetcode-submission/tree/master/2345-finding-the-number-of-visible-mountains) |
+| [2371-minimize-maximum-value-in-a-grid](https://github.com/sks-saurav/leetcode-submission/tree/master/2371-minimize-maximum-value-in-a-grid) |
 | [2590-design-a-todo-list](https://github.com/sks-saurav/leetcode-submission/tree/master/2590-design-a-todo-list) |
 | [2838-maximum-coins-heroes-can-collect](https://github.com/sks-saurav/leetcode-submission/tree/master/2838-maximum-coins-heroes-can-collect) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sks-saurav/leetcode-submission/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/sks-saurav/leetcode-submission/tree/master/1584-min-cost-to-connect-all-points) |
 | [1724-checking-existence-of-edge-length-limited-paths-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/1724-checking-existence-of-edge-length-limited-paths-ii) |
+| [2371-minimize-maximum-value-in-a-grid](https://github.com/sks-saurav/leetcode-submission/tree/master/2371-minimize-maximum-value-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2077-paths-in-maze-that-lead-to-same-room](https://github.com/sks-saurav/leetcode-submission/tree/master/2077-paths-in-maze-that-lead-to-same-room) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/sks-saurav/leetcode-submission/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2297-jump-game-viii](https://github.com/sks-saurav/leetcode-submission/tree/master/2297-jump-game-viii) |
+| [2371-minimize-maximum-value-in-a-grid](https://github.com/sks-saurav/leetcode-submission/tree/master/2371-minimize-maximum-value-in-a-grid) |
 ## Tree
 |  |
 | ------- |
@@ -525,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/sks-saurav/leetcode-submission/tree/master/1254-number-of-closed-islands) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/sks-saurav/leetcode-submission/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/sks-saurav/leetcode-submission/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2371-minimize-maximum-value-in-a-grid](https://github.com/sks-saurav/leetcode-submission/tree/master/2371-minimize-maximum-value-in-a-grid) |
 | [2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s](https://github.com/sks-saurav/leetcode-submission/tree/master/2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s) |
 ## Binary Tree
 |  |
@@ -578,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/sks-saurav/leetcode-submission/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1245-tree-diameter](https://github.com/sks-saurav/leetcode-submission/tree/master/1245-tree-diameter) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/sks-saurav/leetcode-submission/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [2371-minimize-maximum-value-in-a-grid](https://github.com/sks-saurav/leetcode-submission/tree/master/2371-minimize-maximum-value-in-a-grid) |
 ## Memoization
 |  |
 | ------- |
