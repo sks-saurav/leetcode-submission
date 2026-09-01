@@ -28,12 +28,11 @@ class Solution:
             while min_ele <= max_ele:
                 mid_ele = (min_ele + max_ele) // 2
                 curr_pos = pos(nums1, mid_ele) + pos(nums2, mid_ele)
-                if curr_pos >= k:
+                if curr_pos < k:
+                    min_ele = mid_ele + 1
+                else:
                     ans = mid_ele
                     max_ele = mid_ele - 1
-                else:
-                    min_ele = mid_ele + 1
-                    
             return ans
 
         ####################################################################
