@@ -25,9 +25,11 @@ class Solution:
                     tstr = helper_dec(i+1, p_end-1)
                     i = p_end + 1
                 else:
+                    ta, tb = i, i
                     while i <= end and s[i].isalpha():
-                        tstr += s[i]
+                        tb += 1
                         i += 1
+                    tstr = s[ta:tb]
                 ans += (mul*tstr)
 
             return ans
