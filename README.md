@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-similar-string-groups](https://github.com/sks-saurav/leetcode-submission/tree/master/0839-similar-string-groups) |
 | [0843-guess-the-word](https://github.com/sks-saurav/leetcode-submission/tree/master/0843-guess-the-word) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/sks-saurav/leetcode-submission/tree/master/0864-shortest-path-to-get-all-keys) |
+| [0875-koko-eating-bananas](https://github.com/sks-saurav/leetcode-submission/tree/master/0875-koko-eating-bananas) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/sks-saurav/leetcode-submission/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0923-3sum-with-multiplicity](https://github.com/sks-saurav/leetcode-submission/tree/master/0923-3sum-with-multiplicity) |
 | [0934-shortest-bridge](https://github.com/sks-saurav/leetcode-submission/tree/master/0934-shortest-bridge) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sks-saurav/leetcode-submission/tree/master/0033-search-in-rotated-sorted-array) |
 | [0270-closest-binary-search-tree-value](https://github.com/sks-saurav/leetcode-submission/tree/master/0270-closest-binary-search-tree-value) |
 | [0732-my-calendar-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/0732-my-calendar-iii) |
+| [0875-koko-eating-bananas](https://github.com/sks-saurav/leetcode-submission/tree/master/0875-koko-eating-bananas) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/sks-saurav/leetcode-submission/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1004-max-consecutive-ones-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/1004-max-consecutive-ones-iii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/sks-saurav/leetcode-submission/tree/master/1483-kth-ancestor-of-a-tree-node) |
