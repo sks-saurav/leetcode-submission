@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0269-alien-dictionary](https://github.com/sks-saurav/leetcode-submission/tree/master/0269-alien-dictionary) |
 | [0291-word-pattern-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0291-word-pattern-ii) |
 | [0320-generalized-abbreviation](https://github.com/sks-saurav/leetcode-submission/tree/master/0320-generalized-abbreviation) |
+| [0394-decode-string](https://github.com/sks-saurav/leetcode-submission/tree/master/0394-decode-string) |
 | [0428-serialize-and-deserialize-n-ary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/0428-serialize-and-deserialize-n-ary-tree) |
 | [0433-minimum-genetic-mutation](https://github.com/sks-saurav/leetcode-submission/tree/master/0433-minimum-genetic-mutation) |
 | [0439-ternary-expression-parser](https://github.com/sks-saurav/leetcode-submission/tree/master/0439-ternary-expression-parser) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0364-nested-list-weight-sum-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0364-nested-list-weight-sum-ii) |
+| [0394-decode-string](https://github.com/sks-saurav/leetcode-submission/tree/master/0394-decode-string) |
 | [0439-ternary-expression-parser](https://github.com/sks-saurav/leetcode-submission/tree/master/0439-ternary-expression-parser) |
 | [0484-find-permutation](https://github.com/sks-saurav/leetcode-submission/tree/master/0484-find-permutation) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sks-saurav/leetcode-submission/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -652,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/sks-saurav/leetcode-submission/tree/master/0233-number-of-digit-one) |
+| [0394-decode-string](https://github.com/sks-saurav/leetcode-submission/tree/master/0394-decode-string) |
 | [0439-ternary-expression-parser](https://github.com/sks-saurav/leetcode-submission/tree/master/0439-ternary-expression-parser) |
 | [0486-predict-the-winner](https://github.com/sks-saurav/leetcode-submission/tree/master/0486-predict-the-winner) |
 | [0772-basic-calculator-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/0772-basic-calculator-iii) |
