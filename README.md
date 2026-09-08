@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1000-minimum-cost-to-merge-stones](https://github.com/sks-saurav/leetcode-submission/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1004-max-consecutive-ones-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/sks-saurav/leetcode-submission/tree/master/1020-number-of-enclaves) |
+| [1086-high-five](https://github.com/sks-saurav/leetcode-submission/tree/master/1086-high-five) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sks-saurav/leetcode-submission/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1105-filling-bookcase-shelves](https://github.com/sks-saurav/leetcode-submission/tree/master/1105-filling-bookcase-shelves) |
 | [1199-minimum-time-to-build-blocks](https://github.com/sks-saurav/leetcode-submission/tree/master/1199-minimum-time-to-build-blocks) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0923-3sum-with-multiplicity](https://github.com/sks-saurav/leetcode-submission/tree/master/0923-3sum-with-multiplicity) |
 | [0997-find-the-town-judge](https://github.com/sks-saurav/leetcode-submission/tree/master/0997-find-the-town-judge) |
+| [1086-high-five](https://github.com/sks-saurav/leetcode-submission/tree/master/1086-high-five) |
 | [1189-maximum-number-of-balloons](https://github.com/sks-saurav/leetcode-submission/tree/master/1189-maximum-number-of-balloons) |
 | [1506-find-root-of-n-ary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/1506-find-root-of-n-ary-tree) |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/sks-saurav/leetcode-submission/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/sks-saurav/leetcode-submission/tree/master/0721-accounts-merge) |
 | [0923-3sum-with-multiplicity](https://github.com/sks-saurav/leetcode-submission/tree/master/0923-3sum-with-multiplicity) |
+| [1086-high-five](https://github.com/sks-saurav/leetcode-submission/tree/master/1086-high-five) |
 | [1229-meeting-scheduler](https://github.com/sks-saurav/leetcode-submission/tree/master/1229-meeting-scheduler) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/sks-saurav/leetcode-submission/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0499-the-maze-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/0499-the-maze-iii) |
 | [0505-the-maze-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0505-the-maze-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sks-saurav/leetcode-submission/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1086-high-five](https://github.com/sks-saurav/leetcode-submission/tree/master/1086-high-five) |
 | [1135-connecting-cities-with-minimum-cost](https://github.com/sks-saurav/leetcode-submission/tree/master/1135-connecting-cities-with-minimum-cost) |
 | [1168-optimize-water-distribution-in-a-village](https://github.com/sks-saurav/leetcode-submission/tree/master/1168-optimize-water-distribution-in-a-village) |
 | [1199-minimum-time-to-build-blocks](https://github.com/sks-saurav/leetcode-submission/tree/master/1199-minimum-time-to-build-blocks) |
