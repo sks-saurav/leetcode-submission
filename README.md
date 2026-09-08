@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/sks-saurav/leetcode-submission/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/sks-saurav/leetcode-submission/tree/master/0721-accounts-merge) |
 | [0758-bold-words-in-string](https://github.com/sks-saurav/leetcode-submission/tree/master/0758-bold-words-in-string) |
+| [0759-employee-free-time](https://github.com/sks-saurav/leetcode-submission/tree/master/0759-employee-free-time) |
 | [0839-similar-string-groups](https://github.com/sks-saurav/leetcode-submission/tree/master/0839-similar-string-groups) |
 | [0843-guess-the-word](https://github.com/sks-saurav/leetcode-submission/tree/master/0843-guess-the-word) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/sks-saurav/leetcode-submission/tree/master/0864-shortest-path-to-get-all-keys) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sks-saurav/leetcode-submission/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sks-saurav/leetcode-submission/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/sks-saurav/leetcode-submission/tree/master/0721-accounts-merge) |
+| [0759-employee-free-time](https://github.com/sks-saurav/leetcode-submission/tree/master/0759-employee-free-time) |
 | [0923-3sum-with-multiplicity](https://github.com/sks-saurav/leetcode-submission/tree/master/0923-3sum-with-multiplicity) |
 | [1086-high-five](https://github.com/sks-saurav/leetcode-submission/tree/master/1086-high-five) |
 | [1229-meeting-scheduler](https://github.com/sks-saurav/leetcode-submission/tree/master/1229-meeting-scheduler) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0272-closest-binary-search-tree-value-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0499-the-maze-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/0499-the-maze-iii) |
 | [0505-the-maze-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0505-the-maze-ii) |
+| [0759-employee-free-time](https://github.com/sks-saurav/leetcode-submission/tree/master/0759-employee-free-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sks-saurav/leetcode-submission/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1086-high-five](https://github.com/sks-saurav/leetcode-submission/tree/master/1086-high-five) |
 | [1135-connecting-cities-with-minimum-cost](https://github.com/sks-saurav/leetcode-submission/tree/master/1135-connecting-cities-with-minimum-cost) |
@@ -775,4 +778,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/sks-saurav/leetcode-submission/tree/master/1857-largest-color-value-in-a-directed-graph) |
+## Sweep Line
+|  |
+| ------- |
+| [0759-employee-free-time](https://github.com/sks-saurav/leetcode-submission/tree/master/0759-employee-free-time) |
 <!---LeetCode Topics End-->
