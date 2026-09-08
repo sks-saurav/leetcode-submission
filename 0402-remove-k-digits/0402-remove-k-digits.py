@@ -7,10 +7,7 @@ class Solution:
                 k -= 1
             arr.append(dig)
             
-        i = 0
-        while i < len(arr) and arr[i] == '0':
-            i += 1
-
         j = len(arr)-k
-        ans = "".join(arr[i:j])
+        ans = "".join(arr[:j])
+        ans = ans.lstrip('0')
         return ans if len(ans) != 0 else "0"
