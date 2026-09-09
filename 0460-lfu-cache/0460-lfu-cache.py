@@ -109,7 +109,7 @@ class LFUCache:
         freq = node.freq
         
         self._freq[freq].pop(node)
-        if self._minfreq == freq and not self._freq[freq]:
+        if self._minfreq == freq and len(self._freq[freq]) == 0:
             self._minfreq += 1
         
         node.freq += 1
