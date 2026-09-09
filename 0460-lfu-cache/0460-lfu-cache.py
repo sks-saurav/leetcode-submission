@@ -27,7 +27,7 @@ class DLinkedList:
 
         self._size = 0
     
-    ## Saurav: Very very IMP (if not self._freq[freq]:) this line will not work properly
+    ## Saurav: Very very IMP (if not self._freq[freq]:) or (if len(self._freq[freq]) == 0) this line will not work properly
     def __len__(self):
         return self._size
     
