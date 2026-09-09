@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/sks-saurav/leetcode-submission/tree/master/0127-word-ladder) |
 | [0291-word-pattern-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0291-word-pattern-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/sks-saurav/leetcode-submission/tree/master/0433-minimum-genetic-mutation) |
+| [0460-lfu-cache](https://github.com/sks-saurav/leetcode-submission/tree/master/0460-lfu-cache) |
 | [0491-non-decreasing-subsequences](https://github.com/sks-saurav/leetcode-submission/tree/master/0491-non-decreasing-subsequences) |
 | [0721-accounts-merge](https://github.com/sks-saurav/leetcode-submission/tree/master/0721-accounts-merge) |
 | [0758-bold-words-in-string](https://github.com/sks-saurav/leetcode-submission/tree/master/0758-bold-words-in-string) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0460-lfu-cache](https://github.com/sks-saurav/leetcode-submission/tree/master/0460-lfu-cache) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sks-saurav/leetcode-submission/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sks-saurav/leetcode-submission/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
@@ -648,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/sks-saurav/leetcode-submission/tree/master/0307-range-sum-query-mutable) |
 | [0308-range-sum-query-2d-mutable](https://github.com/sks-saurav/leetcode-submission/tree/master/0308-range-sum-query-2d-mutable) |
 | [0362-design-hit-counter](https://github.com/sks-saurav/leetcode-submission/tree/master/0362-design-hit-counter) |
+| [0460-lfu-cache](https://github.com/sks-saurav/leetcode-submission/tree/master/0460-lfu-cache) |
 | [0732-my-calendar-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/0732-my-calendar-iii) |
 | [0981-time-based-key-value-store](https://github.com/sks-saurav/leetcode-submission/tree/master/0981-time-based-key-value-store) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/sks-saurav/leetcode-submission/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -801,4 +804,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0362-design-hit-counter](https://github.com/sks-saurav/leetcode-submission/tree/master/0362-design-hit-counter) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/sks-saurav/leetcode-submission/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
