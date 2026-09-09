@@ -1,3 +1,4 @@
+# Saurav: we only need to keep track current minimum frequence O(1)
 # Saurav modification in DLinkedList impl (head-tail from _sentinal)
 
 class Node:
