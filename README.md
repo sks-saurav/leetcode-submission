@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2031-count-subarrays-with-more-ones-than-zeros](https://github.com/sks-saurav/leetcode-submission/tree/master/2031-count-subarrays-with-more-ones-than-zeros) |
 | [2254-design-video-sharing-platform](https://github.com/sks-saurav/leetcode-submission/tree/master/2254-design-video-sharing-platform) |
 | [2590-design-a-todo-list](https://github.com/sks-saurav/leetcode-submission/tree/master/2590-design-a-todo-list) |
+| [3408-design-task-manager](https://github.com/sks-saurav/leetcode-submission/tree/master/3408-design-task-manager) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sks-saurav/leetcode-submission/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sks-saurav/leetcode-submission/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3749-evaluate-valid-expressions](https://github.com/sks-saurav/leetcode-submission/tree/master/3749-evaluate-valid-expressions) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2254-design-video-sharing-platform](https://github.com/sks-saurav/leetcode-submission/tree/master/2254-design-video-sharing-platform) |
 | [2263-make-array-non-decreasing-or-non-increasing](https://github.com/sks-saurav/leetcode-submission/tree/master/2263-make-array-non-decreasing-or-non-increasing) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/sks-saurav/leetcode-submission/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [3408-design-task-manager](https://github.com/sks-saurav/leetcode-submission/tree/master/3408-design-task-manager) |
 ## Counting
 |  |
 | ------- |
@@ -652,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1724-checking-existence-of-edge-length-limited-paths-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/1724-checking-existence-of-edge-length-limited-paths-ii) |
 | [2254-design-video-sharing-platform](https://github.com/sks-saurav/leetcode-submission/tree/master/2254-design-video-sharing-platform) |
 | [2590-design-a-todo-list](https://github.com/sks-saurav/leetcode-submission/tree/master/2590-design-a-todo-list) |
+| [3408-design-task-manager](https://github.com/sks-saurav/leetcode-submission/tree/master/3408-design-task-manager) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -671,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/0732-my-calendar-iii) |
 | [2031-count-subarrays-with-more-ones-than-zeros](https://github.com/sks-saurav/leetcode-submission/tree/master/2031-count-subarrays-with-more-ones-than-zeros) |
 | [2158-amount-of-new-area-painted-each-day](https://github.com/sks-saurav/leetcode-submission/tree/master/2158-amount-of-new-area-painted-each-day) |
+| [3408-design-task-manager](https://github.com/sks-saurav/leetcode-submission/tree/master/3408-design-task-manager) |
 ## Recursion
 |  |
 | ------- |
