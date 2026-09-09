@@ -1,5 +1,5 @@
 # PREMIUM
-# Approach 2
+# FOLLOW - UP Approach 2
 class HitCounter:
     def __init__(self):
         # We only need to track the last 300 seconds
