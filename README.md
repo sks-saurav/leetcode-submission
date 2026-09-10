@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0758-bold-words-in-string](https://github.com/sks-saurav/leetcode-submission/tree/master/0758-bold-words-in-string) |
 | [0839-similar-string-groups](https://github.com/sks-saurav/leetcode-submission/tree/master/0839-similar-string-groups) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0895-maximum-frequency-stack](https://github.com/sks-saurav/leetcode-submission/tree/master/0895-maximum-frequency-stack) |
 | [0923-3sum-with-multiplicity](https://github.com/sks-saurav/leetcode-submission/tree/master/0923-3sum-with-multiplicity) |
 | [0981-time-based-key-value-store](https://github.com/sks-saurav/leetcode-submission/tree/master/0981-time-based-key-value-store) |
 | [0997-find-the-town-judge](https://github.com/sks-saurav/leetcode-submission/tree/master/0997-find-the-town-judge) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0484-find-permutation](https://github.com/sks-saurav/leetcode-submission/tree/master/0484-find-permutation) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sks-saurav/leetcode-submission/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0772-basic-calculator-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/0772-basic-calculator-iii) |
+| [0895-maximum-frequency-stack](https://github.com/sks-saurav/leetcode-submission/tree/master/0895-maximum-frequency-stack) |
 | [0946-validate-stack-sequences](https://github.com/sks-saurav/leetcode-submission/tree/master/0946-validate-stack-sequences) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sks-saurav/leetcode-submission/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2104-sum-of-subarray-ranges](https://github.com/sks-saurav/leetcode-submission/tree/master/2104-sum-of-subarray-ranges) |
@@ -662,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/sks-saurav/leetcode-submission/tree/master/0380-insert-delete-getrandom-o1) |
 | [0460-lfu-cache](https://github.com/sks-saurav/leetcode-submission/tree/master/0460-lfu-cache) |
 | [0732-my-calendar-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/0732-my-calendar-iii) |
+| [0895-maximum-frequency-stack](https://github.com/sks-saurav/leetcode-submission/tree/master/0895-maximum-frequency-stack) |
 | [0981-time-based-key-value-store](https://github.com/sks-saurav/leetcode-submission/tree/master/0981-time-based-key-value-store) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/sks-saurav/leetcode-submission/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1724-checking-existence-of-edge-length-limited-paths-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/1724-checking-existence-of-edge-length-limited-paths-ii) |
@@ -685,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0732-my-calendar-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/0732-my-calendar-iii) |
+| [0895-maximum-frequency-stack](https://github.com/sks-saurav/leetcode-submission/tree/master/0895-maximum-frequency-stack) |
 | [2031-count-subarrays-with-more-ones-than-zeros](https://github.com/sks-saurav/leetcode-submission/tree/master/2031-count-subarrays-with-more-ones-than-zeros) |
 | [2158-amount-of-new-area-painted-each-day](https://github.com/sks-saurav/leetcode-submission/tree/master/2158-amount-of-new-area-painted-each-day) |
 | [3408-design-task-manager](https://github.com/sks-saurav/leetcode-submission/tree/master/3408-design-task-manager) |
