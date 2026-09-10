@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-high-five](https://github.com/sks-saurav/leetcode-submission/tree/master/1086-high-five) |
 | [1146-snapshot-array](https://github.com/sks-saurav/leetcode-submission/tree/master/1146-snapshot-array) |
 | [1189-maximum-number-of-balloons](https://github.com/sks-saurav/leetcode-submission/tree/master/1189-maximum-number-of-balloons) |
+| [1396-design-underground-system](https://github.com/sks-saurav/leetcode-submission/tree/master/1396-design-underground-system) |
 | [1506-find-root-of-n-ary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/1506-find-root-of-n-ary-tree) |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1660-correct-a-binary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/1660-correct-a-binary-tree) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/sks-saurav/leetcode-submission/tree/master/1189-maximum-number-of-balloons) |
 | [1278-palindrome-partitioning-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/1278-palindrome-partitioning-iii) |
 | [1360-number-of-days-between-two-dates](https://github.com/sks-saurav/leetcode-submission/tree/master/1360-number-of-days-between-two-dates) |
+| [1396-design-underground-system](https://github.com/sks-saurav/leetcode-submission/tree/master/1396-design-underground-system) |
 | [1405-longest-happy-string](https://github.com/sks-saurav/leetcode-submission/tree/master/1405-longest-happy-string) |
 | [1618-maximum-font-to-fit-a-sentence-in-a-screen](https://github.com/sks-saurav/leetcode-submission/tree/master/1618-maximum-font-to-fit-a-sentence-in-a-screen) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sks-saurav/leetcode-submission/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -676,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0895-maximum-frequency-stack](https://github.com/sks-saurav/leetcode-submission/tree/master/0895-maximum-frequency-stack) |
 | [0981-time-based-key-value-store](https://github.com/sks-saurav/leetcode-submission/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/sks-saurav/leetcode-submission/tree/master/1146-snapshot-array) |
+| [1396-design-underground-system](https://github.com/sks-saurav/leetcode-submission/tree/master/1396-design-underground-system) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/sks-saurav/leetcode-submission/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1724-checking-existence-of-edge-length-limited-paths-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/1724-checking-existence-of-edge-length-limited-paths-ii) |
 | [2254-design-video-sharing-platform](https://github.com/sks-saurav/leetcode-submission/tree/master/2254-design-video-sharing-platform) |
