@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0308-range-sum-query-2d-mutable](https://github.com/sks-saurav/leetcode-submission/tree/master/0308-range-sum-query-2d-mutable) |
 | [0312-burst-balloons](https://github.com/sks-saurav/leetcode-submission/tree/master/0312-burst-balloons) |
 | [0362-design-hit-counter](https://github.com/sks-saurav/leetcode-submission/tree/master/0362-design-hit-counter) |
+| [0380-insert-delete-getrandom-o1](https://github.com/sks-saurav/leetcode-submission/tree/master/0380-insert-delete-getrandom-o1) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sks-saurav/leetcode-submission/tree/master/0417-pacific-atlantic-water-flow) |
 | [0484-find-permutation](https://github.com/sks-saurav/leetcode-submission/tree/master/0484-find-permutation) |
 | [0486-predict-the-winner](https://github.com/sks-saurav/leetcode-submission/tree/master/0486-predict-the-winner) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sks-saurav/leetcode-submission/tree/master/0001-two-sum) |
 | [0127-word-ladder](https://github.com/sks-saurav/leetcode-submission/tree/master/0127-word-ladder) |
 | [0291-word-pattern-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0291-word-pattern-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/sks-saurav/leetcode-submission/tree/master/0380-insert-delete-getrandom-o1) |
 | [0433-minimum-genetic-mutation](https://github.com/sks-saurav/leetcode-submission/tree/master/0433-minimum-genetic-mutation) |
 | [0460-lfu-cache](https://github.com/sks-saurav/leetcode-submission/tree/master/0460-lfu-cache) |
 | [0491-non-decreasing-subsequences](https://github.com/sks-saurav/leetcode-submission/tree/master/0491-non-decreasing-subsequences) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/sks-saurav/leetcode-submission/tree/master/0279-perfect-squares) |
 | [0357-count-numbers-with-unique-digits](https://github.com/sks-saurav/leetcode-submission/tree/master/0357-count-numbers-with-unique-digits) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/sks-saurav/leetcode-submission/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/sks-saurav/leetcode-submission/tree/master/0486-predict-the-winner) |
 | [0772-basic-calculator-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/0772-basic-calculator-iii) |
 | [0808-soup-servings](https://github.com/sks-saurav/leetcode-submission/tree/master/0808-soup-servings) |
@@ -656,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/sks-saurav/leetcode-submission/tree/master/0307-range-sum-query-mutable) |
 | [0308-range-sum-query-2d-mutable](https://github.com/sks-saurav/leetcode-submission/tree/master/0308-range-sum-query-2d-mutable) |
 | [0362-design-hit-counter](https://github.com/sks-saurav/leetcode-submission/tree/master/0362-design-hit-counter) |
+| [0380-insert-delete-getrandom-o1](https://github.com/sks-saurav/leetcode-submission/tree/master/0380-insert-delete-getrandom-o1) |
 | [0460-lfu-cache](https://github.com/sks-saurav/leetcode-submission/tree/master/0460-lfu-cache) |
 | [0732-my-calendar-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/0732-my-calendar-iii) |
 | [0981-time-based-key-value-store](https://github.com/sks-saurav/leetcode-submission/tree/master/0981-time-based-key-value-store) |
@@ -814,4 +818,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/sks-saurav/leetcode-submission/tree/master/0460-lfu-cache) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/sks-saurav/leetcode-submission/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
