@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/sks-saurav/leetcode-submission/tree/master/0433-minimum-genetic-mutation) |
 | [0460-lfu-cache](https://github.com/sks-saurav/leetcode-submission/tree/master/0460-lfu-cache) |
 | [0491-non-decreasing-subsequences](https://github.com/sks-saurav/leetcode-submission/tree/master/0491-non-decreasing-subsequences) |
+| [0588-design-in-memory-file-system](https://github.com/sks-saurav/leetcode-submission/tree/master/0588-design-in-memory-file-system) |
 | [0721-accounts-merge](https://github.com/sks-saurav/leetcode-submission/tree/master/0721-accounts-merge) |
 | [0758-bold-words-in-string](https://github.com/sks-saurav/leetcode-submission/tree/master/0758-bold-words-in-string) |
 | [0839-similar-string-groups](https://github.com/sks-saurav/leetcode-submission/tree/master/0839-similar-string-groups) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0484-find-permutation](https://github.com/sks-saurav/leetcode-submission/tree/master/0484-find-permutation) |
 | [0499-the-maze-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/0499-the-maze-iii) |
 | [0527-word-abbreviation](https://github.com/sks-saurav/leetcode-submission/tree/master/0527-word-abbreviation) |
+| [0588-design-in-memory-file-system](https://github.com/sks-saurav/leetcode-submission/tree/master/0588-design-in-memory-file-system) |
 | [0639-decode-ways-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0639-decode-ways-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sks-saurav/leetcode-submission/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/sks-saurav/leetcode-submission/tree/master/0721-accounts-merge) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0280-wiggle-sort](https://github.com/sks-saurav/leetcode-submission/tree/master/0280-wiggle-sort) |
 | [0527-word-abbreviation](https://github.com/sks-saurav/leetcode-submission/tree/master/0527-word-abbreviation) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sks-saurav/leetcode-submission/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0588-design-in-memory-file-system](https://github.com/sks-saurav/leetcode-submission/tree/master/0588-design-in-memory-file-system) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sks-saurav/leetcode-submission/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/sks-saurav/leetcode-submission/tree/master/0721-accounts-merge) |
 | [0759-employee-free-time](https://github.com/sks-saurav/leetcode-submission/tree/master/0759-employee-free-time) |
@@ -674,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0362-design-hit-counter](https://github.com/sks-saurav/leetcode-submission/tree/master/0362-design-hit-counter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sks-saurav/leetcode-submission/tree/master/0380-insert-delete-getrandom-o1) |
 | [0460-lfu-cache](https://github.com/sks-saurav/leetcode-submission/tree/master/0460-lfu-cache) |
+| [0588-design-in-memory-file-system](https://github.com/sks-saurav/leetcode-submission/tree/master/0588-design-in-memory-file-system) |
 | [0732-my-calendar-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/0732-my-calendar-iii) |
 | [0895-maximum-frequency-stack](https://github.com/sks-saurav/leetcode-submission/tree/master/0895-maximum-frequency-stack) |
 | [0981-time-based-key-value-store](https://github.com/sks-saurav/leetcode-submission/tree/master/0981-time-based-key-value-store) |
@@ -739,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sks-saurav/leetcode-submission/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0527-word-abbreviation](https://github.com/sks-saurav/leetcode-submission/tree/master/0527-word-abbreviation) |
+| [0588-design-in-memory-file-system](https://github.com/sks-saurav/leetcode-submission/tree/master/0588-design-in-memory-file-system) |
 | [0758-bold-words-in-string](https://github.com/sks-saurav/leetcode-submission/tree/master/0758-bold-words-in-string) |
 | [1858-longest-word-with-all-prefixes](https://github.com/sks-saurav/leetcode-submission/tree/master/1858-longest-word-with-all-prefixes) |
 ## String Matching
