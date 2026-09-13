@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/sks-saurav/leetcode-submission/tree/master/0460-lfu-cache) |
+| [0716-max-stack](https://github.com/sks-saurav/leetcode-submission/tree/master/0716-max-stack) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sks-saurav/leetcode-submission/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sks-saurav/leetcode-submission/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0439-ternary-expression-parser](https://github.com/sks-saurav/leetcode-submission/tree/master/0439-ternary-expression-parser) |
 | [0484-find-permutation](https://github.com/sks-saurav/leetcode-submission/tree/master/0484-find-permutation) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sks-saurav/leetcode-submission/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0716-max-stack](https://github.com/sks-saurav/leetcode-submission/tree/master/0716-max-stack) |
 | [0772-basic-calculator-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/0772-basic-calculator-iii) |
 | [0895-maximum-frequency-stack](https://github.com/sks-saurav/leetcode-submission/tree/master/0895-maximum-frequency-stack) |
 | [0946-validate-stack-sequences](https://github.com/sks-saurav/leetcode-submission/tree/master/0946-validate-stack-sequences) |
@@ -685,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/sks-saurav/leetcode-submission/tree/master/0460-lfu-cache) |
 | [0588-design-in-memory-file-system](https://github.com/sks-saurav/leetcode-submission/tree/master/0588-design-in-memory-file-system) |
 | [0642-design-search-autocomplete-system](https://github.com/sks-saurav/leetcode-submission/tree/master/0642-design-search-autocomplete-system) |
+| [0716-max-stack](https://github.com/sks-saurav/leetcode-submission/tree/master/0716-max-stack) |
 | [0732-my-calendar-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/0732-my-calendar-iii) |
 | [0895-maximum-frequency-stack](https://github.com/sks-saurav/leetcode-submission/tree/master/0895-maximum-frequency-stack) |
 | [0981-time-based-key-value-store](https://github.com/sks-saurav/leetcode-submission/tree/master/0981-time-based-key-value-store) |
@@ -711,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0716-max-stack](https://github.com/sks-saurav/leetcode-submission/tree/master/0716-max-stack) |
 | [0732-my-calendar-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/0732-my-calendar-iii) |
 | [0895-maximum-frequency-stack](https://github.com/sks-saurav/leetcode-submission/tree/master/0895-maximum-frequency-stack) |
 | [2031-count-subarrays-with-more-ones-than-zeros](https://github.com/sks-saurav/leetcode-submission/tree/master/2031-count-subarrays-with-more-ones-than-zeros) |
@@ -852,6 +856,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/sks-saurav/leetcode-submission/tree/master/0460-lfu-cache) |
+| [0716-max-stack](https://github.com/sks-saurav/leetcode-submission/tree/master/0716-max-stack) |
 ## Randomized
 |  |
 | ------- |
