@@ -68,18 +68,12 @@ class Allocator:
     def allocate(self, size: int, mID: int) -> int:
         prev_end = 0
         
-        # Check the gaps between allocated blocks
         for i, (start, end, _) in enumerate(self.blocks):
-            # Is the gap between the last block and this block large enough?
             if start - prev_end >= size:
                 self.blocks.insert(i, (prev_end, prev_end + size, mID))
                 return prev_end
             prev_end = end
             
-        # If no gap was found between blocks, check the tail end of the memory
-        # if self.n - prev_end >= size:
-        #     self.blocks.append((prev_end, prev_end + size, mID))
-        #     return prev_end
             
         return -1
 
@@ -87,7 +81,6 @@ class Allocator:
         freed_units = 0
         retained_blocks = []
         
-        # Filter out the blocks matching the mID
         for start, end, block_id in self.blocks:
             if block_id == mID:
                 freed_units += (end - start)
