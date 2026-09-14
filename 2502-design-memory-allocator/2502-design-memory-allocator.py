@@ -60,32 +60,39 @@
 # SOL 2
 class Allocator:
     def __init__(self, n: int):
-        # -1 represents a free memory unit
-        self.memory = [-1] * n
+        self.n = n
+        # Will store tuples of: (start_index, end_index, mID)
+        # Always kept in sorted order based on start_index
+        self.blocks = [] 
 
     def allocate(self, size: int, mID: int) -> int:
-        free_count = 0
-        for i in range(len(self.memory)):
-            if self.memory[i] == -1:
-                free_count += 1
-                if free_count == size:
-                    # We found a big enough block. Calculate the start index.
-                    start_idx = i - size + 1
-                    # Fill the memory block with mID
-                    for j in range(start_idx, i + 1):
-                        self.memory[j] = mID
-                    return start_idx
-            else:
-                # Reset contiguous count if we hit an occupied block
-                free_count = 0
-                
+        prev_end = 0
+        
+        # Check the gaps between allocated blocks
+        for i, (start, end, _) in enumerate(self.blocks):
+            # Is the gap between the last block and this block large enough?
+            if start - prev_end >= size:
+                self.blocks.insert(i, (prev_end, prev_end + size, mID))
+                return prev_end
+            prev_end = end
+            
+        # If no gap was found between blocks, check the tail end of the memory
+        if self.n - prev_end >= size:
+            self.blocks.append((prev_end, prev_end + size, mID))
+            return prev_end
+            
         return -1
 
     def freeMemory(self, mID: int) -> int:
         freed_units = 0
-        for i in range(len(self.memory)):
-            if self.memory[i] == mID:
-                self.memory[i] = -1
-                freed_units += 1
+        retained_blocks = []
+        
+        # Filter out the blocks matching the mID
+        for start, end, block_id in self.blocks:
+            if block_id == mID:
+                freed_units += (end - start)
+            else:
+                retained_blocks.append((start, end, block_id))
                 
+        self.blocks = retained_blocks
         return freed_units
