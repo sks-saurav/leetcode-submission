@@ -63,7 +63,7 @@ class Allocator:
         self.n = n
         # Will store tuples of: (start_index, end_index, mID)
         # Always kept in sorted order based on start_index
-        self.blocks = [] 
+        self.blocks = [(n, float('inf'), -1)] 
 
     def allocate(self, size: int, mID: int) -> int:
         prev_end = 0
@@ -77,9 +77,9 @@ class Allocator:
             prev_end = end
             
         # If no gap was found between blocks, check the tail end of the memory
-        if self.n - prev_end >= size:
-            self.blocks.append((prev_end, prev_end + size, mID))
-            return prev_end
+        # if self.n - prev_end >= size:
+        #     self.blocks.append((prev_end, prev_end + size, mID))
+        #     return prev_end
             
         return -1
 
