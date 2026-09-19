@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sks-saurav/leetcode-submission/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sks-saurav/leetcode-submission/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/sks-saurav/leetcode-submission/tree/master/0721-accounts-merge) |
+| [0746-min-cost-climbing-stairs](https://github.com/sks-saurav/leetcode-submission/tree/master/0746-min-cost-climbing-stairs) |
 | [0758-bold-words-in-string](https://github.com/sks-saurav/leetcode-submission/tree/master/0758-bold-words-in-string) |
 | [0759-employee-free-time](https://github.com/sks-saurav/leetcode-submission/tree/master/0759-employee-free-time) |
 | [0839-similar-string-groups](https://github.com/sks-saurav/leetcode-submission/tree/master/0839-similar-string-groups) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/sks-saurav/leetcode-submission/tree/master/0646-maximum-length-of-pair-chain) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sks-saurav/leetcode-submission/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0727-minimum-window-subsequence](https://github.com/sks-saurav/leetcode-submission/tree/master/0727-minimum-window-subsequence) |
+| [0746-min-cost-climbing-stairs](https://github.com/sks-saurav/leetcode-submission/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sks-saurav/leetcode-submission/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0790-domino-and-tromino-tiling](https://github.com/sks-saurav/leetcode-submission/tree/master/0790-domino-and-tromino-tiling) |
 | [0808-soup-servings](https://github.com/sks-saurav/leetcode-submission/tree/master/0808-soup-servings) |
