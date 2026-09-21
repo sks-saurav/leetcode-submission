@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/sks-saurav/leetcode-submission/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sks-saurav/leetcode-submission/tree/master/0033-search-in-rotated-sorted-array) |
 | [0064-minimum-path-sum](https://github.com/sks-saurav/leetcode-submission/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/sks-saurav/leetcode-submission/tree/master/0120-triangle) |
 | [0189-rotate-array](https://github.com/sks-saurav/leetcode-submission/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/sks-saurav/leetcode-submission/tree/master/0200-number-of-islands) |
 | [0269-alien-dictionary](https://github.com/sks-saurav/leetcode-submission/tree/master/0269-alien-dictionary) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/sks-saurav/leetcode-submission/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/sks-saurav/leetcode-submission/tree/master/0091-decode-ways) |
+| [0120-triangle](https://github.com/sks-saurav/leetcode-submission/tree/master/0120-triangle) |
 | [0233-number-of-digit-one](https://github.com/sks-saurav/leetcode-submission/tree/master/0233-number-of-digit-one) |
 | [0279-perfect-squares](https://github.com/sks-saurav/leetcode-submission/tree/master/0279-perfect-squares) |
 | [0312-burst-balloons](https://github.com/sks-saurav/leetcode-submission/tree/master/0312-burst-balloons) |
