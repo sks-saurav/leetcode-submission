@@ -9,15 +9,28 @@ class Solution:
         '''
         totalSum = sum(stones)
         w = totalSum // 2
-        dp = [0] * (w + 1)
         n = len(stones)
 
-        for i in range(n):
-            val = stones[i]
-            for j in range(w, val-1, -1):
-                dp[j] = max(dp[j], val + dp[j-val])
+        # dp = [0] * (w + 1)
+        # for i in range(n):
+        #     val = stones[i]
+        #     for j in range(w, val-1, -1):
+        #         dp[j] = max(dp[j], val + dp[j-val])
 
-        return  totalSum - 2*dp[w]
+        # return  totalSum - 2*dp[w]
+
+        # dp[i][j] -> max wt of stone can be picked using till ith stone with bag capacity w
+        dp = [[0]*(w+1) for _ in range(n+1)]
+
+        for i in range(1, n+1):
+            val = stones[i-1]
+            for j in range(1, w+1):
+                if j-val >= 0:
+                    dp[i][j] = max(val + dp[i-1][j-val], dp[i-1][j])
+                else:
+                    dp[i][j] = dp[i-1][j]
+
+        return totalSum - 2*dp[n][w]
 
 
 
