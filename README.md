@@ -589,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/sks-saurav/leetcode-submission/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/sks-saurav/leetcode-submission/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/sks-saurav/leetcode-submission/tree/master/0797-all-paths-from-source-to-target) |
+| [1240-tiling-a-rectangle-with-the-fewest-squares](https://github.com/sks-saurav/leetcode-submission/tree/master/1240-tiling-a-rectangle-with-the-fewest-squares) |
 ## Biconnected Component
 |  |
 | ------- |
