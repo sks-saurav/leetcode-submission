@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-similar-string-groups](https://github.com/sks-saurav/leetcode-submission/tree/master/0839-similar-string-groups) |
 | [0843-guess-the-word](https://github.com/sks-saurav/leetcode-submission/tree/master/0843-guess-the-word) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/sks-saurav/leetcode-submission/tree/master/0864-shortest-path-to-get-all-keys) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/sks-saurav/leetcode-submission/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0875-koko-eating-bananas](https://github.com/sks-saurav/leetcode-submission/tree/master/0875-koko-eating-bananas) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/sks-saurav/leetcode-submission/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0923-3sum-with-multiplicity](https://github.com/sks-saurav/leetcode-submission/tree/master/0923-3sum-with-multiplicity) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0790-domino-and-tromino-tiling](https://github.com/sks-saurav/leetcode-submission/tree/master/0790-domino-and-tromino-tiling) |
 | [0808-soup-servings](https://github.com/sks-saurav/leetcode-submission/tree/master/0808-soup-servings) |
 | [0837-new-21-game](https://github.com/sks-saurav/leetcode-submission/tree/master/0837-new-21-game) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/sks-saurav/leetcode-submission/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/sks-saurav/leetcode-submission/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0968-binary-tree-cameras](https://github.com/sks-saurav/leetcode-submission/tree/master/0968-binary-tree-cameras) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/sks-saurav/leetcode-submission/tree/master/1000-minimum-cost-to-merge-stones) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0527-word-abbreviation](https://github.com/sks-saurav/leetcode-submission/tree/master/0527-word-abbreviation) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sks-saurav/leetcode-submission/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sks-saurav/leetcode-submission/tree/master/0646-maximum-length-of-pair-chain) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/sks-saurav/leetcode-submission/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1199-minimum-time-to-build-blocks](https://github.com/sks-saurav/leetcode-submission/tree/master/1199-minimum-time-to-build-blocks) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/sks-saurav/leetcode-submission/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1405-longest-happy-string](https://github.com/sks-saurav/leetcode-submission/tree/master/1405-longest-happy-string) |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0642-design-search-autocomplete-system](https://github.com/sks-saurav/leetcode-submission/tree/master/0642-design-search-autocomplete-system) |
 | [0759-employee-free-time](https://github.com/sks-saurav/leetcode-submission/tree/master/0759-employee-free-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sks-saurav/leetcode-submission/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/sks-saurav/leetcode-submission/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1086-high-five](https://github.com/sks-saurav/leetcode-submission/tree/master/1086-high-five) |
 | [1135-connecting-cities-with-minimum-cost](https://github.com/sks-saurav/leetcode-submission/tree/master/1135-connecting-cities-with-minimum-cost) |
 | [1168-optimize-water-distribution-in-a-village](https://github.com/sks-saurav/leetcode-submission/tree/master/1168-optimize-water-distribution-in-a-village) |
