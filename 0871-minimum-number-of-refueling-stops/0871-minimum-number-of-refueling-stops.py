@@ -1,6 +1,3 @@
-import heapq
-from typing import List
-
 class Solution:
     def minRefuelStops(self, target: int, startFuel: int, stations: List[List[int]]) -> int:
         max_heap = []
