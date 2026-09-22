@@ -4,20 +4,20 @@ class Solution:
         MAX = float('inf')
         n = len(coins)
 
-        # dp[i][j] -> number of coin required to make amount i using forst j coin
-        dp = [[MAX] * (n+1) for _ in range(amount+1)]
-        for j in range(n+1): # Base Case
-            dp[0][j] = 0
+        # dp[i][j] -> number of coin required using first i type of coin to make amount j 
+        dp = [[MAX] * (amount+1) for _ in range(n+1)]
+        for i in range(n+1): # Base Case
+            dp[i][0] = 0
 
-        for j in range(1, n+1):
-            val = coins[j-1]
-            for i in range(1, amount+1):
-                if i-val >= 0:
-                    dp[i][j] = min(1 + dp[i-val][j], dp[i][j-1])
+        for i in range(1, n+1):
+            val = coins[i-1]
+            for j in range(1, amount+1):
+                if j-val >= 0:
+                    dp[i][j] = min(1 + dp[i][j-val], dp[i-1][j])
                 else:
-                    dp[i][j] = dp[i][j-1]
+                    dp[i][j] = dp[i-1][j]
 
-        ans = dp[amount][n]
+        ans = dp[n][amount]
         return -1 if ans == float('inf') else ans
 
 # OPTIMIZED bottom up
