@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/sks-saurav/leetcode-submission/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/sks-saurav/leetcode-submission/tree/master/0189-rotate-array) |
 | [0233-number-of-digit-one](https://github.com/sks-saurav/leetcode-submission/tree/master/0233-number-of-digit-one) |
 | [0279-perfect-squares](https://github.com/sks-saurav/leetcode-submission/tree/master/0279-perfect-squares) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/sks-saurav/leetcode-submission/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/sks-saurav/leetcode-submission/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/sks-saurav/leetcode-submission/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/sks-saurav/leetcode-submission/tree/master/0120-triangle) |
 | [0174-dungeon-game](https://github.com/sks-saurav/leetcode-submission/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/sks-saurav/leetcode-submission/tree/master/0221-maximal-square) |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/sks-saurav/leetcode-submission/tree/master/0096-unique-binary-search-trees) |
 | [0250-count-univalue-subtrees](https://github.com/sks-saurav/leetcode-submission/tree/master/0250-count-univalue-subtrees) |
 | [0270-closest-binary-search-tree-value](https://github.com/sks-saurav/leetcode-submission/tree/master/0270-closest-binary-search-tree-value) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0272-closest-binary-search-tree-value-ii) |
@@ -628,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/sks-saurav/leetcode-submission/tree/master/0096-unique-binary-search-trees) |
 | [0250-count-univalue-subtrees](https://github.com/sks-saurav/leetcode-submission/tree/master/0250-count-univalue-subtrees) |
 | [0270-closest-binary-search-tree-value](https://github.com/sks-saurav/leetcode-submission/tree/master/0270-closest-binary-search-tree-value) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0272-closest-binary-search-tree-value-ii) |
@@ -748,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/sks-saurav/leetcode-submission/tree/master/0096-unique-binary-search-trees) |
 | [0270-closest-binary-search-tree-value](https://github.com/sks-saurav/leetcode-submission/tree/master/0270-closest-binary-search-tree-value) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0285-inorder-successor-in-bst](https://github.com/sks-saurav/leetcode-submission/tree/master/0285-inorder-successor-in-bst) |
