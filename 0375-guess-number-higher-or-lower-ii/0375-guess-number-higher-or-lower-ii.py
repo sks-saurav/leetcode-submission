@@ -10,8 +10,8 @@ class Solution:
                 # Try guessing every number 'k' in the current range [st, end]
                 for k in range(st, end + 1):
                     # We pay 'k', plus the worst-case scenario (max) of the two remaining halves
-                    left_dp = dp[st][k-1] if k != 0 else 0
-                    right_dp = dp[k+1][end] if k != n-1  else 0
+                    left_dp = dp[st][k-1] if k > st else 0
+                    right_dp = dp[k+1][end] if k < end else 0
                     cost = (k+1) + max(left_dp, right_dp)
                     
                     # We want the guess that gives us the lowest possible worst-case cost (min)
