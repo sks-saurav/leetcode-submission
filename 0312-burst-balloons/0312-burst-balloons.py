@@ -1,36 +1,43 @@
 class Solution:
-    '''
-    Think backword, what baloon will remain last, then second last and so on...
-    https://www.youtube.com/watch?v=Yz4LlDSlkns&list=PLgUwDviBIf0pwFf-BnpkXxs0Ra0eU2sJY&index=25
-    '''
-    def maxCoins(self, nums: List[int]) -> int:
-        if nums is None or len(nums) == 0:
-            return 0
+    def maxCoins(self, nums):
+        nums = [1] + nums + [1]
+        n = len(nums)
+        dp = [[0] * n for _ in range(n)]
 
-        arr = [1]
-        for ele in nums:
-            arr.append(ele)
-        arr.append(1)
-        dp = {}
+        for l in range(3, n+1):
+            for st in range(n-l+1):
+                end = st+l-1
 
-        def get_max_coin(i, j):
-            if i > j:
-                return 0
+                for k in range(st+1, end):
+                    cost = nums[st] * nums[k] * nums[end]
+                    dp[st][end] = max(dp[st][end], cost + dp[st][k] + dp[k][end])
 
-            if (i, j) in dp:
-                return dp[(i, j)]
+        return dp[0][n-1]
 
-            ans = float('-inf')
-            for k in range(i, j+1):
-                coin = arr[i-1] * arr[k] * arr[j+1]
-                coin += (get_max_coin(i, k-1) + get_max_coin(k+1, j))
-                ans = max(coin, ans)
+# class Solution:
+#     '''
+#     Think backword, what baloon will remain last, then second last and so on...
+#     https://www.youtube.com/watch?v=Yz4LlDSlkns&list=PLgUwDviBIf0pwFf-BnpkXxs0Ra0eU2sJY&index=25
+#     '''
+#     def maxCoins(self, nums: List[int]) -> int:
+#         arr = [1] + nums + [1]
+#         dp = {}
 
-            dp[(i,j)] = ans
-            return ans
+#         def helper(st, end):
+#             if end - st <= 1:
+#                 return 0
 
-        return get_max_coin(1, len(nums))
+#             key = (st, end)
+#             if key in dp: return dp[key]
 
+#             ans = 0
+            
+#             for k in range(st+1, end):
+#                 temp_cost = arr[st] * arr[k] * arr[end]
+#                 cost = helper(st, k) +  helper(k, end) + temp_cost
+#                 ans = max(ans, cost)
 
+#             dp[key] = ans
+#             return ans
 
-        
+#         return helper(0, len(arr)-1)
