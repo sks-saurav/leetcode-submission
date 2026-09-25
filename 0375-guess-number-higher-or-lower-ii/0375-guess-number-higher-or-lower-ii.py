@@ -1,9 +1,9 @@
 class Solution:
     def getMoneyAmount(self, n: int) -> int:
-        dp = [[0] * (n+1) for _ in range(n+1)]
+        dp = [[0] * (n) for _ in range(n)]
 
         for l in range(2, n + 1):
-            for st in range(1, n - l + 2):
+            for st in range(0, n - l + 1):
                 end = st + l - 1
                 dp[st][end] = float('inf')
 
@@ -11,13 +11,13 @@ class Solution:
                 for k in range(st, end + 1):
                     # We pay 'k', plus the worst-case scenario (max) of the two remaining halves
                     left_dp = dp[st][k-1] if k != 0 else 0
-                    right_dp = dp[k + 1][end] if k != end else 0
-                    cost = k + max(left_dp, right_dp)
+                    right_dp = dp[k+1][end] if k != n-1  else 0
+                    cost = (k+1) + max(left_dp, right_dp)
                     
                     # We want the guess that gives us the lowest possible worst-case cost (min)
                     dp[st][end] = min(dp[st][end], cost)
 
-        return dp[1][n]
+        return dp[0][n-1]
 
 # class Solution:
 #     def getMoneyAmount(self, n: int) -> int:
