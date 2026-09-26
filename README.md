@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0546-remove-boxes](https://github.com/sks-saurav/leetcode-submission/tree/master/0546-remove-boxes) |
 | [0639-decode-ways-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0639-decode-ways-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sks-saurav/leetcode-submission/tree/master/0646-maximum-length-of-pair-chain) |
+| [0688-knight-probability-in-chessboard](https://github.com/sks-saurav/leetcode-submission/tree/master/0688-knight-probability-in-chessboard) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sks-saurav/leetcode-submission/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0727-minimum-window-subsequence](https://github.com/sks-saurav/leetcode-submission/tree/master/0727-minimum-window-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/sks-saurav/leetcode-submission/tree/master/0746-min-cost-climbing-stairs) |
