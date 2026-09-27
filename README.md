@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/sks-saurav/leetcode-submission/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1230-toss-strange-coins](https://github.com/sks-saurav/leetcode-submission/tree/master/1230-toss-strange-coins) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/sks-saurav/leetcode-submission/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1269-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/sks-saurav/leetcode-submission/tree/master/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
 | [1278-palindrome-partitioning-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/1278-palindrome-partitioning-iii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/sks-saurav/leetcode-submission/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1510-stone-game-iv](https://github.com/sks-saurav/leetcode-submission/tree/master/1510-stone-game-iv) |
