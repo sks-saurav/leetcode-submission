@@ -1,25 +1,32 @@
-# NOTE: The same-day overlap case refers to whether you are allowed to sell your first stock and immediately buy your second stock on the exact same day i
 class Solution:
     def maxProfit(self, prices: list[int]) -> int:
         if not prices:
             return 0
-
-        # buy1: Balance after 1st buy (minimizing effective cost).
-        # sell1: Balance after 1st sell (max profit from transaction 1).
-        # buy2: Balance after 2nd buy (reinvesting sell1 profit).
-        # sell2: Balance after 2nd sell (final maximum profit).
-        buy1 = -prices[0]
-        sell1 = 0
-        buy2 = -prices[0]
-        sell2 = 0
-
-        for price in prices:
-            buy1 = max(buy1, -price)
-            sell1 = max(sell1, buy1 + price)
-            buy2 = max(buy2, sell1 - price)
-            sell2 = max(sell2, buy2 + price)
-
-        return sell2
+        
+        n = len(prices)
+        K = 2  # At most 2 transactions
+        
+        # dp[i][j][hold]: max profit on day i with j completed transactions
+        # hold: 0 = no stock, 1 = holding 1 stock
+        dp = [[[float('-inf')] * 2 for _ in range(K + 1)] for _ in range(n)]
+        
+        # Base cases on day 0
+        dp[0][0][0] = 0
+        dp[0][0][1] = -prices[0]
+        
+        for i in range(1, n):
+            for j in range(K + 1):
+                # State 0: Not holding stock
+                dp[i][j][0] = dp[i-1][j][0]
+                if j > 0:  # Selling completes transaction j
+                    dp[i][j][0] = max(dp[i][j][0], dp[i-1][j-1][1] + prices[i])
+                
+                # State 1: Holding stock
+                dp[i][j][1] = dp[i-1][j][1]
+                dp[i][j][1] = max(dp[i][j][1], dp[i-1][j][0] - prices[i])
+        
+        # The result is the max profit holding 0 stock across all valid transaction counts
+        return max(dp[n-1][j][0] for j in range(K + 1))
 
 # class Solution:
 #     def maxProfit(self, prices: list[int]) -> int:
