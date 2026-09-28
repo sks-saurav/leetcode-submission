@@ -4,10 +4,15 @@ class Solution:
         if n < 3:
             return max(nums)
 
-        dp = [0] * n
-        dp[0], dp[1] = nums[0], max(nums[0], nums[1])
+        # dp[i][0] -> money when not robbed ith house
+        # dp[i][1] -> money when robbed the ith house
+        dp = [[0] * 2 for _ in range(n)]
         
-        for i in range(2, n):
-            dp[i] = max(nums[i] + dp[i-2], dp[i-1]) # rob, dont
+        dp[0][0] = 0
+        dp[0][1] = nums[0]
 
-        return dp[n-1]
+        for i in range(1, n):
+            dp[i][0] = max(dp[i-1][0], dp[i-1][1])
+            dp[i][1] = max(dp[i-1][0] + nums[i], dp[i-1][1])
+
+        return max(dp[n-1][0], dp[n-1][1])
