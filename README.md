@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/sks-saurav/leetcode-submission/tree/master/0120-triangle) |
 | [0174-dungeon-game](https://github.com/sks-saurav/leetcode-submission/tree/master/0174-dungeon-game) |
 | [0189-rotate-array](https://github.com/sks-saurav/leetcode-submission/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/sks-saurav/leetcode-submission/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sks-saurav/leetcode-submission/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/sks-saurav/leetcode-submission/tree/master/0221-maximal-square) |
 | [0269-alien-dictionary](https://github.com/sks-saurav/leetcode-submission/tree/master/0269-alien-dictionary) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/sks-saurav/leetcode-submission/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/sks-saurav/leetcode-submission/tree/master/0120-triangle) |
 | [0174-dungeon-game](https://github.com/sks-saurav/leetcode-submission/tree/master/0174-dungeon-game) |
+| [0198-house-robber](https://github.com/sks-saurav/leetcode-submission/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/sks-saurav/leetcode-submission/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/sks-saurav/leetcode-submission/tree/master/0233-number-of-digit-one) |
 | [0279-perfect-squares](https://github.com/sks-saurav/leetcode-submission/tree/master/0279-perfect-squares) |
