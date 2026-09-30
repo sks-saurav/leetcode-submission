@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/sks-saurav/leetcode-submission/tree/master/1025-divisor-game) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/sks-saurav/leetcode-submission/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1049-last-stone-weight-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/1049-last-stone-weight-ii) |
+| [1092-shortest-common-supersequence](https://github.com/sks-saurav/leetcode-submission/tree/master/1092-shortest-common-supersequence) |
 | [1105-filling-bookcase-shelves](https://github.com/sks-saurav/leetcode-submission/tree/master/1105-filling-bookcase-shelves) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/sks-saurav/leetcode-submission/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1143-longest-common-subsequence](https://github.com/sks-saurav/leetcode-submission/tree/master/1143-longest-common-subsequence) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0843-guess-the-word](https://github.com/sks-saurav/leetcode-submission/tree/master/0843-guess-the-word) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/sks-saurav/leetcode-submission/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0981-time-based-key-value-store](https://github.com/sks-saurav/leetcode-submission/tree/master/0981-time-based-key-value-store) |
+| [1092-shortest-common-supersequence](https://github.com/sks-saurav/leetcode-submission/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/sks-saurav/leetcode-submission/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/sks-saurav/leetcode-submission/tree/master/1189-maximum-number-of-balloons) |
 | [1236-web-crawler](https://github.com/sks-saurav/leetcode-submission/tree/master/1236-web-crawler) |
@@ -1006,5 +1008,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sks-saurav/leetcode-submission/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1092-shortest-common-supersequence](https://github.com/sks-saurav/leetcode-submission/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/sks-saurav/leetcode-submission/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
