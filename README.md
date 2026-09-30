@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/1049-last-stone-weight-ii) |
 | [1105-filling-bookcase-shelves](https://github.com/sks-saurav/leetcode-submission/tree/master/1105-filling-bookcase-shelves) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/sks-saurav/leetcode-submission/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [1143-longest-common-subsequence](https://github.com/sks-saurav/leetcode-submission/tree/master/1143-longest-common-subsequence) |
 | [1230-toss-strange-coins](https://github.com/sks-saurav/leetcode-submission/tree/master/1230-toss-strange-coins) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/sks-saurav/leetcode-submission/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1269-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/sks-saurav/leetcode-submission/tree/master/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0843-guess-the-word](https://github.com/sks-saurav/leetcode-submission/tree/master/0843-guess-the-word) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/sks-saurav/leetcode-submission/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0981-time-based-key-value-store](https://github.com/sks-saurav/leetcode-submission/tree/master/0981-time-based-key-value-store) |
+| [1143-longest-common-subsequence](https://github.com/sks-saurav/leetcode-submission/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/sks-saurav/leetcode-submission/tree/master/1189-maximum-number-of-balloons) |
 | [1236-web-crawler](https://github.com/sks-saurav/leetcode-submission/tree/master/1236-web-crawler) |
 | [1278-palindrome-partitioning-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/1278-palindrome-partitioning-iii) |
@@ -993,4 +995,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/sks-saurav/leetcode-submission/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/sks-saurav/leetcode-submission/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
