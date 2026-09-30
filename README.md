@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/sks-saurav/leetcode-submission/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/sks-saurav/leetcode-submission/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/sks-saurav/leetcode-submission/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/sks-saurav/leetcode-submission/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/sks-saurav/leetcode-submission/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/sks-saurav/leetcode-submission/tree/master/0546-remove-boxes) |
 | [0576-out-of-boundary-paths](https://github.com/sks-saurav/leetcode-submission/tree/master/0576-out-of-boundary-paths) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/sks-saurav/leetcode-submission/tree/master/0474-ones-and-zeroes) |
 | [0484-find-permutation](https://github.com/sks-saurav/leetcode-submission/tree/master/0484-find-permutation) |
 | [0499-the-maze-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/0499-the-maze-iii) |
+| [0516-longest-palindromic-subsequence](https://github.com/sks-saurav/leetcode-submission/tree/master/0516-longest-palindromic-subsequence) |
 | [0527-word-abbreviation](https://github.com/sks-saurav/leetcode-submission/tree/master/0527-word-abbreviation) |
 | [0588-design-in-memory-file-system](https://github.com/sks-saurav/leetcode-submission/tree/master/0588-design-in-memory-file-system) |
 | [0639-decode-ways-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0639-decode-ways-ii) |
