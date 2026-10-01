@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sks-saurav/leetcode-submission/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/sks-saurav/leetcode-submission/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/sks-saurav/leetcode-submission/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/sks-saurav/leetcode-submission/tree/master/0189-rotate-array) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sks-saurav/leetcode-submission/tree/master/0002-add-two-numbers) |
 | [0460-lfu-cache](https://github.com/sks-saurav/leetcode-submission/tree/master/0460-lfu-cache) |
 | [0716-max-stack](https://github.com/sks-saurav/leetcode-submission/tree/master/0716-max-stack) |
 | [1206-design-skiplist](https://github.com/sks-saurav/leetcode-submission/tree/master/1206-design-skiplist) |
@@ -828,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sks-saurav/leetcode-submission/tree/master/0002-add-two-numbers) |
 | [0233-number-of-digit-one](https://github.com/sks-saurav/leetcode-submission/tree/master/0233-number-of-digit-one) |
 | [0394-decode-string](https://github.com/sks-saurav/leetcode-submission/tree/master/0394-decode-string) |
 | [0439-ternary-expression-parser](https://github.com/sks-saurav/leetcode-submission/tree/master/0439-ternary-expression-parser) |
