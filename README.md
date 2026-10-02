@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/sks-saurav/leetcode-submission/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1146-snapshot-array](https://github.com/sks-saurav/leetcode-submission/tree/master/1146-snapshot-array) |
 | [1199-minimum-time-to-build-blocks](https://github.com/sks-saurav/leetcode-submission/tree/master/1199-minimum-time-to-build-blocks) |
+| [1223-dice-roll-simulation](https://github.com/sks-saurav/leetcode-submission/tree/master/1223-dice-roll-simulation) |
 | [1229-meeting-scheduler](https://github.com/sks-saurav/leetcode-submission/tree/master/1229-meeting-scheduler) |
 | [1230-toss-strange-coins](https://github.com/sks-saurav/leetcode-submission/tree/master/1230-toss-strange-coins) |
 | [1254-number-of-closed-islands](https://github.com/sks-saurav/leetcode-submission/tree/master/1254-number-of-closed-islands) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1105-filling-bookcase-shelves](https://github.com/sks-saurav/leetcode-submission/tree/master/1105-filling-bookcase-shelves) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/sks-saurav/leetcode-submission/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1143-longest-common-subsequence](https://github.com/sks-saurav/leetcode-submission/tree/master/1143-longest-common-subsequence) |
+| [1223-dice-roll-simulation](https://github.com/sks-saurav/leetcode-submission/tree/master/1223-dice-roll-simulation) |
 | [1230-toss-strange-coins](https://github.com/sks-saurav/leetcode-submission/tree/master/1230-toss-strange-coins) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/sks-saurav/leetcode-submission/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1269-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/sks-saurav/leetcode-submission/tree/master/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
