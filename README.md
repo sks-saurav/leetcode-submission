@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2340-minimum-adjacent-swaps-to-make-a-valid-array](https://github.com/sks-saurav/leetcode-submission/tree/master/2340-minimum-adjacent-swaps-to-make-a-valid-array) |
 | [2345-finding-the-number-of-visible-mountains](https://github.com/sks-saurav/leetcode-submission/tree/master/2345-finding-the-number-of-visible-mountains) |
 | [2355-maximum-number-of-books-you-can-take](https://github.com/sks-saurav/leetcode-submission/tree/master/2355-maximum-number-of-books-you-can-take) |
+| [2361-minimum-costs-using-the-train-line](https://github.com/sks-saurav/leetcode-submission/tree/master/2361-minimum-costs-using-the-train-line) |
 | [2371-minimize-maximum-value-in-a-grid](https://github.com/sks-saurav/leetcode-submission/tree/master/2371-minimize-maximum-value-in-a-grid) |
 | [2502-design-memory-allocator](https://github.com/sks-saurav/leetcode-submission/tree/master/2502-design-memory-allocator) |
 | [2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s](https://github.com/sks-saurav/leetcode-submission/tree/master/2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2297-jump-game-viii](https://github.com/sks-saurav/leetcode-submission/tree/master/2297-jump-game-viii) |
 | [2313-minimum-flips-in-binary-tree-to-get-result](https://github.com/sks-saurav/leetcode-submission/tree/master/2313-minimum-flips-in-binary-tree-to-get-result) |
 | [2355-maximum-number-of-books-you-can-take](https://github.com/sks-saurav/leetcode-submission/tree/master/2355-maximum-number-of-books-you-can-take) |
+| [2361-minimum-costs-using-the-train-line](https://github.com/sks-saurav/leetcode-submission/tree/master/2361-minimum-costs-using-the-train-line) |
 | [2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s](https://github.com/sks-saurav/leetcode-submission/tree/master/2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s) |
 | [2836-maximize-value-of-function-in-a-ball-passing-game](https://github.com/sks-saurav/leetcode-submission/tree/master/2836-maximize-value-of-function-in-a-ball-passing-game) |
 | [3135-equalize-strings-by-adding-or-removing-characters-at-ends](https://github.com/sks-saurav/leetcode-submission/tree/master/3135-equalize-strings-by-adding-or-removing-characters-at-ends) |
