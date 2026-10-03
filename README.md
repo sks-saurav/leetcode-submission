@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sks-saurav/leetcode-submission/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/sks-saurav/leetcode-submission/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/sks-saurav/leetcode-submission/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/sks-saurav/leetcode-submission/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/sks-saurav/leetcode-submission/tree/master/0189-rotate-array) |
 | [0233-number-of-digit-one](https://github.com/sks-saurav/leetcode-submission/tree/master/0233-number-of-digit-one) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/sks-saurav/leetcode-submission/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sks-saurav/leetcode-submission/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/sks-saurav/leetcode-submission/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/sks-saurav/leetcode-submission/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/sks-saurav/leetcode-submission/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/sks-saurav/leetcode-submission/tree/master/0096-unique-binary-search-trees) |
@@ -742,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sks-saurav/leetcode-submission/tree/master/0070-climbing-stairs) |
 | [0546-remove-boxes](https://github.com/sks-saurav/leetcode-submission/tree/master/0546-remove-boxes) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/sks-saurav/leetcode-submission/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Shortest Path
