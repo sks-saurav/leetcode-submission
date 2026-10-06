@@ -1,3 +1,4 @@
+# PREMIUM
 class Solution:
     def numWays(self, n: int, k: int) -> int:
         l = max(n+1, 3)
