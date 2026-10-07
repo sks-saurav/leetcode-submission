@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/sks-saurav/leetcode-submission/tree/master/0377-combination-sum-iv) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sks-saurav/leetcode-submission/tree/master/0380-insert-delete-getrandom-o1) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sks-saurav/leetcode-submission/tree/master/0417-pacific-atlantic-water-flow) |
+| [0465-optimal-account-balancing](https://github.com/sks-saurav/leetcode-submission/tree/master/0465-optimal-account-balancing) |
 | [0474-ones-and-zeroes](https://github.com/sks-saurav/leetcode-submission/tree/master/0474-ones-and-zeroes) |
 | [0484-find-permutation](https://github.com/sks-saurav/leetcode-submission/tree/master/0484-find-permutation) |
 | [0486-predict-the-winner](https://github.com/sks-saurav/leetcode-submission/tree/master/0486-predict-the-winner) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/sks-saurav/leetcode-submission/tree/master/0357-count-numbers-with-unique-digits) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0377-combination-sum-iv](https://github.com/sks-saurav/leetcode-submission/tree/master/0377-combination-sum-iv) |
+| [0465-optimal-account-balancing](https://github.com/sks-saurav/leetcode-submission/tree/master/0465-optimal-account-balancing) |
 | [0474-ones-and-zeroes](https://github.com/sks-saurav/leetcode-submission/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/sks-saurav/leetcode-submission/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/sks-saurav/leetcode-submission/tree/master/0494-target-sum) |
@@ -661,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0291-word-pattern-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0291-word-pattern-ii) |
 | [0320-generalized-abbreviation](https://github.com/sks-saurav/leetcode-submission/tree/master/0320-generalized-abbreviation) |
 | [0357-count-numbers-with-unique-digits](https://github.com/sks-saurav/leetcode-submission/tree/master/0357-count-numbers-with-unique-digits) |
+| [0465-optimal-account-balancing](https://github.com/sks-saurav/leetcode-submission/tree/master/0465-optimal-account-balancing) |
 | [0491-non-decreasing-subsequences](https://github.com/sks-saurav/leetcode-submission/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/sks-saurav/leetcode-submission/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/sks-saurav/leetcode-submission/tree/master/0797-all-paths-from-source-to-target) |
@@ -781,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0320-generalized-abbreviation](https://github.com/sks-saurav/leetcode-submission/tree/master/0320-generalized-abbreviation) |
+| [0465-optimal-account-balancing](https://github.com/sks-saurav/leetcode-submission/tree/master/0465-optimal-account-balancing) |
 | [0491-non-decreasing-subsequences](https://github.com/sks-saurav/leetcode-submission/tree/master/0491-non-decreasing-subsequences) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/sks-saurav/leetcode-submission/tree/master/0864-shortest-path-to-get-all-keys) |
 | [1310-xor-queries-of-a-subarray](https://github.com/sks-saurav/leetcode-submission/tree/master/1310-xor-queries-of-a-subarray) |
@@ -1035,4 +1039,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/sks-saurav/leetcode-submission/tree/master/0241-different-ways-to-add-parentheses) |
+## Bitmask
+|  |
+| ------- |
+| [0465-optimal-account-balancing](https://github.com/sks-saurav/leetcode-submission/tree/master/0465-optimal-account-balancing) |
 <!---LeetCode Topics End-->
