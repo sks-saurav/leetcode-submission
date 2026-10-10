@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0864-shortest-path-to-get-all-keys](https://github.com/sks-saurav/leetcode-submission/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/sks-saurav/leetcode-submission/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0875-koko-eating-bananas](https://github.com/sks-saurav/leetcode-submission/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/sks-saurav/leetcode-submission/tree/master/0877-stone-game) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/sks-saurav/leetcode-submission/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0923-3sum-with-multiplicity](https://github.com/sks-saurav/leetcode-submission/tree/master/0923-3sum-with-multiplicity) |
 | [0934-shortest-bridge](https://github.com/sks-saurav/leetcode-submission/tree/master/0934-shortest-bridge) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-soup-servings](https://github.com/sks-saurav/leetcode-submission/tree/master/0808-soup-servings) |
 | [0837-new-21-game](https://github.com/sks-saurav/leetcode-submission/tree/master/0837-new-21-game) |
 | [0843-guess-the-word](https://github.com/sks-saurav/leetcode-submission/tree/master/0843-guess-the-word) |
+| [0877-stone-game](https://github.com/sks-saurav/leetcode-submission/tree/master/0877-stone-game) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/sks-saurav/leetcode-submission/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1025-divisor-game](https://github.com/sks-saurav/leetcode-submission/tree/master/1025-divisor-game) |
 | [1199-minimum-time-to-build-blocks](https://github.com/sks-saurav/leetcode-submission/tree/master/1199-minimum-time-to-build-blocks) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-soup-servings](https://github.com/sks-saurav/leetcode-submission/tree/master/0808-soup-servings) |
 | [0837-new-21-game](https://github.com/sks-saurav/leetcode-submission/tree/master/0837-new-21-game) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/sks-saurav/leetcode-submission/tree/master/0871-minimum-number-of-refueling-stops) |
+| [0877-stone-game](https://github.com/sks-saurav/leetcode-submission/tree/master/0877-stone-game) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/sks-saurav/leetcode-submission/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0935-knight-dialer](https://github.com/sks-saurav/leetcode-submission/tree/master/0935-knight-dialer) |
 | [0968-binary-tree-cameras](https://github.com/sks-saurav/leetcode-submission/tree/master/0968-binary-tree-cameras) |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/sks-saurav/leetcode-submission/tree/master/0486-predict-the-winner) |
 | [0843-guess-the-word](https://github.com/sks-saurav/leetcode-submission/tree/master/0843-guess-the-word) |
+| [0877-stone-game](https://github.com/sks-saurav/leetcode-submission/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/sks-saurav/leetcode-submission/tree/master/1025-divisor-game) |
 | [1510-stone-game-iv](https://github.com/sks-saurav/leetcode-submission/tree/master/1510-stone-game-iv) |
 ## String
@@ -939,6 +943,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/sks-saurav/leetcode-submission/tree/master/0486-predict-the-winner) |
 | [0843-guess-the-word](https://github.com/sks-saurav/leetcode-submission/tree/master/0843-guess-the-word) |
+| [0877-stone-game](https://github.com/sks-saurav/leetcode-submission/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/sks-saurav/leetcode-submission/tree/master/1510-stone-game-iv) |
 ## DP on Trees
 |  |
@@ -948,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/sks-saurav/leetcode-submission/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/sks-saurav/leetcode-submission/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/sks-saurav/leetcode-submission/tree/master/1510-stone-game-iv) |
 ## Nim Game
 |  |
