@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1230-toss-strange-coins](https://github.com/sks-saurav/leetcode-submission/tree/master/1230-toss-strange-coins) |
 | [1254-number-of-closed-islands](https://github.com/sks-saurav/leetcode-submission/tree/master/1254-number-of-closed-islands) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/sks-saurav/leetcode-submission/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1301-number-of-paths-with-max-score](https://github.com/sks-saurav/leetcode-submission/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/1306-jump-game-iii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/sks-saurav/leetcode-submission/tree/master/1310-xor-queries-of-a-subarray) |
 | [1514-path-with-maximum-probability](https://github.com/sks-saurav/leetcode-submission/tree/master/1514-path-with-maximum-probability) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/sks-saurav/leetcode-submission/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1269-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/sks-saurav/leetcode-submission/tree/master/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
 | [1278-palindrome-partitioning-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/1278-palindrome-partitioning-iii) |
+| [1301-number-of-paths-with-max-score](https://github.com/sks-saurav/leetcode-submission/tree/master/1301-number-of-paths-with-max-score) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/sks-saurav/leetcode-submission/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1510-stone-game-iv](https://github.com/sks-saurav/leetcode-submission/tree/master/1510-stone-game-iv) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sks-saurav/leetcode-submission/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -694,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/sks-saurav/leetcode-submission/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sks-saurav/leetcode-submission/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/sks-saurav/leetcode-submission/tree/master/1254-number-of-closed-islands) |
+| [1301-number-of-paths-with-max-score](https://github.com/sks-saurav/leetcode-submission/tree/master/1301-number-of-paths-with-max-score) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/sks-saurav/leetcode-submission/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/sks-saurav/leetcode-submission/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2371-minimize-maximum-value-in-a-grid](https://github.com/sks-saurav/leetcode-submission/tree/master/2371-minimize-maximum-value-in-a-grid) |
