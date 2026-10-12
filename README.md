@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/1306-jump-game-iii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/sks-saurav/leetcode-submission/tree/master/1310-xor-queries-of-a-subarray) |
 | [1340-jump-game-v](https://github.com/sks-saurav/leetcode-submission/tree/master/1340-jump-game-v) |
+| [1478-allocate-mailboxes](https://github.com/sks-saurav/leetcode-submission/tree/master/1478-allocate-mailboxes) |
 | [1514-path-with-maximum-probability](https://github.com/sks-saurav/leetcode-submission/tree/master/1514-path-with-maximum-probability) |
 | [1580-put-boxes-into-the-warehouse-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/1580-put-boxes-into-the-warehouse-ii) |
 | [1584-min-cost-to-connect-all-points](https://github.com/sks-saurav/leetcode-submission/tree/master/1584-min-cost-to-connect-all-points) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1230-toss-strange-coins](https://github.com/sks-saurav/leetcode-submission/tree/master/1230-toss-strange-coins) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sks-saurav/leetcode-submission/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1360-number-of-days-between-two-dates](https://github.com/sks-saurav/leetcode-submission/tree/master/1360-number-of-days-between-two-dates) |
+| [1478-allocate-mailboxes](https://github.com/sks-saurav/leetcode-submission/tree/master/1478-allocate-mailboxes) |
 | [1510-stone-game-iv](https://github.com/sks-saurav/leetcode-submission/tree/master/1510-stone-game-iv) |
 | [2189-number-of-ways-to-build-house-of-cards](https://github.com/sks-saurav/leetcode-submission/tree/master/2189-number-of-ways-to-build-house-of-cards) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/sks-saurav/leetcode-submission/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1278-palindrome-partitioning-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/1278-palindrome-partitioning-iii) |
 | [1301-number-of-paths-with-max-score](https://github.com/sks-saurav/leetcode-submission/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/sks-saurav/leetcode-submission/tree/master/1340-jump-game-v) |
+| [1478-allocate-mailboxes](https://github.com/sks-saurav/leetcode-submission/tree/master/1478-allocate-mailboxes) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/sks-saurav/leetcode-submission/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1510-stone-game-iv](https://github.com/sks-saurav/leetcode-submission/tree/master/1510-stone-game-iv) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sks-saurav/leetcode-submission/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1229-meeting-scheduler](https://github.com/sks-saurav/leetcode-submission/tree/master/1229-meeting-scheduler) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/sks-saurav/leetcode-submission/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1340-jump-game-v](https://github.com/sks-saurav/leetcode-submission/tree/master/1340-jump-game-v) |
+| [1478-allocate-mailboxes](https://github.com/sks-saurav/leetcode-submission/tree/master/1478-allocate-mailboxes) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1580-put-boxes-into-the-warehouse-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/1580-put-boxes-into-the-warehouse-ii) |
 | [1724-checking-existence-of-edge-length-limited-paths-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/1724-checking-existence-of-edge-length-limited-paths-ii) |
