@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/sks-saurav/leetcode-submission/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/sks-saurav/leetcode-submission/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/sks-saurav/leetcode-submission/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/sks-saurav/leetcode-submission/tree/master/0678-valid-parenthesis-string) |
 | [0688-knight-probability-in-chessboard](https://github.com/sks-saurav/leetcode-submission/tree/master/0688-knight-probability-in-chessboard) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sks-saurav/leetcode-submission/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sks-saurav/leetcode-submission/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0642-design-search-autocomplete-system](https://github.com/sks-saurav/leetcode-submission/tree/master/0642-design-search-autocomplete-system) |
 | [0647-palindromic-substrings](https://github.com/sks-saurav/leetcode-submission/tree/master/0647-palindromic-substrings) |
 | [0677-map-sum-pairs](https://github.com/sks-saurav/leetcode-submission/tree/master/0677-map-sum-pairs) |
+| [0678-valid-parenthesis-string](https://github.com/sks-saurav/leetcode-submission/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sks-saurav/leetcode-submission/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/sks-saurav/leetcode-submission/tree/master/0721-accounts-merge) |
 | [0727-minimum-window-subsequence](https://github.com/sks-saurav/leetcode-submission/tree/master/0727-minimum-window-subsequence) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0527-word-abbreviation](https://github.com/sks-saurav/leetcode-submission/tree/master/0527-word-abbreviation) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sks-saurav/leetcode-submission/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sks-saurav/leetcode-submission/tree/master/0646-maximum-length-of-pair-chain) |
+| [0678-valid-parenthesis-string](https://github.com/sks-saurav/leetcode-submission/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sks-saurav/leetcode-submission/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/sks-saurav/leetcode-submission/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/sks-saurav/leetcode-submission/tree/master/1130-minimum-cost-tree-from-leaf-values) |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0439-ternary-expression-parser](https://github.com/sks-saurav/leetcode-submission/tree/master/0439-ternary-expression-parser) |
 | [0484-find-permutation](https://github.com/sks-saurav/leetcode-submission/tree/master/0484-find-permutation) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sks-saurav/leetcode-submission/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/sks-saurav/leetcode-submission/tree/master/0678-valid-parenthesis-string) |
 | [0716-max-stack](https://github.com/sks-saurav/leetcode-submission/tree/master/0716-max-stack) |
 | [0772-basic-calculator-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/0772-basic-calculator-iii) |
 | [0895-maximum-frequency-stack](https://github.com/sks-saurav/leetcode-submission/tree/master/0895-maximum-frequency-stack) |
@@ -1054,6 +1058,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/sks-saurav/leetcode-submission/tree/master/0241-different-ways-to-add-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/sks-saurav/leetcode-submission/tree/master/0678-valid-parenthesis-string) |
 ## Bitmask
 |  |
 | ------- |
