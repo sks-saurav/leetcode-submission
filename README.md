@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/1306-jump-game-iii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/sks-saurav/leetcode-submission/tree/master/1310-xor-queries-of-a-subarray) |
 | [1340-jump-game-v](https://github.com/sks-saurav/leetcode-submission/tree/master/1340-jump-game-v) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sks-saurav/leetcode-submission/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1478-allocate-mailboxes](https://github.com/sks-saurav/leetcode-submission/tree/master/1478-allocate-mailboxes) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sks-saurav/leetcode-submission/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1514-path-with-maximum-probability](https://github.com/sks-saurav/leetcode-submission/tree/master/1514-path-with-maximum-probability) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-snapshot-array](https://github.com/sks-saurav/leetcode-submission/tree/master/1146-snapshot-array) |
 | [1189-maximum-number-of-balloons](https://github.com/sks-saurav/leetcode-submission/tree/master/1189-maximum-number-of-balloons) |
 | [1396-design-underground-system](https://github.com/sks-saurav/leetcode-submission/tree/master/1396-design-underground-system) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sks-saurav/leetcode-submission/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1506-find-root-of-n-ary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/1506-find-root-of-n-ary-tree) |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1660-correct-a-binary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/1660-correct-a-binary-tree) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/sks-saurav/leetcode-submission/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/1004-max-consecutive-ones-iii) |
 | [1146-snapshot-array](https://github.com/sks-saurav/leetcode-submission/tree/master/1146-snapshot-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sks-saurav/leetcode-submission/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/sks-saurav/leetcode-submission/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1618-maximum-font-to-fit-a-sentence-in-a-screen](https://github.com/sks-saurav/leetcode-submission/tree/master/1618-maximum-font-to-fit-a-sentence-in-a-screen) |
 | [2031-count-subarrays-with-more-ones-than-zeros](https://github.com/sks-saurav/leetcode-submission/tree/master/2031-count-subarrays-with-more-ones-than-zeros) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1278-palindrome-partitioning-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/1278-palindrome-partitioning-iii) |
 | [1301-number-of-paths-with-max-score](https://github.com/sks-saurav/leetcode-submission/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/sks-saurav/leetcode-submission/tree/master/1340-jump-game-v) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sks-saurav/leetcode-submission/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1478-allocate-mailboxes](https://github.com/sks-saurav/leetcode-submission/tree/master/1478-allocate-mailboxes) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/sks-saurav/leetcode-submission/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sks-saurav/leetcode-submission/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -890,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-new-21-game](https://github.com/sks-saurav/leetcode-submission/tree/master/0837-new-21-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/1004-max-consecutive-ones-iii) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/sks-saurav/leetcode-submission/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sks-saurav/leetcode-submission/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sks-saurav/leetcode-submission/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3135-equalize-strings-by-adding-or-removing-characters-at-ends](https://github.com/sks-saurav/leetcode-submission/tree/master/3135-equalize-strings-by-adding-or-removing-characters-at-ends) |
 ## Monotonic Stack
