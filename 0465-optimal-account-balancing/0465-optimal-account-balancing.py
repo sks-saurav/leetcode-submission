@@ -24,15 +24,9 @@ class Solution:
                 min_opers = min(opers, min_opers)
                 return
             curr_balance = balances[i]
-            seen = set()
 
             for j in range(i + 1, len(balances)):
-                # Equal balances produce equivalent choices
-                if balances[j] in seen:
-                    continue
-
                 if curr_balance * balances[j] < 0:
-                    seen.add(balances[j])
                     # Settle person i through person j
                     balances[j] += curr_balance
                     dfs(i + 1, opers=opers + 1)
