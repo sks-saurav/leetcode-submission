@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1310-xor-queries-of-a-subarray](https://github.com/sks-saurav/leetcode-submission/tree/master/1310-xor-queries-of-a-subarray) |
 | [1340-jump-game-v](https://github.com/sks-saurav/leetcode-submission/tree/master/1340-jump-game-v) |
 | [1478-allocate-mailboxes](https://github.com/sks-saurav/leetcode-submission/tree/master/1478-allocate-mailboxes) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sks-saurav/leetcode-submission/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1514-path-with-maximum-probability](https://github.com/sks-saurav/leetcode-submission/tree/master/1514-path-with-maximum-probability) |
 | [1580-put-boxes-into-the-warehouse-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/1580-put-boxes-into-the-warehouse-ii) |
 | [1584-min-cost-to-connect-all-points](https://github.com/sks-saurav/leetcode-submission/tree/master/1584-min-cost-to-connect-all-points) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/sks-saurav/leetcode-submission/tree/master/1340-jump-game-v) |
 | [1478-allocate-mailboxes](https://github.com/sks-saurav/leetcode-submission/tree/master/1478-allocate-mailboxes) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/sks-saurav/leetcode-submission/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sks-saurav/leetcode-submission/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/sks-saurav/leetcode-submission/tree/master/1510-stone-game-iv) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sks-saurav/leetcode-submission/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/sks-saurav/leetcode-submission/tree/master/1857-largest-color-value-in-a-directed-graph) |
@@ -888,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-new-21-game](https://github.com/sks-saurav/leetcode-submission/tree/master/0837-new-21-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/1004-max-consecutive-ones-iii) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/sks-saurav/leetcode-submission/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sks-saurav/leetcode-submission/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3135-equalize-strings-by-adding-or-removing-characters-at-ends](https://github.com/sks-saurav/leetcode-submission/tree/master/3135-equalize-strings-by-adding-or-removing-characters-at-ends) |
 ## Monotonic Stack
 |  |
