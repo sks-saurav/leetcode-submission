@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0758-bold-words-in-string](https://github.com/sks-saurav/leetcode-submission/tree/master/0758-bold-words-in-string) |
 | [0759-employee-free-time](https://github.com/sks-saurav/leetcode-submission/tree/master/0759-employee-free-time) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/sks-saurav/leetcode-submission/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
+| [0813-largest-sum-of-averages](https://github.com/sks-saurav/leetcode-submission/tree/master/0813-largest-sum-of-averages) |
 | [0839-similar-string-groups](https://github.com/sks-saurav/leetcode-submission/tree/master/0839-similar-string-groups) |
 | [0843-guess-the-word](https://github.com/sks-saurav/leetcode-submission/tree/master/0843-guess-the-word) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/sks-saurav/leetcode-submission/tree/master/0864-shortest-path-to-get-all-keys) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0790-domino-and-tromino-tiling](https://github.com/sks-saurav/leetcode-submission/tree/master/0790-domino-and-tromino-tiling) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/sks-saurav/leetcode-submission/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0808-soup-servings](https://github.com/sks-saurav/leetcode-submission/tree/master/0808-soup-servings) |
+| [0813-largest-sum-of-averages](https://github.com/sks-saurav/leetcode-submission/tree/master/0813-largest-sum-of-averages) |
 | [0837-new-21-game](https://github.com/sks-saurav/leetcode-submission/tree/master/0837-new-21-game) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/sks-saurav/leetcode-submission/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0877-stone-game](https://github.com/sks-saurav/leetcode-submission/tree/master/0877-stone-game) |
@@ -765,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0732-my-calendar-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/0732-my-calendar-iii) |
+| [0813-largest-sum-of-averages](https://github.com/sks-saurav/leetcode-submission/tree/master/0813-largest-sum-of-averages) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/sks-saurav/leetcode-submission/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1004-max-consecutive-ones-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/1004-max-consecutive-ones-iii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/sks-saurav/leetcode-submission/tree/master/1310-xor-queries-of-a-subarray) |
