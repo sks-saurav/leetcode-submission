@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0361-bomb-enemy](https://github.com/sks-saurav/leetcode-submission/tree/master/0361-bomb-enemy) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0377-combination-sum-iv](https://github.com/sks-saurav/leetcode-submission/tree/master/0377-combination-sum-iv) |
+| [0397-integer-replacement](https://github.com/sks-saurav/leetcode-submission/tree/master/0397-integer-replacement) |
 | [0465-optimal-account-balancing](https://github.com/sks-saurav/leetcode-submission/tree/master/0465-optimal-account-balancing) |
 | [0474-ones-and-zeroes](https://github.com/sks-saurav/leetcode-submission/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/sks-saurav/leetcode-submission/tree/master/0486-predict-the-winner) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0280-wiggle-sort](https://github.com/sks-saurav/leetcode-submission/tree/master/0280-wiggle-sort) |
+| [0397-integer-replacement](https://github.com/sks-saurav/leetcode-submission/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/sks-saurav/leetcode-submission/tree/master/0402-remove-k-digits) |
 | [0484-find-permutation](https://github.com/sks-saurav/leetcode-submission/tree/master/0484-find-permutation) |
 | [0527-word-abbreviation](https://github.com/sks-saurav/leetcode-submission/tree/master/0527-word-abbreviation) |
@@ -795,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/sks-saurav/leetcode-submission/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sks-saurav/leetcode-submission/tree/master/0241-different-ways-to-add-parentheses) |
+| [0397-integer-replacement](https://github.com/sks-saurav/leetcode-submission/tree/master/0397-integer-replacement) |
 | [0546-remove-boxes](https://github.com/sks-saurav/leetcode-submission/tree/master/0546-remove-boxes) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/sks-saurav/leetcode-submission/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Shortest Path
@@ -822,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0320-generalized-abbreviation](https://github.com/sks-saurav/leetcode-submission/tree/master/0320-generalized-abbreviation) |
+| [0397-integer-replacement](https://github.com/sks-saurav/leetcode-submission/tree/master/0397-integer-replacement) |
 | [0465-optimal-account-balancing](https://github.com/sks-saurav/leetcode-submission/tree/master/0465-optimal-account-balancing) |
 | [0491-non-decreasing-subsequences](https://github.com/sks-saurav/leetcode-submission/tree/master/0491-non-decreasing-subsequences) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/sks-saurav/leetcode-submission/tree/master/0864-shortest-path-to-get-all-keys) |
