@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/sks-saurav/leetcode-submission/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/sks-saurav/leetcode-submission/tree/master/0322-coin-change) |
 | [0327-count-of-range-sum](https://github.com/sks-saurav/leetcode-submission/tree/master/0327-count-of-range-sum) |
+| [0361-bomb-enemy](https://github.com/sks-saurav/leetcode-submission/tree/master/0361-bomb-enemy) |
 | [0362-design-hit-counter](https://github.com/sks-saurav/leetcode-submission/tree/master/0362-design-hit-counter) |
 | [0377-combination-sum-iv](https://github.com/sks-saurav/leetcode-submission/tree/master/0377-combination-sum-iv) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sks-saurav/leetcode-submission/tree/master/0380-insert-delete-getrandom-o1) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/sks-saurav/leetcode-submission/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/sks-saurav/leetcode-submission/tree/master/0322-coin-change) |
 | [0357-count-numbers-with-unique-digits](https://github.com/sks-saurav/leetcode-submission/tree/master/0357-count-numbers-with-unique-digits) |
+| [0361-bomb-enemy](https://github.com/sks-saurav/leetcode-submission/tree/master/0361-bomb-enemy) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0377-combination-sum-iv](https://github.com/sks-saurav/leetcode-submission/tree/master/0377-combination-sum-iv) |
 | [0465-optimal-account-balancing](https://github.com/sks-saurav/leetcode-submission/tree/master/0465-optimal-account-balancing) |
@@ -712,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sks-saurav/leetcode-submission/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/sks-saurav/leetcode-submission/tree/master/0221-maximal-square) |
 | [0308-range-sum-query-2d-mutable](https://github.com/sks-saurav/leetcode-submission/tree/master/0308-range-sum-query-2d-mutable) |
+| [0361-bomb-enemy](https://github.com/sks-saurav/leetcode-submission/tree/master/0361-bomb-enemy) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sks-saurav/leetcode-submission/tree/master/0417-pacific-atlantic-water-flow) |
 | [0499-the-maze-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/0499-the-maze-iii) |
 | [0505-the-maze-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0505-the-maze-ii) |
