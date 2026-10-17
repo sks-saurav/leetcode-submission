@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-new-21-game](https://github.com/sks-saurav/leetcode-submission/tree/master/0837-new-21-game) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/sks-saurav/leetcode-submission/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0877-stone-game](https://github.com/sks-saurav/leetcode-submission/tree/master/0877-stone-game) |
+| [0894-all-possible-full-binary-trees](https://github.com/sks-saurav/leetcode-submission/tree/master/0894-all-possible-full-binary-trees) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/sks-saurav/leetcode-submission/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0935-knight-dialer](https://github.com/sks-saurav/leetcode-submission/tree/master/0935-knight-dialer) |
 | [0968-binary-tree-cameras](https://github.com/sks-saurav/leetcode-submission/tree/master/0968-binary-tree-cameras) |
@@ -681,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0549-binary-tree-longest-consecutive-sequence-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0549-binary-tree-longest-consecutive-sequence-ii) |
 | [0663-equal-tree-partition](https://github.com/sks-saurav/leetcode-submission/tree/master/0663-equal-tree-partition) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0894-all-possible-full-binary-trees](https://github.com/sks-saurav/leetcode-submission/tree/master/0894-all-possible-full-binary-trees) |
 | [0968-binary-tree-cameras](https://github.com/sks-saurav/leetcode-submission/tree/master/0968-binary-tree-cameras) |
 | [1245-tree-diameter](https://github.com/sks-saurav/leetcode-submission/tree/master/1245-tree-diameter) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/sks-saurav/leetcode-submission/tree/master/1376-time-needed-to-inform-all-employees) |
@@ -747,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0549-binary-tree-longest-consecutive-sequence-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0549-binary-tree-longest-consecutive-sequence-ii) |
 | [0663-equal-tree-partition](https://github.com/sks-saurav/leetcode-submission/tree/master/0663-equal-tree-partition) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0894-all-possible-full-binary-trees](https://github.com/sks-saurav/leetcode-submission/tree/master/0894-all-possible-full-binary-trees) |
 | [0968-binary-tree-cameras](https://github.com/sks-saurav/leetcode-submission/tree/master/0968-binary-tree-cameras) |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1660-correct-a-binary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/1660-correct-a-binary-tree) |
@@ -799,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/sks-saurav/leetcode-submission/tree/master/0241-different-ways-to-add-parentheses) |
 | [0397-integer-replacement](https://github.com/sks-saurav/leetcode-submission/tree/master/0397-integer-replacement) |
 | [0546-remove-boxes](https://github.com/sks-saurav/leetcode-submission/tree/master/0546-remove-boxes) |
+| [0894-all-possible-full-binary-trees](https://github.com/sks-saurav/leetcode-submission/tree/master/0894-all-possible-full-binary-trees) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/sks-saurav/leetcode-submission/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Shortest Path
 |  |
@@ -900,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0439-ternary-expression-parser](https://github.com/sks-saurav/leetcode-submission/tree/master/0439-ternary-expression-parser) |
 | [0486-predict-the-winner](https://github.com/sks-saurav/leetcode-submission/tree/master/0486-predict-the-winner) |
 | [0772-basic-calculator-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/0772-basic-calculator-iii) |
+| [0894-all-possible-full-binary-trees](https://github.com/sks-saurav/leetcode-submission/tree/master/0894-all-possible-full-binary-trees) |
 ## Sliding Window
 |  |
 | ------- |
