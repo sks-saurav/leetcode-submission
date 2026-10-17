@@ -6,7 +6,8 @@
 #         self.right = right
 class Solution:
     def allPossibleFBT(self, n: int) -> list[TreeNode | None]:
-
+        
+        @cache
         def helper(x):
             if x == 1:
                 return [TreeNode()]
