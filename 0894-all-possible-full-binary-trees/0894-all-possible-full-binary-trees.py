@@ -5,19 +5,21 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def allPossibleFBT(self, n: int) -> List[TreeNode]:
-        if n % 2 == 0:
+    def allPossibleFBT(self, n: int) -> list[TreeNode | None]:
+        if n%2 == 0:
             return []
 
-        dp = [[] for _ in range(n + 1)]
-        dp[1].append(TreeNode(0))
-        
-        for count in range(3, n + 1, 2):
-            for i in range(1, count - 1, 2):
-                j = count - 1 - i
-                for left in dp[i]:
-                    for right in dp[j]:
-                        root = TreeNode(0, left, right)
-                        dp[count].append(root)
+        dp = [[] for _ in range(n+1)]
+        dp[1] = [TreeNode()]
+
+        for count in range(3, n+1, 2):
+            for lc in range(1, count-1):
+                rc = count - 1 - lc
+                for lnode in dp[lc]:
+                    for rnode in dp[rc]:
+                        node = TreeNode()
+                        node.left = lnode
+                        node.right = rnode
+                        dp[count].append(node)
 
         return dp[n]
