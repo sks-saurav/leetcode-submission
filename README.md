@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-high-five](https://github.com/sks-saurav/leetcode-submission/tree/master/1086-high-five) |
 | [1146-snapshot-array](https://github.com/sks-saurav/leetcode-submission/tree/master/1146-snapshot-array) |
 | [1189-maximum-number-of-balloons](https://github.com/sks-saurav/leetcode-submission/tree/master/1189-maximum-number-of-balloons) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sks-saurav/leetcode-submission/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1396-design-underground-system](https://github.com/sks-saurav/leetcode-submission/tree/master/1396-design-underground-system) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sks-saurav/leetcode-submission/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1506-find-root-of-n-ary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/1506-find-root-of-n-ary-tree) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-web-crawler](https://github.com/sks-saurav/leetcode-submission/tree/master/1236-web-crawler) |
 | [1278-palindrome-partitioning-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/1278-palindrome-partitioning-iii) |
 | [1360-number-of-days-between-two-dates](https://github.com/sks-saurav/leetcode-submission/tree/master/1360-number-of-days-between-two-dates) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sks-saurav/leetcode-submission/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1396-design-underground-system](https://github.com/sks-saurav/leetcode-submission/tree/master/1396-design-underground-system) |
 | [1405-longest-happy-string](https://github.com/sks-saurav/leetcode-submission/tree/master/1405-longest-happy-string) |
 | [1618-maximum-font-to-fit-a-sentence-in-a-screen](https://github.com/sks-saurav/leetcode-submission/tree/master/1618-maximum-font-to-fit-a-sentence-in-a-screen) |
@@ -782,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1000-minimum-cost-to-merge-stones](https://github.com/sks-saurav/leetcode-submission/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1004-max-consecutive-ones-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/1004-max-consecutive-ones-iii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/sks-saurav/leetcode-submission/tree/master/1310-xor-queries-of-a-subarray) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sks-saurav/leetcode-submission/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2838-maximum-coins-heroes-can-collect](https://github.com/sks-saurav/leetcode-submission/tree/master/2838-maximum-coins-heroes-can-collect) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/sks-saurav/leetcode-submission/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sks-saurav/leetcode-submission/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -834,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/sks-saurav/leetcode-submission/tree/master/0491-non-decreasing-subsequences) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/sks-saurav/leetcode-submission/tree/master/0864-shortest-path-to-get-all-keys) |
 | [1310-xor-queries-of-a-subarray](https://github.com/sks-saurav/leetcode-submission/tree/master/1310-xor-queries-of-a-subarray) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sks-saurav/leetcode-submission/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/sks-saurav/leetcode-submission/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1506-find-root-of-n-ary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/1506-find-root-of-n-ary-tree) |
 | [2836-maximize-value-of-function-in-a-ball-passing-game](https://github.com/sks-saurav/leetcode-submission/tree/master/2836-maximize-value-of-function-in-a-ball-passing-game) |
