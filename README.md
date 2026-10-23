@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2838-maximum-coins-heroes-can-collect](https://github.com/sks-saurav/leetcode-submission/tree/master/2838-maximum-coins-heroes-can-collect) |
 | [3508-implement-router](https://github.com/sks-saurav/leetcode-submission/tree/master/3508-implement-router) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sks-saurav/leetcode-submission/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/sks-saurav/leetcode-submission/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sks-saurav/leetcode-submission/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
@@ -841,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/sks-saurav/leetcode-submission/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1506-find-root-of-n-ary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/1506-find-root-of-n-ary-tree) |
 | [2836-maximize-value-of-function-in-a-ball-passing-game](https://github.com/sks-saurav/leetcode-submission/tree/master/2836-maximize-value-of-function-in-a-ball-passing-game) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/sks-saurav/leetcode-submission/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Design
 |  |
 | ------- |
