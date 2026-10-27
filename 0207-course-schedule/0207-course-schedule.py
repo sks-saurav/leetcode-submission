@@ -8,21 +8,21 @@ class Solution:
             indeg[a] += 1
 
         que = deque()
-        order = set()
+        seen = set()
         for c in range(numCourses):
             if indeg[c] == 0:
                 que.append(c)
 
         while que:
             curr = que.popleft()
-            order.add(curr)
+            seen.add(curr)
 
             for nxt in adj[curr]:
                 indeg[nxt] -= 1
                 if indeg[nxt] == 0:
                     que.append(nxt)
 
-        return len(order) == numCourses
+        return len(seen) == numCourses
         
         # DFS Approach / Cycle detection
         # adj = defaultdict(list)
