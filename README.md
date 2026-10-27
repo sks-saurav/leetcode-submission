@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-3sum-with-multiplicity](https://github.com/sks-saurav/leetcode-submission/tree/master/0923-3sum-with-multiplicity) |
 | [0934-shortest-bridge](https://github.com/sks-saurav/leetcode-submission/tree/master/0934-shortest-bridge) |
 | [0946-validate-stack-sequences](https://github.com/sks-saurav/leetcode-submission/tree/master/0946-validate-stack-sequences) |
+| [0994-rotting-oranges](https://github.com/sks-saurav/leetcode-submission/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/sks-saurav/leetcode-submission/tree/master/0997-find-the-town-judge) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/sks-saurav/leetcode-submission/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1004-max-consecutive-ones-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/1004-max-consecutive-ones-iii) |
@@ -612,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/sks-saurav/leetcode-submission/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0934-shortest-bridge](https://github.com/sks-saurav/leetcode-submission/tree/master/0934-shortest-bridge) |
+| [0994-rotting-oranges](https://github.com/sks-saurav/leetcode-submission/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/sks-saurav/leetcode-submission/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sks-saurav/leetcode-submission/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/sks-saurav/leetcode-submission/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
@@ -735,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0562-longest-line-of-consecutive-one-in-matrix](https://github.com/sks-saurav/leetcode-submission/tree/master/0562-longest-line-of-consecutive-one-in-matrix) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/sks-saurav/leetcode-submission/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0934-shortest-bridge](https://github.com/sks-saurav/leetcode-submission/tree/master/0934-shortest-bridge) |
+| [0994-rotting-oranges](https://github.com/sks-saurav/leetcode-submission/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/sks-saurav/leetcode-submission/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sks-saurav/leetcode-submission/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/sks-saurav/leetcode-submission/tree/master/1254-number-of-closed-islands) |
