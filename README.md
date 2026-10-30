@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2254-design-video-sharing-platform](https://github.com/sks-saurav/leetcode-submission/tree/master/2254-design-video-sharing-platform) |
 | [2502-design-memory-allocator](https://github.com/sks-saurav/leetcode-submission/tree/master/2502-design-memory-allocator) |
 | [2590-design-a-todo-list](https://github.com/sks-saurav/leetcode-submission/tree/master/2590-design-a-todo-list) |
+| [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [3408-design-task-manager](https://github.com/sks-saurav/leetcode-submission/tree/master/3408-design-task-manager) |
 | [3508-implement-router](https://github.com/sks-saurav/leetcode-submission/tree/master/3508-implement-router) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sks-saurav/leetcode-submission/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-closest-node-to-path-in-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/2277-closest-node-to-path-in-tree) |
 | [2313-minimum-flips-in-binary-tree-to-get-result](https://github.com/sks-saurav/leetcode-submission/tree/master/2313-minimum-flips-in-binary-tree-to-get-result) |
 | [2689-extract-kth-character-from-the-rope-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/2689-extract-kth-character-from-the-rope-tree) |
+| [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -711,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-closest-node-to-path-in-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/2277-closest-node-to-path-in-tree) |
 | [2313-minimum-flips-in-binary-tree-to-get-result](https://github.com/sks-saurav/leetcode-submission/tree/master/2313-minimum-flips-in-binary-tree-to-get-result) |
 | [2689-extract-kth-character-from-the-rope-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/2689-extract-kth-character-from-the-rope-tree) |
+| [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -858,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sks-saurav/leetcode-submission/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/sks-saurav/leetcode-submission/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1506-find-root-of-n-ary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/1506-find-root-of-n-ary-tree) |
+| [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2836-maximize-value-of-function-in-a-ball-passing-game](https://github.com/sks-saurav/leetcode-submission/tree/master/2836-maximize-value-of-function-in-a-ball-passing-game) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sks-saurav/leetcode-submission/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Design
