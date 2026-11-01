@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/sks-saurav/leetcode-submission/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2836-maximize-value-of-function-in-a-ball-passing-game](https://github.com/sks-saurav/leetcode-submission/tree/master/2836-maximize-value-of-function-in-a-ball-passing-game) |
 | [2838-maximum-coins-heroes-can-collect](https://github.com/sks-saurav/leetcode-submission/tree/master/2838-maximum-coins-heroes-can-collect) |
+| [3453-separate-squares-i](https://github.com/sks-saurav/leetcode-submission/tree/master/3453-separate-squares-i) |
 | [3508-implement-router](https://github.com/sks-saurav/leetcode-submission/tree/master/3508-implement-router) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sks-saurav/leetcode-submission/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sks-saurav/leetcode-submission/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2031-count-subarrays-with-more-ones-than-zeros](https://github.com/sks-saurav/leetcode-submission/tree/master/2031-count-subarrays-with-more-ones-than-zeros) |
 | [2838-maximum-coins-heroes-can-collect](https://github.com/sks-saurav/leetcode-submission/tree/master/2838-maximum-coins-heroes-can-collect) |
 | [3135-equalize-strings-by-adding-or-removing-characters-at-ends](https://github.com/sks-saurav/leetcode-submission/tree/master/3135-equalize-strings-by-adding-or-removing-characters-at-ends) |
+| [3453-separate-squares-i](https://github.com/sks-saurav/leetcode-submission/tree/master/3453-separate-squares-i) |
 | [3508-implement-router](https://github.com/sks-saurav/leetcode-submission/tree/master/3508-implement-router) |
 ## Divide and Conquer
 |  |
