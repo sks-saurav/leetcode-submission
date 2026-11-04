@@ -534,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/sks-saurav/leetcode-submission/tree/master/1514-path-with-maximum-probability) |
 | [1724-checking-existence-of-edge-length-limited-paths-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/1724-checking-existence-of-edge-length-limited-paths-ii) |
 | [1834-single-threaded-cpu](https://github.com/sks-saurav/leetcode-submission/tree/master/1834-single-threaded-cpu) |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/sks-saurav/leetcode-submission/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2254-design-video-sharing-platform](https://github.com/sks-saurav/leetcode-submission/tree/master/2254-design-video-sharing-platform) |
 | [2263-make-array-non-decreasing-or-non-increasing](https://github.com/sks-saurav/leetcode-submission/tree/master/2263-make-array-non-decreasing-or-non-increasing) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/sks-saurav/leetcode-submission/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -688,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1724-checking-existence-of-edge-length-limited-paths-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/1724-checking-existence-of-edge-length-limited-paths-ii) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/sks-saurav/leetcode-submission/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2077-paths-in-maze-that-lead-to-same-room](https://github.com/sks-saurav/leetcode-submission/tree/master/2077-paths-in-maze-that-lead-to-same-room) |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/sks-saurav/leetcode-submission/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/sks-saurav/leetcode-submission/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2297-jump-game-viii](https://github.com/sks-saurav/leetcode-submission/tree/master/2297-jump-game-viii) |
 | [2371-minimize-maximum-value-in-a-grid](https://github.com/sks-saurav/leetcode-submission/tree/master/2371-minimize-maximum-value-in-a-grid) |
@@ -843,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0505-the-maze-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0505-the-maze-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sks-saurav/leetcode-submission/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/sks-saurav/leetcode-submission/tree/master/1514-path-with-maximum-probability) |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/sks-saurav/leetcode-submission/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/sks-saurav/leetcode-submission/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2297-jump-game-viii](https://github.com/sks-saurav/leetcode-submission/tree/master/2297-jump-game-viii) |
 ## Minimum Spanning Tree
