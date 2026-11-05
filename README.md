@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0499-the-maze-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/0499-the-maze-iii) |
 | [0505-the-maze-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0505-the-maze-ii) |
 | [0527-word-abbreviation](https://github.com/sks-saurav/leetcode-submission/tree/master/0527-word-abbreviation) |
+| [0531-lonely-pixel-i](https://github.com/sks-saurav/leetcode-submission/tree/master/0531-lonely-pixel-i) |
 | [0542-01-matrix](https://github.com/sks-saurav/leetcode-submission/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/sks-saurav/leetcode-submission/tree/master/0546-remove-boxes) |
 | [0562-longest-line-of-consecutive-one-in-matrix](https://github.com/sks-saurav/leetcode-submission/tree/master/0562-longest-line-of-consecutive-one-in-matrix) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/sks-saurav/leetcode-submission/tree/master/0433-minimum-genetic-mutation) |
 | [0460-lfu-cache](https://github.com/sks-saurav/leetcode-submission/tree/master/0460-lfu-cache) |
 | [0491-non-decreasing-subsequences](https://github.com/sks-saurav/leetcode-submission/tree/master/0491-non-decreasing-subsequences) |
+| [0531-lonely-pixel-i](https://github.com/sks-saurav/leetcode-submission/tree/master/0531-lonely-pixel-i) |
 | [0588-design-in-memory-file-system](https://github.com/sks-saurav/leetcode-submission/tree/master/0588-design-in-memory-file-system) |
 | [0666-path-sum-iv](https://github.com/sks-saurav/leetcode-submission/tree/master/0666-path-sum-iv) |
 | [0677-map-sum-pairs](https://github.com/sks-saurav/leetcode-submission/tree/master/0677-map-sum-pairs) |
@@ -752,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/sks-saurav/leetcode-submission/tree/master/0417-pacific-atlantic-water-flow) |
 | [0499-the-maze-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/0499-the-maze-iii) |
 | [0505-the-maze-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/0505-the-maze-ii) |
+| [0531-lonely-pixel-i](https://github.com/sks-saurav/leetcode-submission/tree/master/0531-lonely-pixel-i) |
 | [0542-01-matrix](https://github.com/sks-saurav/leetcode-submission/tree/master/0542-01-matrix) |
 | [0562-longest-line-of-consecutive-one-in-matrix](https://github.com/sks-saurav/leetcode-submission/tree/master/0562-longest-line-of-consecutive-one-in-matrix) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/sks-saurav/leetcode-submission/tree/master/0864-shortest-path-to-get-all-keys) |
