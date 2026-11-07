@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s](https://github.com/sks-saurav/leetcode-submission/tree/master/2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s) |
 | [2590-design-a-todo-list](https://github.com/sks-saurav/leetcode-submission/tree/master/2590-design-a-todo-list) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/sks-saurav/leetcode-submission/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2747-count-zero-request-servers](https://github.com/sks-saurav/leetcode-submission/tree/master/2747-count-zero-request-servers) |
 | [2836-maximize-value-of-function-in-a-ball-passing-game](https://github.com/sks-saurav/leetcode-submission/tree/master/2836-maximize-value-of-function-in-a-ball-passing-game) |
 | [2838-maximum-coins-heroes-can-collect](https://github.com/sks-saurav/leetcode-submission/tree/master/2838-maximum-coins-heroes-can-collect) |
 | [3453-separate-squares-i](https://github.com/sks-saurav/leetcode-submission/tree/master/3453-separate-squares-i) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2254-design-video-sharing-platform](https://github.com/sks-saurav/leetcode-submission/tree/master/2254-design-video-sharing-platform) |
 | [2502-design-memory-allocator](https://github.com/sks-saurav/leetcode-submission/tree/master/2502-design-memory-allocator) |
 | [2590-design-a-todo-list](https://github.com/sks-saurav/leetcode-submission/tree/master/2590-design-a-todo-list) |
+| [2747-count-zero-request-servers](https://github.com/sks-saurav/leetcode-submission/tree/master/2747-count-zero-request-servers) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [3408-design-task-manager](https://github.com/sks-saurav/leetcode-submission/tree/master/3408-design-task-manager) |
 | [3508-implement-router](https://github.com/sks-saurav/leetcode-submission/tree/master/3508-implement-router) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2345-finding-the-number-of-visible-mountains](https://github.com/sks-saurav/leetcode-submission/tree/master/2345-finding-the-number-of-visible-mountains) |
 | [2371-minimize-maximum-value-in-a-grid](https://github.com/sks-saurav/leetcode-submission/tree/master/2371-minimize-maximum-value-in-a-grid) |
 | [2590-design-a-todo-list](https://github.com/sks-saurav/leetcode-submission/tree/master/2590-design-a-todo-list) |
+| [2747-count-zero-request-servers](https://github.com/sks-saurav/leetcode-submission/tree/master/2747-count-zero-request-servers) |
 | [2838-maximum-coins-heroes-can-collect](https://github.com/sks-saurav/leetcode-submission/tree/master/2838-maximum-coins-heroes-can-collect) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sks-saurav/leetcode-submission/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Linked List
@@ -956,6 +959,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/sks-saurav/leetcode-submission/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sks-saurav/leetcode-submission/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sks-saurav/leetcode-submission/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2747-count-zero-request-servers](https://github.com/sks-saurav/leetcode-submission/tree/master/2747-count-zero-request-servers) |
 | [3135-equalize-strings-by-adding-or-removing-characters-at-ends](https://github.com/sks-saurav/leetcode-submission/tree/master/3135-equalize-strings-by-adding-or-removing-characters-at-ends) |
 ## Monotonic Stack
 |  |
