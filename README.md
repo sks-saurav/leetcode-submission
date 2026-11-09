@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2031-count-subarrays-with-more-ones-than-zeros](https://github.com/sks-saurav/leetcode-submission/tree/master/2031-count-subarrays-with-more-ones-than-zeros) |
 | [2104-sum-of-subarray-ranges](https://github.com/sks-saurav/leetcode-submission/tree/master/2104-sum-of-subarray-ranges) |
 | [2158-amount-of-new-area-painted-each-day](https://github.com/sks-saurav/leetcode-submission/tree/master/2158-amount-of-new-area-painted-each-day) |
+| [2184-number-of-ways-to-build-sturdy-brick-wall](https://github.com/sks-saurav/leetcode-submission/tree/master/2184-number-of-ways-to-build-sturdy-brick-wall) |
 | [2263-make-array-non-decreasing-or-non-increasing](https://github.com/sks-saurav/leetcode-submission/tree/master/2263-make-array-non-decreasing-or-non-increasing) |
 | [2277-closest-node-to-path-in-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/2277-closest-node-to-path-in-tree) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/sks-saurav/leetcode-submission/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/sks-saurav/leetcode-submission/tree/master/1510-stone-game-iv) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sks-saurav/leetcode-submission/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/sks-saurav/leetcode-submission/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [2184-number-of-ways-to-build-sturdy-brick-wall](https://github.com/sks-saurav/leetcode-submission/tree/master/2184-number-of-ways-to-build-sturdy-brick-wall) |
 | [2189-number-of-ways-to-build-house-of-cards](https://github.com/sks-saurav/leetcode-submission/tree/master/2189-number-of-ways-to-build-house-of-cards) |
 | [2263-make-array-non-decreasing-or-non-increasing](https://github.com/sks-saurav/leetcode-submission/tree/master/2263-make-array-non-decreasing-or-non-increasing) |
 | [2297-jump-game-viii](https://github.com/sks-saurav/leetcode-submission/tree/master/2297-jump-game-viii) |
@@ -889,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sks-saurav/leetcode-submission/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/sks-saurav/leetcode-submission/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1506-find-root-of-n-ary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/1506-find-root-of-n-ary-tree) |
+| [2184-number-of-ways-to-build-sturdy-brick-wall](https://github.com/sks-saurav/leetcode-submission/tree/master/2184-number-of-ways-to-build-sturdy-brick-wall) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2836-maximize-value-of-function-in-a-ball-passing-game](https://github.com/sks-saurav/leetcode-submission/tree/master/2836-maximize-value-of-function-in-a-ball-passing-game) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sks-saurav/leetcode-submission/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -1157,6 +1160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0465-optimal-account-balancing](https://github.com/sks-saurav/leetcode-submission/tree/master/0465-optimal-account-balancing) |
+| [2184-number-of-ways-to-build-sturdy-brick-wall](https://github.com/sks-saurav/leetcode-submission/tree/master/2184-number-of-ways-to-build-sturdy-brick-wall) |
 ## Quicksort
 |  |
 | ------- |
