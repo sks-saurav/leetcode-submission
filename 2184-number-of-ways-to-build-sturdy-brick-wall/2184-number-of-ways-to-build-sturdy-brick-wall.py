@@ -29,21 +29,35 @@ class Solution:
                     if i != j:
                         adj[j].append(i)
 
-        @cache
-        def count_ways(u: int, rem_height: int) -> int:
-            if rem_height == 1:
-                return 1
+        # @cache
+        # def count_ways(u: int, rem_height: int) -> int:
+        #     if rem_height == 1:
+        #         return 1
 
-            total = 0
-            for v in adj[u]:
-                total = (total + count_ways(v, rem_height - 1)) % MOD
-            return total
+        #     total = 0
+        #     for v in adj[u]:
+        #         total = (total + count_ways(v, rem_height - 1)) % MOD
+        #     return total
 
-        ans = 0
-        for i in range(n):
-            ans = (ans + count_ways(i, height)) % MOD
+        # ans = 0
+        # for i in range(n):
+        #     ans = (ans + count_ways(i, height)) % MOD
 
-        return ans
+        # return ans
+
+        dp = [1] * n
+
+        for _ in range(height - 1):
+            next_dp = [0] * n
+            for u in range(n):
+                ways = dp[u]
+                if not ways:
+                    continue
+                for v in adj[u]:
+                    next_dp[v] = (next_dp[v] + ways) % MOD
+            dp = next_dp
+
+        return sum(dp) % MOD
 
             
 
