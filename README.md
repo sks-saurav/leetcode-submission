@@ -617,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sks-saurav/leetcode-submission/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/sks-saurav/leetcode-submission/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1506-find-root-of-n-ary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/1506-find-root-of-n-ary-tree) |
+| [1644-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/1644-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [1660-correct-a-binary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/1660-correct-a-binary-tree) |
 | [1666-change-the-root-of-a-binary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/1666-change-the-root-of-a-binary-tree) |
 | [1724-checking-existence-of-edge-length-limited-paths-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/1724-checking-existence-of-edge-length-limited-paths-ii) |
@@ -747,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1376-time-needed-to-inform-all-employees](https://github.com/sks-saurav/leetcode-submission/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/sks-saurav/leetcode-submission/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1506-find-root-of-n-ary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/1506-find-root-of-n-ary-tree) |
+| [1644-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/1644-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1660-correct-a-binary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/1660-correct-a-binary-tree) |
 | [1666-change-the-root-of-a-binary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/1666-change-the-root-of-a-binary-tree) |
@@ -819,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0894-all-possible-full-binary-trees](https://github.com/sks-saurav/leetcode-submission/tree/master/0894-all-possible-full-binary-trees) |
 | [0968-binary-tree-cameras](https://github.com/sks-saurav/leetcode-submission/tree/master/0968-binary-tree-cameras) |
+| [1644-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/1644-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1660-correct-a-binary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/1660-correct-a-binary-tree) |
 | [1666-change-the-root-of-a-binary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/1666-change-the-root-of-a-binary-tree) |
@@ -1183,4 +1186,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/sks-saurav/leetcode-submission/tree/master/0056-merge-intervals) |
+## Binary Lifting
+|  |
+| ------- |
+| [1644-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/1644-lowest-common-ancestor-of-a-binary-tree-ii) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [1644-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/1644-lowest-common-ancestor-of-a-binary-tree-ii) |
 <!---LeetCode Topics End-->
