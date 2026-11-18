@@ -420,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1858-longest-word-with-all-prefixes](https://github.com/sks-saurav/leetcode-submission/tree/master/1858-longest-word-with-all-prefixes) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sks-saurav/leetcode-submission/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2590-design-a-todo-list](https://github.com/sks-saurav/leetcode-submission/tree/master/2590-design-a-todo-list) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/sks-saurav/leetcode-submission/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3135-equalize-strings-by-adding-or-removing-characters-at-ends](https://github.com/sks-saurav/leetcode-submission/tree/master/3135-equalize-strings-by-adding-or-removing-characters-at-ends) |
 | [3612-process-string-with-special-operations-i](https://github.com/sks-saurav/leetcode-submission/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/3614-process-string-with-special-operations-ii) |
