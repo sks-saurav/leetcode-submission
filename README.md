@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/sks-saurav/leetcode-submission/tree/master/2747-count-zero-request-servers) |
 | [2836-maximize-value-of-function-in-a-ball-passing-game](https://github.com/sks-saurav/leetcode-submission/tree/master/2836-maximize-value-of-function-in-a-ball-passing-game) |
 | [2838-maximum-coins-heroes-can-collect](https://github.com/sks-saurav/leetcode-submission/tree/master/2838-maximum-coins-heroes-can-collect) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/sks-saurav/leetcode-submission/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3453-separate-squares-i](https://github.com/sks-saurav/leetcode-submission/tree/master/3453-separate-squares-i) |
 | [3508-implement-router](https://github.com/sks-saurav/leetcode-submission/tree/master/3508-implement-router) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sks-saurav/leetcode-submission/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2361-minimum-costs-using-the-train-line](https://github.com/sks-saurav/leetcode-submission/tree/master/2361-minimum-costs-using-the-train-line) |
 | [2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s](https://github.com/sks-saurav/leetcode-submission/tree/master/2510-check-if-there-is-a-path-with-equal-number-of-0s-and-1s) |
 | [2836-maximize-value-of-function-in-a-ball-passing-game](https://github.com/sks-saurav/leetcode-submission/tree/master/2836-maximize-value-of-function-in-a-ball-passing-game) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/sks-saurav/leetcode-submission/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3135-equalize-strings-by-adding-or-removing-characters-at-ends](https://github.com/sks-saurav/leetcode-submission/tree/master/3135-equalize-strings-by-adding-or-removing-characters-at-ends) |
 | [3665-twisted-mirror-path-count](https://github.com/sks-saurav/leetcode-submission/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/3693-climbing-stairs-ii) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2590-design-a-todo-list](https://github.com/sks-saurav/leetcode-submission/tree/master/2590-design-a-todo-list) |
 | [2747-count-zero-request-servers](https://github.com/sks-saurav/leetcode-submission/tree/master/2747-count-zero-request-servers) |
 | [2838-maximum-coins-heroes-can-collect](https://github.com/sks-saurav/leetcode-submission/tree/master/2838-maximum-coins-heroes-can-collect) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/sks-saurav/leetcode-submission/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sks-saurav/leetcode-submission/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Linked List
 |  |
