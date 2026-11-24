@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0256-paint-house](https://github.com/sks-saurav/leetcode-submission/tree/master/0256-paint-house) |
 | [0269-alien-dictionary](https://github.com/sks-saurav/leetcode-submission/tree/master/0269-alien-dictionary) |
 | [0280-wiggle-sort](https://github.com/sks-saurav/leetcode-submission/tree/master/0280-wiggle-sort) |
+| [0304-range-sum-query-2d-immutable](https://github.com/sks-saurav/leetcode-submission/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/sks-saurav/leetcode-submission/tree/master/0307-range-sum-query-mutable) |
 | [0308-range-sum-query-2d-mutable](https://github.com/sks-saurav/leetcode-submission/tree/master/0308-range-sum-query-2d-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/sks-saurav/leetcode-submission/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -784,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/sks-saurav/leetcode-submission/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/sks-saurav/leetcode-submission/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/sks-saurav/leetcode-submission/tree/master/0221-maximal-square) |
+| [0304-range-sum-query-2d-immutable](https://github.com/sks-saurav/leetcode-submission/tree/master/0304-range-sum-query-2d-immutable) |
 | [0308-range-sum-query-2d-mutable](https://github.com/sks-saurav/leetcode-submission/tree/master/0308-range-sum-query-2d-mutable) |
 | [0361-bomb-enemy](https://github.com/sks-saurav/leetcode-submission/tree/master/0361-bomb-enemy) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sks-saurav/leetcode-submission/tree/master/0417-pacific-atlantic-water-flow) |
@@ -851,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/sks-saurav/leetcode-submission/tree/master/0304-range-sum-query-2d-immutable) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/sks-saurav/leetcode-submission/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0732-my-calendar-iii](https://github.com/sks-saurav/leetcode-submission/tree/master/0732-my-calendar-iii) |
 | [0813-largest-sum-of-averages](https://github.com/sks-saurav/leetcode-submission/tree/master/0813-largest-sum-of-averages) |
@@ -924,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sks-saurav/leetcode-submission/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sks-saurav/leetcode-submission/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0304-range-sum-query-2d-immutable](https://github.com/sks-saurav/leetcode-submission/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/sks-saurav/leetcode-submission/tree/master/0307-range-sum-query-mutable) |
 | [0308-range-sum-query-2d-mutable](https://github.com/sks-saurav/leetcode-submission/tree/master/0308-range-sum-query-2d-mutable) |
 | [0359-logger-rate-limiter](https://github.com/sks-saurav/leetcode-submission/tree/master/0359-logger-rate-limiter) |
