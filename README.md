@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3665-twisted-mirror-path-count](https://github.com/sks-saurav/leetcode-submission/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/3693-climbing-stairs-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sks-saurav/leetcode-submission/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/sks-saurav/leetcode-submission/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3665-twisted-mirror-path-count](https://github.com/sks-saurav/leetcode-submission/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/sks-saurav/leetcode-submission/tree/master/3693-climbing-stairs-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/sks-saurav/leetcode-submission/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/sks-saurav/leetcode-submission/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1708-largest-subarray-length-k](https://github.com/sks-saurav/leetcode-submission/tree/master/1708-largest-subarray-length-k) |
 | [2263-make-array-non-decreasing-or-non-increasing](https://github.com/sks-saurav/leetcode-submission/tree/master/2263-make-array-non-decreasing-or-non-increasing) |
 | [2340-minimum-adjacent-swaps-to-make-a-valid-array](https://github.com/sks-saurav/leetcode-submission/tree/master/2340-minimum-adjacent-swaps-to-make-a-valid-array) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/sks-saurav/leetcode-submission/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Sorting
 |  |
 | ------- |
